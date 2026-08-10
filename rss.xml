@@ -6,63 +6,56 @@
     <atom:link href="https://pyonline.github.io/xiaomi-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>每日自动聚合的小米（Xiaomi）最新新闻</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 09 Aug 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 00:00:00 +0800</lastBuildDate>
     <generator>xiaomi-news skill</generator>
     <item>
-      <title>小米 MIX Fold 5 曝光：更宽机身+自研芯片，运行 HyperOS 4</title>
-      <link>https://www.toutiao.com/article/7671816404043252247/</link>
-      <guid isPermaLink="true">https://www.toutiao.com/article/7671816404043252247/</guid>
+      <title>小米18 Pro 配置集体升级：2nm 新芯加持，预计 9 月正式发布</title>
+      <link>https://www.toutiao.com/article/7672010308751409687/</link>
+      <guid isPermaLink="true">https://www.toutiao.com/article/7672010308751409687/</guid>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0800</pubDate>
+      <description>今日头条：多方爆料称小米18 Pro将率先登场，改变以往标准版/Pro/Ultra同台亮相的节奏，对齐苹果优先推高端Pro版的打法。新机主打2nm新一代骁龙芯片、超大电池、全新影像架构、升级副屏交互与更强端侧AI，发布窗口锁定今年9月骁龙峰会前后。</description>
+    </item>
+    <item>
+      <title>小米Pad 9 爆料：9720mAh 巨量电池 + 11.2 英寸 3.2K LCD 护眼屏</title>
+      <link>https://www.toutiao.com/article/7672010778391806508/</link>
+      <guid isPermaLink="true">https://www.toutiao.com/article/7672010778391806508/</guid>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0800</pubDate>
+      <description>今日头条：最新3C认证与数码博主爆料显示，小米Pad 9核心硬件基本落定：9720mAh大容量电池搭配11.2英寸3.2K LCD高刷屏，未跟风OLED曲面路线，主打续航与护眼。型号M656BA已于7月17日通过国内3C安全认证。</description>
+    </item>
+    <item>
+      <title>原字节机器人负责人孔涛加盟小米，挂帅新成立的具身智能与应用部</title>
+      <link>https://finance.sina.com.cn/stock/estate/integration/2026-08-09/doc-inimtuei5408562.shtml</link>
+      <guid isPermaLink="true">https://finance.sina.com.cn/stock/estate/integration/2026-08-09/doc-inimtuei5408562.shtml</guid>
       <pubDate>Sun, 09 Aug 2026 00:00:00 +0800</pubDate>
-      <description>今日头条：微博博主曝光的宣传物料显示，小米下一代折叠屏 MIX Fold 5 采用更宽机身与大圆角内屏设计，搭载全新自研处理器，并运行即将推出的 HyperOS 4（软玻璃设计界面、堆叠小部件、重做的文件夹与设备中心）。</description>
+      <description>新浪财经：多方独立信源确认，原字节跳动机器人团队负责人孔涛已于2025年夏天加盟小米，任机器人基座模型团队负责人。小米机器人事业部新成立「具身智能与应用部」由其挂帅，收拢陈龙的VLA团队与蔡锐的机器人具身部，事业部约200人。此前小米机器人在汽车工厂自攻螺母上件工站的双侧作业成功率已由90.2%提升至98%。</description>
     </item>
     <item>
-      <title>小米汽车连续 4 个月站稳月销 3 万台，55 万年销目标完成 38.2%</title>
-      <link>https://www.163.com/dy/article/L3SI83ES05566SHJ.html</link>
-      <guid isPermaLink="true">https://www.163.com/dy/article/L3SI83ES05566SHJ.html</guid>
+      <title>高盛发布小米汽车研报：预测 2026 年交付 50 万辆，2028 年冲百万</title>
+      <link>https://www.sohu.com/a/1060725189_526255</link>
+      <guid isPermaLink="true">https://www.sohu.com/a/1060725189_526255</guid>
       <pubDate>Sun, 09 Aug 2026 00:00:00 +0800</pubDate>
-      <description>网易号：小米汽车自 4 月起连续 4 个月月交付站稳 3 万台，上半年累计交付超 18 万台，截至 7 月末全年累计接近 22 万台，雷军年初 55 万台目标完成率 38.2%。9 月上市的澎程 N90 Max（29.99 万预售）/N70 Max（25.99 万预售）被视为冲量关键。</description>
+      <description>搜狐 / 电动知家：高盛给出小米汽车未来三年交付预判：2026年50万辆、2027年77万辆、2028年103.6万辆。结构上SU7系列22.3万辆、YU7 15.9万辆，澎程N90交付5.3万辆、N70交付6.4万辆。挑战在于北京工厂年产能规划仅30万辆，且小米内部55万辆年目标下1—7月累计交付约22万辆，完成率不足五成。</description>
     </item>
     <item>
-      <title>小米汽车推送 OTA 1.17：SU7/YU7 全系新增画框泊车、车头泊入等功能</title>
-      <link>https://view.inews.qq.com/a/20260808A06IIT00</link>
-      <guid isPermaLink="true">https://view.inews.qq.com/a/20260808A06IIT00</guid>
+      <title>小米主力机型集体涨价：9 款机型上调 300—500 元，为年内第三轮</title>
+      <link>https://www.163.com/dy/article/L3PSEHTG0556BP69.html</link>
+      <guid isPermaLink="true">https://www.163.com/dy/article/L3PSEHTG0556BP69.html</guid>
       <pubDate>Sat, 08 Aug 2026 00:00:00 +0800</pubDate>
-      <description>IT之家：8 月 8 日，小米汽车面向第一代、第二代 SU7 及 YU7 全系分批推送 OTA 1.17，更新覆盖辅助驾驶与智能座舱，新增画框泊车、车头泊入、车尾泊出，以及 20kW 家充桩预约充电等能力。</description>
+      <description>网易号：8月2日起小米商城9款主力机型统一上调300至500元，REDMI Turbo 5从2299元涨至2599元，小米17 Pro Max从5999元涨至6499元，首次由中低端传导至旗舰。背景是存储芯片现货价近三个月累计上涨超300%，DRAM在2026年Q2已超越SoC成为旗舰机最贵单一元器件。</description>
     </item>
     <item>
-      <title>小米 SU7 高速遭飞胎击中车主昏迷，车辆自动减速靠边并拨打 120</title>
-      <link>https://view.inews.qq.com/a/20260808V0E9UD00</link>
-      <guid isPermaLink="true">https://view.inews.qq.com/a/20260808V0E9UD00</guid>
-      <pubDate>Sat, 08 Aug 2026 00:00:00 +0800</pubDate>
-      <description>陕视新闻：一位 SU7 车主以 110km/h 行驶时被对向货车脱落轮胎击中挡风玻璃昏迷，车辆自动减速靠边、断电解锁并拨打 120，半小时内获救。车主发文致谢，事件引发大量讨论。</description>
+      <title>小米澎程 N90 Max 爆胎测试被质疑 AI 生成，副总裁李肖爽发完整视频回应</title>
+      <link>https://view.inews.qq.com/a/20260807V0D5ML00</link>
+      <guid isPermaLink="true">https://view.inews.qq.com/a/20260807V0D5ML00</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0800</pubDate>
+      <description>财经网科技：针对澎程N90 Max 160km/h双轮爆胎测试被指为AI生成的质疑，小米副总裁李肖爽发布一镜到底完整视频证明为实拍，测试由CTO胡峥楠亲自驾驶、满载561公斤完成。</description>
     </item>
     <item>
-      <title>雷军重申小米澎程系列 9 月上市：3 年半前立项，累计测试 428 万公里</title>
-      <link>https://view.inews.qq.com/a/20260808A097F200</link>
-      <guid isPermaLink="true">https://view.inews.qq.com/a/20260808A097F200</guid>
-      <pubDate>Sat, 08 Aug 2026 00:00:00 +0800</pubDate>
-      <description>IT之家：雷军 8 月 8 日发文重申，小米澎程系列 3 年半前立项、2 年前开始路测，将于 9 月正式上市。该系列 7 月 30 日首秀 N90 Max 与 N70 Max 两款增程 SUV，累计测试里程 428 万公里。</description>
-    </item>
-    <item>
-      <title>雷军：小米澎程 N90 Max 支持最高 750mm 涉水深度</title>
-      <link>https://view.inews.qq.com/a/20260808V067Y600</link>
-      <guid isPermaLink="true">https://view.inews.qq.com/a/20260808V067Y600</guid>
-      <pubDate>Sat, 08 Aug 2026 00:00:00 +0800</pubDate>
-      <description>星视频：雷军 8 月 8 日呼吁用户关注汽车涉水能力，并透露小米澎程 N90 Max 支持最高 750mm 涉水深度，引发对增程 SUV 实际使用场景适配的讨论。</description>
-    </item>
-    <item>
-      <title>小米一年市值蒸发超万亿港元，汽车烧钱与手机业务承压引关注</title>
-      <link>https://view.inews.qq.com/a/20260808A0BGCS00</link>
-      <guid isPermaLink="true">https://view.inews.qq.com/a/20260808A0BGCS00</guid>
-      <pubDate>Sat, 08 Aug 2026 00:00:00 +0800</pubDate>
-      <description>腾讯新闻：8 月 8 日分析文章指出，小米市值从 2025 年 6 月近 1.6 万亿港元跌至 2026 年 7 月不足 6000 亿港元，一年蒸发超万亿；汽车业务持续投入、手机业务承压与 AI 投入被视为当前三条主战线。</description>
-    </item>
-    <item>
-      <title>四款轿跑 SUV 8-9 月扎堆上市，直接对标小米 YU7</title>
-      <link>https://view.inews.qq.com/a/20260808A0B5W700</link>
-      <guid isPermaLink="true">https://view.inews.qq.com/a/20260808A0B5W700</guid>
-      <pubDate>Sat, 08 Aug 2026 00:00:00 +0800</pubDate>
-      <description>车主指南：8 月 8 日消息，岚图追光 S 等四款轿跑 SUV 将在 8-9 月上市，多数配备华为智驾，直接对标小米 YU7；不过上半年自主高端轿跑月销多不足千台，实际竞争效果待观察。</description>
+      <title>小米 YU7 一年车龄保值率 82.8% 登顶纯电榜，小米汽车累计交付超 70 万台</title>
+      <link>https://view.inews.qq.com/a/20260807A05WY800</link>
+      <guid isPermaLink="true">https://view.inews.qq.com/a/20260807A05WY800</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0800</pubDate>
+      <description>三言科技：雷军援引中国汽车流通协会与精真估报告：7月小米YU7以82.8%的一年车龄保值率位居纯电车型榜首，SU7以75.3%居纯电轿车第一。小米汽车累计交付已突破70万台。</description>
     </item>
   </channel>
 </rss>
