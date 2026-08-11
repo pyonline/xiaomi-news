@@ -6,56 +6,49 @@
     <atom:link href="https://pyonline.github.io/xiaomi-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>每日自动聚合的小米（Xiaomi）最新新闻</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 10 Aug 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 00:00:00 +0800</lastBuildDate>
     <generator>xiaomi-news skill</generator>
     <item>
-      <title>小米18 Pro 配置集体升级：2nm 新芯加持，预计 9 月正式发布</title>
-      <link>https://www.toutiao.com/article/7672010308751409687/</link>
-      <guid isPermaLink="true">https://www.toutiao.com/article/7672010308751409687/</guid>
+      <title>REDMI K100 Pro 双旗舰今晚 7 点发布：跳过标准版，Pro 预计 3999 元起</title>
+      <link>https://t.cj.sina.com.cn/articles/view/7880069125/1d5b0500506801ttdc</link>
+      <guid isPermaLink="true">https://t.cj.sina.com.cn/articles/view/7880069125/1d5b0500506801ttdc</guid>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0800</pubDate>
+      <description>新浪科技：REDMI K100 Pro 系列发布会定于 8 月 11 日 19:00 举行，仅推出 K100 Pro 与 K100 Pro Max，标准版延后。两款均搭载第五代骁龙 8 至尊版、185Hz 高刷屏与 8500mAh 以上大电池；Pro Max 独享 5 倍潜望长焦与约 9070mAh 电池。受存储芯片涨价影响，Pro 起售价预计上探至 3999 元档。</description>
+    </item>
+    <item>
+      <title>消息称小米下月芯片系统齐发：自研 3nm 芯片 + 澎湃 OS4，流畅度提升约 40%</title>
+      <link>https://www.163.com/dy/article/L40ABDVA05118A8G.html</link>
+      <guid isPermaLink="true">https://www.163.com/dy/article/L40ABDVA05118A8G.html</guid>
       <pubDate>Mon, 10 Aug 2026 00:00:00 +0800</pubDate>
-      <description>今日头条：多方爆料称小米18 Pro将率先登场，改变以往标准版/Pro/Ultra同台亮相的节奏，对齐苹果优先推高端Pro版的打法。新机主打2nm新一代骁龙芯片、超大电池、全新影像架构、升级副屏交互与更强端侧AI，发布窗口锁定今年9月骁龙峰会前后。</description>
+      <description>PChome 电脑之家：多家媒体爆料，小米将于下月推出自研 3nm 旗舰处理器并同步推送澎湃 OS4。新系统以 Rust 重构核心模块，引入“液态玻璃”视觉语言，小组件可纵向堆叠、文件夹尺寸可调；内部实测基础流畅度提升约 40%，后台保活率提高 35%，空闲内存占用下降 25%–30%。首发机型大概率为新折叠屏旗舰。</description>
     </item>
     <item>
-      <title>小米Pad 9 爆料：9720mAh 巨量电池 + 11.2 英寸 3.2K LCD 护眼屏</title>
-      <link>https://www.toutiao.com/article/7672010778391806508/</link>
-      <guid isPermaLink="true">https://www.toutiao.com/article/7672010778391806508/</guid>
+      <title>小米 2027 届全球校园招聘启动：AI 相关岗位需求同比增长 50%</title>
+      <link>https://new.qq.com/rain/a/20260810A063B500?refer=cp_1009</link>
+      <guid isPermaLink="true">https://new.qq.com/rain/a/20260810A063B500?refer=cp_1009</guid>
       <pubDate>Mon, 10 Aug 2026 00:00:00 +0800</pubDate>
-      <description>今日头条：最新3C认证与数码博主爆料显示，小米Pad 9核心硬件基本落定：9720mAh大容量电池搭配11.2英寸3.2K LCD高刷屏，未跟风OLED曲面路线，主打续航与护眼。型号M656BA已于7月17日通过国内3C安全认证。</description>
+      <description>凤凰网科技：8 月 10 日小米启动 2027 届全球校招，面向 2026 年 9 月至 2027 年 8 月毕业的海内外应届生，网申截止 12 月 31 日。开放 17+ 职类，产研类岗位占比 70%，AI 相关岗位需求同比增长 50%，覆盖 Xiaomi MiMo、Xiaomi-Robotics-1、CyberOne 等方向，工作地含北京、上海、深圳及慕尼黑等海外城市。</description>
     </item>
     <item>
-      <title>原字节机器人负责人孔涛加盟小米，挂帅新成立的具身智能与应用部</title>
-      <link>https://finance.sina.com.cn/stock/estate/integration/2026-08-09/doc-inimtuei5408562.shtml</link>
-      <guid isPermaLink="true">https://finance.sina.com.cn/stock/estate/integration/2026-08-09/doc-inimtuei5408562.shtml</guid>
+      <title>实探多家小米汽车门店：澎程 N90 抢着问、N70 少人看</title>
+      <link>https://wap.eastmoney.com/a/202608103836860948.html</link>
+      <guid isPermaLink="true">https://wap.eastmoney.com/a/202608103836860948.html</guid>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0800</pubDate>
+      <description>国际金融报：记者走访上海、苏州、东阳等地小米汽车门店，澎程系列预售初期出现明显温差：咨询七座 N90 Max（预售 29.99 万元）的消费者更多，五座 N70 Max（25.99 万元）需求相对较小。门店反馈订单“稳步上升”但不及去年火爆，交付周期待 9 月上市后视产能而定。行业层面增程车上半年批发销量同比下滑 13.1%。</description>
+    </item>
+    <item>
+      <title>小米回应海外空调“精致安装”能否引入国内：已发起调研</title>
+      <link>https://www.163.com/dy/article/L40H6U2T051191D6.html</link>
+      <guid isPermaLink="true">https://www.163.com/dy/article/L40H6U2T051191D6.html</guid>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0800</pubDate>
+      <description>CNMO 科技：小米集团大家电部总经理单联瑜就网友热议的海外空调管道加装保护套管“精致安装”发起调研。他表示该方式更美观并可减少管线磕碰、老化风险，但会增加材料与工时成本，将仔细论证业务模式；同时征集用户对是否愿意额外付费及可接受价格的意见。</description>
+    </item>
+    <item>
+      <title>小米澎程 N90 Max 智能电动门公布：6 种开启、7 种关闭方式</title>
+      <link>https://view.inews.qq.com/a/20260809A03BLF00</link>
+      <guid isPermaLink="true">https://view.inews.qq.com/a/20260809A03BLF00</guid>
       <pubDate>Sun, 09 Aug 2026 00:00:00 +0800</pubDate>
-      <description>新浪财经：多方独立信源确认，原字节跳动机器人团队负责人孔涛已于2025年夏天加盟小米，任机器人基座模型团队负责人。小米机器人事业部新成立「具身智能与应用部」由其挂帅，收拢陈龙的VLA团队与蔡锐的机器人具身部，事业部约200人。此前小米机器人在汽车工厂自攻螺母上件工站的双侧作业成功率已由90.2%提升至98%。</description>
-    </item>
-    <item>
-      <title>高盛发布小米汽车研报：预测 2026 年交付 50 万辆，2028 年冲百万</title>
-      <link>https://www.sohu.com/a/1060725189_526255</link>
-      <guid isPermaLink="true">https://www.sohu.com/a/1060725189_526255</guid>
-      <pubDate>Sun, 09 Aug 2026 00:00:00 +0800</pubDate>
-      <description>搜狐 / 电动知家：高盛给出小米汽车未来三年交付预判：2026年50万辆、2027年77万辆、2028年103.6万辆。结构上SU7系列22.3万辆、YU7 15.9万辆，澎程N90交付5.3万辆、N70交付6.4万辆。挑战在于北京工厂年产能规划仅30万辆，且小米内部55万辆年目标下1—7月累计交付约22万辆，完成率不足五成。</description>
-    </item>
-    <item>
-      <title>小米主力机型集体涨价：9 款机型上调 300—500 元，为年内第三轮</title>
-      <link>https://www.163.com/dy/article/L3PSEHTG0556BP69.html</link>
-      <guid isPermaLink="true">https://www.163.com/dy/article/L3PSEHTG0556BP69.html</guid>
-      <pubDate>Sat, 08 Aug 2026 00:00:00 +0800</pubDate>
-      <description>网易号：8月2日起小米商城9款主力机型统一上调300至500元，REDMI Turbo 5从2299元涨至2599元，小米17 Pro Max从5999元涨至6499元，首次由中低端传导至旗舰。背景是存储芯片现货价近三个月累计上涨超300%，DRAM在2026年Q2已超越SoC成为旗舰机最贵单一元器件。</description>
-    </item>
-    <item>
-      <title>小米澎程 N90 Max 爆胎测试被质疑 AI 生成，副总裁李肖爽发完整视频回应</title>
-      <link>https://view.inews.qq.com/a/20260807V0D5ML00</link>
-      <guid isPermaLink="true">https://view.inews.qq.com/a/20260807V0D5ML00</guid>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 +0800</pubDate>
-      <description>财经网科技：针对澎程N90 Max 160km/h双轮爆胎测试被指为AI生成的质疑，小米副总裁李肖爽发布一镜到底完整视频证明为实拍，测试由CTO胡峥楠亲自驾驶、满载561公斤完成。</description>
-    </item>
-    <item>
-      <title>小米 YU7 一年车龄保值率 82.8% 登顶纯电榜，小米汽车累计交付超 70 万台</title>
-      <link>https://view.inews.qq.com/a/20260807A05WY800</link>
-      <guid isPermaLink="true">https://view.inews.qq.com/a/20260807A05WY800</guid>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 +0800</pubDate>
-      <description>三言科技：雷军援引中国汽车流通协会与精真估报告：7月小米YU7以82.8%的一年车龄保值率位居纯电车型榜首，SU7以75.3%居纯电轿车第一。小米汽车累计交付已突破70万台。</description>
+      <description>IT之家：小米汽车答网友问详解澎程车门设计：N90 Max 四门可选智能电动门，提供 6 种开启与 7 种关闭方式，配备开门杀预警与避障能力，融合 9 摄像头等多传感器感知。</description>
     </item>
   </channel>
 </rss>
