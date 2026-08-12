@@ -6,49 +6,42 @@
     <atom:link href="https://pyonline.github.io/xiaomi-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>每日自动聚合的小米（Xiaomi）最新新闻</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 11 Aug 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 00:00:00 +0800</lastBuildDate>
     <generator>xiaomi-news skill</generator>
     <item>
-      <title>REDMI K100 Pro 双旗舰今晚 7 点发布：跳过标准版，Pro 预计 3999 元起</title>
-      <link>https://t.cj.sina.com.cn/articles/view/7880069125/1d5b0500506801ttdc</link>
-      <guid isPermaLink="true">https://t.cj.sina.com.cn/articles/view/7880069125/1d5b0500506801ttdc</guid>
+      <title>雷军回应小米自研发光材料突破：国内首家、全球第三，绿色发光效率提升20%</title>
+      <link>https://www.163.com/dy/article/L448PT9G0511CPVM.html</link>
+      <guid isPermaLink="true">https://www.163.com/dy/article/L448PT9G0511CPVM.html</guid>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0800</pubDate>
+      <description>快科技：8月12日早间，雷军发文称小米已成为国内首家、全球第三家能从发光材料层自研的手机厂商，去年自研红色主材、今年突破绿色主材，形成完整RGB发光材料体系。核心第四代pTSF技术由小米联合清华团队历时两年多攻关并实现工程量产，首发搭载REDMI K100 Pro系列；绿色像素发光效率提升约20%，屏幕寿命提升超50%，标志国产OLED显示技术迈入无损像素时代。</description>
+    </item>
+    <item>
+      <title>小米SU7/YU7分获杰兰路2026上半年NPS净推荐值双冠</title>
+      <link>https://k.sina.com.cn/article_7879923516_1d5ae173c068090x3s.html</link>
+      <guid isPermaLink="true">https://k.sina.com.cn/article_7879923516_1d5ae173c068090x3s.html</guid>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0800</pubDate>
+      <description>杰兰路 / 新浪科技：杰兰路2026上半年净推荐值（NPS）榜单显示，小米SU7与YU7分别拿下中大型轿车与中大型SUV两个细分市场第一；同时J.D. Power同期“产品魅力指数”与“新车质量研究”中两款车亦包揽各自细分市场双料冠军。SU7上半年累计零售超8万辆，YU7突破10万辆。</description>
+    </item>
+    <item>
+      <title>雷军离岸信托“补税”传闻获财新澄清</title>
+      <link>https://new.qq.com/rain/a/20260812A03FU300?refer=cp_1009</link>
+      <guid isPermaLink="true">https://new.qq.com/rain/a/20260812A03FU300?refer=cp_1009</guid>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0800</pubDate>
+      <description>腾讯新闻 / 财新：针对网传雷军因离岸信托面临高额“补税”的传闻，财新予以澄清。相关测算（雷军潜在税单约500亿元量级）系市场基于财政部、税务总局2026年第21号公告所作情景推测，非官方核定数字；目前无公开信息显示相关当事人已被立案或收到正式税单。雷军近两日集中回应的主线仍为自研发光材料与汽车销量表现。</description>
+    </item>
+    <item>
+      <title>小米7月销量首超理想与特斯拉：零售31267辆跻身月销2万俱乐部</title>
+      <link>https://new.qq.com/rain/a/20260811A0BNL200?refer=cp_1009</link>
+      <guid isPermaLink="true">https://new.qq.com/rain/a/20260811A0BNL200?refer=cp_1009</guid>
       <pubDate>Tue, 11 Aug 2026 00:00:00 +0800</pubDate>
-      <description>新浪科技：REDMI K100 Pro 系列发布会定于 8 月 11 日 19:00 举行，仅推出 K100 Pro 与 K100 Pro Max，标准版延后。两款均搭载第五代骁龙 8 至尊版、185Hz 高刷屏与 8500mAh 以上大电池；Pro Max 独享 5 倍潜望长焦与约 9070mAh 电池。受存储芯片涨价影响，Pro 起售价预计上探至 3999 元档。</description>
+      <description>大河报 / 乘联分会：乘联分会数据显示，7月新能源乘用车零售95.1万辆、渗透率65.1%。小米汽车零售31267辆，首次同时超越理想汽车30468辆与特斯拉中国27249辆，跻身月销2万辆俱乐部；其中SU7单车型21044辆居国产中高端轿车第一，YU7为10223辆，环比有所下滑，增长压力转向即将上市的澎程N系列SUV。</description>
     </item>
     <item>
-      <title>消息称小米下月芯片系统齐发：自研 3nm 芯片 + 澎湃 OS4，流畅度提升约 40%</title>
-      <link>https://www.163.com/dy/article/L40ABDVA05118A8G.html</link>
-      <guid isPermaLink="true">https://www.163.com/dy/article/L40ABDVA05118A8G.html</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0800</pubDate>
-      <description>PChome 电脑之家：多家媒体爆料，小米将于下月推出自研 3nm 旗舰处理器并同步推送澎湃 OS4。新系统以 Rust 重构核心模块，引入“液态玻璃”视觉语言，小组件可纵向堆叠、文件夹尺寸可调；内部实测基础流畅度提升约 40%，后台保活率提高 35%，空闲内存占用下降 25%–30%。首发机型大概率为新折叠屏旗舰。</description>
-    </item>
-    <item>
-      <title>小米 2027 届全球校园招聘启动：AI 相关岗位需求同比增长 50%</title>
-      <link>https://new.qq.com/rain/a/20260810A063B500?refer=cp_1009</link>
-      <guid isPermaLink="true">https://new.qq.com/rain/a/20260810A063B500?refer=cp_1009</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0800</pubDate>
-      <description>凤凰网科技：8 月 10 日小米启动 2027 届全球校招，面向 2026 年 9 月至 2027 年 8 月毕业的海内外应届生，网申截止 12 月 31 日。开放 17+ 职类，产研类岗位占比 70%，AI 相关岗位需求同比增长 50%，覆盖 Xiaomi MiMo、Xiaomi-Robotics-1、CyberOne 等方向，工作地含北京、上海、深圳及慕尼黑等海外城市。</description>
-    </item>
-    <item>
-      <title>实探多家小米汽车门店：澎程 N90 抢着问、N70 少人看</title>
-      <link>https://wap.eastmoney.com/a/202608103836860948.html</link>
-      <guid isPermaLink="true">https://wap.eastmoney.com/a/202608103836860948.html</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0800</pubDate>
-      <description>国际金融报：记者走访上海、苏州、东阳等地小米汽车门店，澎程系列预售初期出现明显温差：咨询七座 N90 Max（预售 29.99 万元）的消费者更多，五座 N70 Max（25.99 万元）需求相对较小。门店反馈订单“稳步上升”但不及去年火爆，交付周期待 9 月上市后视产能而定。行业层面增程车上半年批发销量同比下滑 13.1%。</description>
-    </item>
-    <item>
-      <title>小米回应海外空调“精致安装”能否引入国内：已发起调研</title>
-      <link>https://www.163.com/dy/article/L40H6U2T051191D6.html</link>
-      <guid isPermaLink="true">https://www.163.com/dy/article/L40H6U2T051191D6.html</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0800</pubDate>
-      <description>CNMO 科技：小米集团大家电部总经理单联瑜就网友热议的海外空调管道加装保护套管“精致安装”发起调研。他表示该方式更美观并可减少管线磕碰、老化风险，但会增加材料与工时成本，将仔细论证业务模式；同时征集用户对是否愿意额外付费及可接受价格的意见。</description>
-    </item>
-    <item>
-      <title>小米澎程 N90 Max 智能电动门公布：6 种开启、7 种关闭方式</title>
-      <link>https://view.inews.qq.com/a/20260809A03BLF00</link>
-      <guid isPermaLink="true">https://view.inews.qq.com/a/20260809A03BLF00</guid>
-      <pubDate>Sun, 09 Aug 2026 00:00:00 +0800</pubDate>
-      <description>IT之家：小米汽车答网友问详解澎程车门设计：N90 Max 四门可选智能电动门，提供 6 种开启与 7 种关闭方式，配备开门杀预警与避障能力，融合 9 摄像头等多传感器感知。</description>
+      <title>小米澎程系列小订火热，预售订单或超10万辆，规模化硬仗刚开始</title>
+      <link>https://www.163.com/dy/article/L42EBS510534A4SC.html</link>
+      <guid isPermaLink="true">https://www.163.com/dy/article/L42EBS510534A4SC.html</guid>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0800</pubDate>
+      <description>界面新闻：界面新闻实地走访北京、上海等地小米汽车展厅发现，澎程N90（七座）更受家庭客群关注、N70（五座）咨询相对较少。据车fans数据，澎程展车进店72小时门店客流较此前增长约300%，均店新增订单130-150辆；财联社称预售订单或超10万辆，但官方尚未公布全国小订数据。2026上半年小米汽车累计交付18.51万辆，仅完成55万辆年度目标约三分之一。</description>
     </item>
   </channel>
 </rss>
