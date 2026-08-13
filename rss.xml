@@ -6,42 +6,56 @@
     <atom:link href="https://pyonline.github.io/xiaomi-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>每日自动聚合的小米（Xiaomi）最新新闻</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 12 Aug 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 00:00:00 +0800</lastBuildDate>
     <generator>xiaomi-news skill</generator>
     <item>
-      <title>雷军回应小米自研发光材料突破：国内首家、全球第三，绿色发光效率提升20%</title>
-      <link>https://www.163.com/dy/article/L448PT9G0511CPVM.html</link>
-      <guid isPermaLink="true">https://www.163.com/dy/article/L448PT9G0511CPVM.html</guid>
+      <title>小米8月12日回购190万股B类股份，耗资约4990万港元</title>
+      <link>https://view.inews.qq.com/a/20260812A0BEVI00</link>
+      <guid isPermaLink="true">https://view.inews.qq.com/a/20260812A0BEVI00</guid>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0800</pubDate>
-      <description>快科技：8月12日早间，雷军发文称小米已成为国内首家、全球第三家能从发光材料层自研的手机厂商，去年自研红色主材、今年突破绿色主材，形成完整RGB发光材料体系。核心第四代pTSF技术由小米联合清华团队历时两年多攻关并实现工程量产，首发搭载REDMI K100 Pro系列；绿色像素发光效率提升约20%，屏幕寿命提升超50%，标志国产OLED显示技术迈入无损像素时代。</description>
+      <description>每日经济新闻：8月12日，小米集团以约4990万港元回购190万股B类股份，回购价格每股26.26至26.34港元，延续近期港股持续回购动作以稳定市场信心。</description>
     </item>
     <item>
-      <title>小米SU7/YU7分获杰兰路2026上半年NPS净推荐值双冠</title>
-      <link>https://k.sina.com.cn/article_7879923516_1d5ae173c068090x3s.html</link>
-      <guid isPermaLink="true">https://k.sina.com.cn/article_7879923516_1d5ae173c068090x3s.html</guid>
+      <title>小米入股换电企业浙江星利行，持股23.08%引发补能路线反转争议</title>
+      <link>https://new.qq.com/rain/a/20260813A03UD800</link>
+      <guid isPermaLink="true">https://new.qq.com/rain/a/20260813A03UD800</guid>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0800</pubDate>
-      <description>杰兰路 / 新浪科技：杰兰路2026上半年净推荐值（NPS）榜单显示，小米SU7与YU7分别拿下中大型轿车与中大型SUV两个细分市场第一；同时J.D. Power同期“产品魅力指数”与“新车质量研究”中两款车亦包揽各自细分市场双料冠军。SU7上半年累计零售超8万辆，YU7突破10万辆。</description>
+      <description>中国汽车报 / 腾讯新闻：8月12日工商变更显示，小米旗下瀚星创投认缴3000万元入股浙江星利行，持股23.08%涉足换电销售。这与雷军此前“不建换电站”的表态形成反转，引发补能路线讨论。</description>
     </item>
     <item>
-      <title>雷军离岸信托“补税”传闻获财新澄清</title>
-      <link>https://new.qq.com/rain/a/20260812A03FU300?refer=cp_1009</link>
-      <guid isPermaLink="true">https://new.qq.com/rain/a/20260812A03FU300?refer=cp_1009</guid>
+      <title>雷军晒澎程N90 Max碰撞测试：66种被动安全测试、175次实车碰撞</title>
+      <link>https://view.inews.qq.com/a/20260812A0A7H400</link>
+      <guid isPermaLink="true">https://view.inews.qq.com/a/20260812A0A7H400</guid>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0800</pubDate>
-      <description>腾讯新闻 / 财新：针对网传雷军因离岸信托面临高额“补税”的传闻，财新予以澄清。相关测算（雷军潜在税单约500亿元量级）系市场基于财政部、税务总局2026年第21号公告所作情景推测，非官方核定数字；目前无公开信息显示相关当事人已被立案或收到正式税单。雷军近两日集中回应的主线仍为自研发光材料与汽车销量表现。</description>
+      <description>鞭牛士：8月12日雷军发布小米澎程N90 Max全车多方位碰撞测试视频，称标准远超行业常规门槛。该车完成66种被动安全开发测试、175次实车碰撞及23万次仿真模拟，强调安全余量充足。</description>
     </item>
     <item>
-      <title>小米7月销量首超理想与特斯拉：零售31267辆跻身月销2万俱乐部</title>
-      <link>https://new.qq.com/rain/a/20260811A0BNL200?refer=cp_1009</link>
-      <guid isPermaLink="true">https://new.qq.com/rain/a/20260811A0BNL200?refer=cp_1009</guid>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0800</pubDate>
-      <description>大河报 / 乘联分会：乘联分会数据显示，7月新能源乘用车零售95.1万辆、渗透率65.1%。小米汽车零售31267辆，首次同时超越理想汽车30468辆与特斯拉中国27249辆，跻身月销2万辆俱乐部；其中SU7单车型21044辆居国产中高端轿车第一，YU7为10223辆，环比有所下滑，增长压力转向即将上市的澎程N系列SUV。</description>
+      <title>小米蓝牙音箱磁吸版发布：音箱与支架二合一，众筹价132元</title>
+      <link>https://view.inews.qq.com/a/20260812A04V9900</link>
+      <guid isPermaLink="true">https://view.inews.qq.com/a/20260812A04V9900</guid>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0800</pubDate>
+      <description>IT之家：8月12日小米推出蓝牙音箱磁吸版，融合音箱与手机支架，重约95g，适配MagSafe，零售价199元、众筹价132元，8月19日开启众筹。</description>
     </item>
     <item>
-      <title>小米澎程系列小订火热，预售订单或超10万辆，规模化硬仗刚开始</title>
-      <link>https://www.163.com/dy/article/L42EBS510534A4SC.html</link>
-      <guid isPermaLink="true">https://www.163.com/dy/article/L42EBS510534A4SC.html</guid>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0800</pubDate>
-      <description>界面新闻：界面新闻实地走访北京、上海等地小米汽车展厅发现，澎程N90（七座）更受家庭客群关注、N70（五座）咨询相对较少。据车fans数据，澎程展车进店72小时门店客流较此前增长约300%，均店新增订单130-150辆；财联社称预售订单或超10万辆，但官方尚未公布全国小订数据。2026上半年小米汽车累计交付18.51万辆，仅完成55万辆年度目标约三分之一。</description>
+      <title>小米推台风受损产品免费维修，雷军宣布汽车台风免费救援</title>
+      <link>https://view.inews.qq.com/a/20260812A081ST00</link>
+      <guid isPermaLink="true">https://view.inews.qq.com/a/20260812A081ST00</guid>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0800</pubDate>
+      <description>IT时代网：8月12日小米服务宣布，因台风损坏的小米手机、家电等产品可享免费检测、清洁与维修，受理期至8月23日，覆盖多省市预警区域；雷军同期宣布预警城市小米车主可享24小时免费道路救援、免费涉水检查及还车到家，应对台风白海豚影响。</description>
+    </item>
+    <item>
+      <title>SU7 Ultra“纽北特调车”谣言澄清：莲花工程致歉，CEO回应车归小米</title>
+      <link>https://view.inews.qq.com/a/20260812A0AVPP00</link>
+      <guid isPermaLink="true">https://view.inews.qq.com/a/20260812A0AVPP00</guid>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0800</pubDate>
+      <description>三言科技：因莲花工程官网案例配图SU7 Ultra，博主“纽北之家”称其为莲花特调车，后致歉删文；8月13日莲花CEO回应工程确参与调校但车归小米，事件平息。</description>
+    </item>
+    <item>
+      <title>小米公布澎程N90 Max车内休憩方案：三种睡卧模式，需P挡使用</title>
+      <link>https://new.qq.com/rain/a/20260813A02ZTZ00</link>
+      <guid isPermaLink="true">https://new.qq.com/rain/a/20260813A02ZTZ00</guid>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0800</pubDate>
+      <description>小米汽车 / 腾讯新闻：8月12日小米汽车答网友问第275集给出N90 Max三种车内睡卧方案，含二排零重力座椅与三排大床，需P挡使用，覆盖午休至深度睡眠需求。</description>
     </item>
   </channel>
 </rss>
