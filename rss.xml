@@ -6,56 +6,77 @@
     <atom:link href="https://pyonline.github.io/xiaomi-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>每日自动聚合的小米（Xiaomi）最新新闻</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 13 Aug 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 00:00:00 +0800</lastBuildDate>
     <generator>xiaomi-news skill</generator>
     <item>
-      <title>小米8月12日回购190万股B类股份，耗资约4990万港元</title>
-      <link>https://view.inews.qq.com/a/20260812A0BEVI00</link>
-      <guid isPermaLink="true">https://view.inews.qq.com/a/20260812A0BEVI00</guid>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0800</pubDate>
-      <description>每日经济新闻：8月12日，小米集团以约4990万港元回购190万股B类股份，回购价格每股26.26至26.34港元，延续近期港股持续回购动作以稳定市场信心。</description>
+      <title>小米18标准版延至明年初发布，Pro/Pro Max定档9月配妙享背屏</title>
+      <link>https://view.inews.qq.com/a/20260816A02BML00</link>
+      <guid isPermaLink="true">https://view.inews.qq.com/a/20260816A02BML00</guid>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 +0800</pubDate>
+      <description>IT时代网：8月16日海外爆料称小米18系列分两批发布，标准版排期至2026年12月/2027年初，Pro与Pro Max于9月发布且配妙享背屏，标准版无背屏。</description>
     </item>
     <item>
-      <title>小米入股换电企业浙江星利行，持股23.08%引发补能路线反转争议</title>
-      <link>https://new.qq.com/rain/a/20260813A03UD800</link>
-      <guid isPermaLink="true">https://new.qq.com/rain/a/20260813A03UD800</guid>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0800</pubDate>
-      <description>中国汽车报 / 腾讯新闻：8月12日工商变更显示，小米旗下瀚星创投认缴3000万元入股浙江星利行，持股23.08%涉足换电销售。这与雷军此前“不建换电站”的表态形成反转，引发补能路线讨论。</description>
+      <title>小米汽车答网友问详解澎程安全：龙甲电池55℃热安全测试、12个安全气囊</title>
+      <link>https://view.inews.qq.com/a/20260816A03VXV00</link>
+      <guid isPermaLink="true">https://view.inews.qq.com/a/20260816A03VXV00</guid>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 +0800</pubDate>
+      <description>IT之家：8月16日小米汽车发布第278集答网友问，针对澎程龙甲电池55℃高温满电热安全测试、N90 Max的12个安全气囊及全系标配9个碰撞传感器等设计逻辑集中解答。</description>
     </item>
     <item>
-      <title>雷军晒澎程N90 Max碰撞测试：66种被动安全测试、175次实车碰撞</title>
-      <link>https://view.inews.qq.com/a/20260812A0A7H400</link>
-      <guid isPermaLink="true">https://view.inews.qq.com/a/20260812A0A7H400</guid>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0800</pubDate>
-      <description>鞭牛士：8月12日雷军发布小米澎程N90 Max全车多方位碰撞测试视频，称标准远超行业常规门槛。该车完成66种被动安全开发测试、175次实车碰撞及23万次仿真模拟，强调安全余量充足。</description>
+      <title>岚图追光S上市对标小米YU7，20万-30万纯电SUV竞争白热化</title>
+      <link>https://view.inews.qq.com/a/20260816A05H3000</link>
+      <guid isPermaLink="true">https://view.inews.qq.com/a/20260816A05H3000</guid>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 +0800</pubDate>
+      <description>财闻：8月15日岚图追光S正式上市，限时22.39万元起，定位中大型纯电SUV并强调智驾与安全性，多家媒体指其直接竞争小米YU7。</description>
     </item>
     <item>
-      <title>小米蓝牙音箱磁吸版发布：音箱与支架二合一，众筹价132元</title>
-      <link>https://view.inews.qq.com/a/20260812A04V9900</link>
-      <guid isPermaLink="true">https://view.inews.qq.com/a/20260812A04V9900</guid>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0800</pubDate>
-      <description>IT之家：8月12日小米推出蓝牙音箱磁吸版，融合音箱与手机支架，重约95g，适配MagSafe，零售价199元、众筹价132元，8月19日开启众筹。</description>
+      <title>小米手机15岁生日，卢伟冰感谢米粉：未来将全面拥抱AI</title>
+      <link>https://www.163.com/dy/article/L4F592FN0511CPVM.html</link>
+      <guid isPermaLink="true">https://www.163.com/dy/article/L4F592FN0511CPVM.html</guid>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 +0800</pubDate>
+      <description>快科技：8月16日小米手机迎来15周岁生日，集团总裁卢伟冰发文感谢米粉，强调从手机到全球硬核科技领导者，未来全面拥抱AI；雷军称今年AI研发投入将超160亿元。</description>
     </item>
     <item>
-      <title>小米推台风受损产品免费维修，雷军宣布汽车台风免费救援</title>
-      <link>https://view.inews.qq.com/a/20260812A081ST00</link>
-      <guid isPermaLink="true">https://view.inews.qq.com/a/20260812A081ST00</guid>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0800</pubDate>
-      <description>IT时代网：8月12日小米服务宣布，因台风损坏的小米手机、家电等产品可享免费检测、清洁与维修，受理期至8月23日，覆盖多省市预警区域；雷军同期宣布预警城市小米车主可享24小时免费道路救援、免费涉水检查及还车到家，应对台风白海豚影响。</description>
+      <title>小米回应澎湃OS 4升级发热耗电：系统重编译占CPU，约3天恢复</title>
+      <link>https://view.inews.qq.com/a/20260815A04YP600</link>
+      <guid isPermaLink="true">https://view.inews.qq.com/a/20260815A04YP600</guid>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0800</pubDate>
+      <description>TechWeb：8月14日首批推送后部分用户反映发热耗电偏高，小米15日回应称系统重编译占CPU导致短期功耗增加，正常使用约3天恢复。</description>
     </item>
     <item>
-      <title>SU7 Ultra“纽北特调车”谣言澄清：莲花工程致歉，CEO回应车归小米</title>
-      <link>https://view.inews.qq.com/a/20260812A0AVPP00</link>
-      <guid isPermaLink="true">https://view.inews.qq.com/a/20260812A0AVPP00</guid>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0800</pubDate>
-      <description>三言科技：因莲花工程官网案例配图SU7 Ultra，博主“纽北之家”称其为莲花特调车，后致歉删文；8月13日莲花CEO回应工程确参与调校但车归小米，事件平息。</description>
+      <title>小米与奥克斯专利纠纷撤诉：杭州中院准许奥克斯撤回侵权起诉</title>
+      <link>https://view.inews.qq.com/a/20260815A000NA00</link>
+      <guid isPermaLink="true">https://view.inews.qq.com/a/20260815A000NA00</guid>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0800</pubDate>
+      <description>企业专利观察：8月15日文书网公布，杭州中院8月12日裁定准许奥克斯两公司撤回对北京小米电子的实用新型专利侵权起诉；该案2025年9月立案，小米曾对奥克斯7件空调专利发起8次无效挑战。</description>
     </item>
     <item>
-      <title>小米公布澎程N90 Max车内休憩方案：三种睡卧模式，需P挡使用</title>
-      <link>https://new.qq.com/rain/a/20260813A02ZTZ00</link>
-      <guid isPermaLink="true">https://new.qq.com/rain/a/20260813A02ZTZ00</guid>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0800</pubDate>
-      <description>小米汽车 / 腾讯新闻：8月12日小米汽车答网友问第275集给出N90 Max三种车内睡卧方案，含二排零重力座椅与三排大床，需P挡使用，覆盖午休至深度睡眠需求。</description>
+      <title>小米澎程门把手三重冗余设计公布：车外机械+门锁供电+车内机械</title>
+      <link>https://view.inews.qq.com/a/20260815A08DOH00</link>
+      <guid isPermaLink="true">https://view.inews.qq.com/a/20260815A08DOH00</guid>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0800</pubDate>
+      <description>环球网：8月15日小米汽车回应称澎程门把手采用车外机械开启、门锁供电与车内机械开启三重安全冗余，以保障极端碰撞场景下可顺利解锁救援。</description>
+    </item>
+    <item>
+      <title>小米MIX Fold 5阔折叠形态意外曝光：澎湃OS 4官方配图泄露，首发玄戒O3</title>
+      <link>https://www.163.com/dy/article/L4BBJVJ4055692EN.html</link>
+      <guid isPermaLink="true">https://www.163.com/dy/article/L4BBJVJ4055692EN.html</guid>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0800</pubDate>
+      <description>手机讲坛/网易：8月15日小米澎湃OS 4正式官宣，系统介绍页中一台未命名的阔折叠设备示意图引发关注，多方指向MIX Fold 5；爆料称其将首发自研玄戒O3（台积电3nm），预计8月底至9月亮相。</description>
+    </item>
+    <item>
+      <title>小米澎湃OS 4 Beta版分批推送：首批已推，第二批8月27日覆盖11款机型</title>
+      <link>https://view.inews.qq.com/a/20260814A09A3D00</link>
+      <guid isPermaLink="true">https://view.inews.qq.com/a/20260814A09A3D00</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0800</pubDate>
+      <description>IT之家：8月14日小米宣布澎湃OS 4 Beta版向小米17全系、REDMI K90全系等29款机型分批次推送，首批已推送，按申请顺序两批放量，第二批十日内到达，新系统含柔光交互等升级。</description>
+    </item>
+    <item>
+      <title>小米汽车携全系车型参展2026成都车展，澎程N90 Max/N70 Max迎首秀</title>
+      <link>https://auto.gasgoo.com/news/202608/14I70469266C109.shtml</link>
+      <guid isPermaLink="true">https://auto.gasgoo.com/news/202608/14I70469266C109.shtml</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0800</pubDate>
+      <description>盖世汽车：8月14日小米汽车官宣将携澎程N90 Max、N70 Max两款增程SUV及SU7、YU7、SU7 Ultra等纯电车型亮相8月21-30日成都车展，为首次纯电与增程双动力产品线同台。</description>
     </item>
   </channel>
 </rss>
