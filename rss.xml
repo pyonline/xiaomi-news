@@ -6,77 +6,35 @@
     <atom:link href="https://pyonline.github.io/xiaomi-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>每日自动聚合的小米（Xiaomi）最新新闻</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 17 Aug 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 00:00:00 +0800</lastBuildDate>
     <generator>xiaomi-news skill</generator>
     <item>
-      <title>小米18标准版延至明年初发布，Pro/Pro Max定档9月配妙享背屏</title>
-      <link>https://view.inews.qq.com/a/20260816A02BML00</link>
-      <guid isPermaLink="true">https://view.inews.qq.com/a/20260816A02BML00</guid>
-      <pubDate>Sun, 16 Aug 2026 00:00:00 +0800</pubDate>
-      <description>IT时代网：8月16日海外爆料称小米18系列分两批发布，标准版排期至2026年12月/2027年初，Pro与Pro Max于9月发布且配妙享背屏，标准版无背屏。</description>
+      <title>小米SU7系列交付量突破50万台，雷军宣布推万人车模回馈</title>
+      <link>https://m.21jingji.com/article/20260817/herald/110bf33c8d2813dc4879dc2c67433092.html</link>
+      <guid isPermaLink="true">https://m.21jingji.com/article/20260817/herald/110bf33c8d2813dc4879dc2c67433092.html</guid>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0800</pubDate>
+      <description>21世纪经济报道：8月17日小米汽车宣布，SU7系列自2024年上市以来仅用约28.5个月累计交付突破50万台，成为20万元以上中国品牌首款单一车系达此规模的车型；为庆祝里程碑，8月17日起预约并完成试驾的用户可获赠1:43合金车模共1万份。</description>
     </item>
     <item>
-      <title>小米汽车答网友问详解澎程安全：龙甲电池55℃热安全测试、12个安全气囊</title>
-      <link>https://view.inews.qq.com/a/20260816A03VXV00</link>
-      <guid isPermaLink="true">https://view.inews.qq.com/a/20260816A03VXV00</guid>
-      <pubDate>Sun, 16 Aug 2026 00:00:00 +0800</pubDate>
-      <description>IT之家：8月16日小米汽车发布第278集答网友问，针对澎程龙甲电池55℃高温满电热安全测试、N90 Max的12个安全气囊及全系标配9个碰撞传感器等设计逻辑集中解答。</description>
+      <title>小米首款万级电池手机 REDMI Note 17 Pro Max 官宣，8月27日发布</title>
+      <link>https://www.163.com/dy/article/L4I7QJTI0511B8LM.html</link>
+      <guid isPermaLink="true">https://www.163.com/dy/article/L4I7QJTI0511B8LM.html</guid>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0800</pubDate>
+      <description>IT之家：8月17日小米日本官方宣布，REDMI Note 17 Pro Max 5G 将于8月27日发布、28日发售，搭载约9210–10000mAh电池与100W闪充，成为小米首款万级电池容量手机。</description>
     </item>
     <item>
-      <title>岚图追光S上市对标小米YU7，20万-30万纯电SUV竞争白热化</title>
-      <link>https://view.inews.qq.com/a/20260816A05H3000</link>
-      <guid isPermaLink="true">https://view.inews.qq.com/a/20260816A05H3000</guid>
-      <pubDate>Sun, 16 Aug 2026 00:00:00 +0800</pubDate>
-      <description>财闻：8月15日岚图追光S正式上市，限时22.39万元起，定位中大型纯电SUV并强调智驾与安全性，多家媒体指其直接竞争小米YU7。</description>
+      <title>米家智能鱼缸2 Pro 发布，众筹价599元</title>
+      <link>https://view.inews.qq.com/a/20260817A04Q5C00</link>
+      <guid isPermaLink="true">https://view.inews.qq.com/a/20260817A04Q5C00</guid>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0800</pubDate>
+      <description>快科技：8月17日小米发布米家智能鱼缸2 Pro，8月24日10点起众筹价599元，加强过滤与自动喂食，支持断电后水泵续转以防鱼缺氧。</description>
     </item>
     <item>
-      <title>小米手机15岁生日，卢伟冰感谢米粉：未来将全面拥抱AI</title>
-      <link>https://www.163.com/dy/article/L4F592FN0511CPVM.html</link>
-      <guid isPermaLink="true">https://www.163.com/dy/article/L4F592FN0511CPVM.html</guid>
-      <pubDate>Sun, 16 Aug 2026 00:00:00 +0800</pubDate>
-      <description>快科技：8月16日小米手机迎来15周岁生日，集团总裁卢伟冰发文感谢米粉，强调从手机到全球硬核科技领导者，未来全面拥抱AI；雷军称今年AI研发投入将超160亿元。</description>
-    </item>
-    <item>
-      <title>小米回应澎湃OS 4升级发热耗电：系统重编译占CPU，约3天恢复</title>
-      <link>https://view.inews.qq.com/a/20260815A04YP600</link>
-      <guid isPermaLink="true">https://view.inews.qq.com/a/20260815A04YP600</guid>
-      <pubDate>Sat, 15 Aug 2026 00:00:00 +0800</pubDate>
-      <description>TechWeb：8月14日首批推送后部分用户反映发热耗电偏高，小米15日回应称系统重编译占CPU导致短期功耗增加，正常使用约3天恢复。</description>
-    </item>
-    <item>
-      <title>小米与奥克斯专利纠纷撤诉：杭州中院准许奥克斯撤回侵权起诉</title>
-      <link>https://view.inews.qq.com/a/20260815A000NA00</link>
-      <guid isPermaLink="true">https://view.inews.qq.com/a/20260815A000NA00</guid>
-      <pubDate>Sat, 15 Aug 2026 00:00:00 +0800</pubDate>
-      <description>企业专利观察：8月15日文书网公布，杭州中院8月12日裁定准许奥克斯两公司撤回对北京小米电子的实用新型专利侵权起诉；该案2025年9月立案，小米曾对奥克斯7件空调专利发起8次无效挑战。</description>
-    </item>
-    <item>
-      <title>小米澎程门把手三重冗余设计公布：车外机械+门锁供电+车内机械</title>
-      <link>https://view.inews.qq.com/a/20260815A08DOH00</link>
-      <guid isPermaLink="true">https://view.inews.qq.com/a/20260815A08DOH00</guid>
-      <pubDate>Sat, 15 Aug 2026 00:00:00 +0800</pubDate>
-      <description>环球网：8月15日小米汽车回应称澎程门把手采用车外机械开启、门锁供电与车内机械开启三重安全冗余，以保障极端碰撞场景下可顺利解锁救援。</description>
-    </item>
-    <item>
-      <title>小米MIX Fold 5阔折叠形态意外曝光：澎湃OS 4官方配图泄露，首发玄戒O3</title>
-      <link>https://www.163.com/dy/article/L4BBJVJ4055692EN.html</link>
-      <guid isPermaLink="true">https://www.163.com/dy/article/L4BBJVJ4055692EN.html</guid>
-      <pubDate>Sat, 15 Aug 2026 00:00:00 +0800</pubDate>
-      <description>手机讲坛/网易：8月15日小米澎湃OS 4正式官宣，系统介绍页中一台未命名的阔折叠设备示意图引发关注，多方指向MIX Fold 5；爆料称其将首发自研玄戒O3（台积电3nm），预计8月底至9月亮相。</description>
-    </item>
-    <item>
-      <title>小米澎湃OS 4 Beta版分批推送：首批已推，第二批8月27日覆盖11款机型</title>
-      <link>https://view.inews.qq.com/a/20260814A09A3D00</link>
-      <guid isPermaLink="true">https://view.inews.qq.com/a/20260814A09A3D00</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0800</pubDate>
-      <description>IT之家：8月14日小米宣布澎湃OS 4 Beta版向小米17全系、REDMI K90全系等29款机型分批次推送，首批已推送，按申请顺序两批放量，第二批十日内到达，新系统含柔光交互等升级。</description>
-    </item>
-    <item>
-      <title>小米汽车携全系车型参展2026成都车展，澎程N90 Max/N70 Max迎首秀</title>
-      <link>https://auto.gasgoo.com/news/202608/14I70469266C109.shtml</link>
-      <guid isPermaLink="true">https://auto.gasgoo.com/news/202608/14I70469266C109.shtml</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0800</pubDate>
-      <description>盖世汽车：8月14日小米汽车官宣将携澎程N90 Max、N70 Max两款增程SUV及SU7、YU7、SU7 Ultra等纯电车型亮相8月21-30日成都车展，为首次纯电与增程双动力产品线同台。</description>
+      <title>小米17 Pro 上线支付宝背屏亮码，双击电源键调付款/乘车码</title>
+      <link>https://finance.sina.com.cn/roll/2026-08-17/doc-ininrqsk9011250.shtml</link>
+      <guid isPermaLink="true">https://finance.sina.com.cn/roll/2026-08-17/doc-ininrqsk9011250.shtml</guid>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0800</pubDate>
+      <description>新浪财经：8月17日小米手机官方宣布，小米17 Pro 系列正式上线支付宝背屏亮码功能，用户双击电源键即可在背部屏幕快速调出付款码与乘车码，全程无需返回主屏。</description>
     </item>
   </channel>
 </rss>
