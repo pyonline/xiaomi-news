@@ -6,35 +6,49 @@
     <atom:link href="https://pyonline.github.io/xiaomi-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>每日自动聚合的小米（Xiaomi）最新新闻</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 20 Aug 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 00:00:00 +0800</lastBuildDate>
     <generator>xiaomi-news skill</generator>
     <item>
-      <title>小米新一代人形机器人亮相2026世界机器人博览会</title>
-      <link>https://news.mydrivers.com/1/1144/1144971.htm</link>
-      <guid isPermaLink="true">https://news.mydrivers.com/1/1144/1144971.htm</guid>
+      <title>高通骁龙8E6/8E6 Pro官宣，小米拿下双旗舰芯片终端首发权</title>
+      <link>https://view.inews.qq.com/a/20260820A08UKH00</link>
+      <guid isPermaLink="true">https://view.inews.qq.com/a/20260820A08UKH00</guid>
       <pubDate>Thu, 20 Aug 2026 00:00:00 +0800</pubDate>
-      <description>快科技：小米新一代人形机器人亮相2026世界机器人博览会“具身花园”展台，化身“花艺师”完成递花、握手、碰拳、比心等动作，由大模型驱动自主理解场景完成操作；身高约1.70米、体重66公斤、全身66个自由度（半数在手部），仍处样机阶段，国内首展后赴欧洲展示。</description>
+      <description>快科技：高通宣布9月22日骁龙峰会推出骁龙8E6（标准版）与8E6 Pro两款旗舰平台，首次采用标准版+Pro双产品策略，均基于台积电2nm与第三代Oryon CPU；小米同时拿下两款芯片终端首发权，小米18 Pro、18 Pro Max将于9月下旬发布。</description>
     </item>
     <item>
-      <title>雷军详解小米澎程N70 Max配置：1461km综合续航，成都车展亮相</title>
-      <link>https://www.163.com/dy/article/L4O424QJ055692EN.html</link>
-      <guid isPermaLink="true">https://www.163.com/dy/article/L4O424QJ055692EN.html</guid>
+      <title>小米澎程N90 Max/N70 Max 8月21日起全国499家门店开放上车体验</title>
+      <link>https://view.inews.qq.com/a/20260820A05ZA000</link>
+      <guid isPermaLink="true">https://view.inews.qq.com/a/20260820A05ZA000</guid>
       <pubDate>Thu, 20 Aug 2026 00:00:00 +0800</pubDate>
-      <description>网易号：雷军单独介绍小米澎程N70 Max大五座四驱增程SUV：车长4960mm、轴距2950mm，二排最大空间1410mm、后备箱可拓展至2425L；双电机310kW、零百5.5s，76kWh电池+45L油箱，CLTC纯电505km、综合1461km，标配激光雷达与英伟达Thor 700TOPS；预售价25.99万元，8月21日成都车展展出，9月正式上市。</description>
+      <description>鞭牛士：小米宣布澎程N90 Max、N70 Max于8月21日起在全国499家门店开放上车体验，预售价分别为29.99万元和25.99万元，增程SUV基于昆仑架构，预计9月上市交付。</description>
     </item>
     <item>
-      <title>小米 Xiaomi 蓝牙音箱磁吸版发售：132元起，兼手机支架</title>
-      <link>https://www.ithome.com/0/991/445.htm</link>
-      <guid isPermaLink="true">https://www.ithome.com/0/991/445.htm</guid>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0800</pubDate>
-      <description>IT之家：小米有品发售Xiaomi蓝牙音箱磁吸版，定价199元、首发众筹价132元；重约95g，底部磁吸环兼手机支架（兼容MagSafe），霍尔感应吸附自动开机，1.5英寸3W喇叭、IP67防护、可串联10台，8月27日起发货。</description>
+      <title>小米多款新品发布开售：米家油烟机3欧式1499元、轻量双肩包99元、REDMI Watch 6活力版349元</title>
+      <link>https://view.inews.qq.com/a/20260820A0CYR100</link>
+      <guid isPermaLink="true">https://view.inews.qq.com/a/20260820A0CYR100</guid>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0800</pubDate>
+      <description>IT之家：小米发布并开售多款新品，覆盖厨电、配件与穿戴：米家油烟机3欧式售1499元、轻量双肩包99元、REDMI Watch 6活力版349元。</description>
     </item>
     <item>
-      <title>小米YU7跻身7月中大型SUV销量前三</title>
-      <link>https://www.sohu.com/a/1065007337_119627</link>
-      <guid isPermaLink="true">https://www.sohu.com/a/1065007337_119627</guid>
+      <title>小米或9月9日晚与苹果华为同台发布新品，小米18标准版或延至12月</title>
+      <link>https://view.inews.qq.com/a/20260820A05FF200</link>
+      <guid isPermaLink="true">https://view.inews.qq.com/a/20260820A05FF200</guid>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0800</pubDate>
+      <description>PChome：消息称小米拟9月9日晚发布新品，苹果凌晨、华为下午同天开发布会，三厂商时段错开；本次预计带来玄戒O3芯片与MIX Fold5折叠屏，小米18系列标准版或延至12月单独亮相。</description>
+    </item>
+    <item>
+      <title>卢伟冰称内存涨价超出团队预料，小米将重构全价位手机产品线</title>
+      <link>https://news.qq.com/rain/a/20260820A08RQR00</link>
+      <guid isPermaLink="true">https://news.qq.com/rain/a/20260820A08RQR00</guid>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0800</pubDate>
+      <description>太平洋科技：小米总裁卢伟冰表示，去年四季度至今年二季度的存储急涨幅度超出内部预判；小米不会将新增成本全部转嫁消费者，后续将从底层重新梳理全价位段产品线、重新规划各机型配置，不会仓促推出体验缩水产品。</description>
+    </item>
+    <item>
+      <title>小米在韩国发布新款扫地机器人6系列，8月19日上市</title>
+      <link>https://www.163.com/dy/article/L4N2EQCG0550WHYR.html</link>
+      <guid isPermaLink="true">https://www.163.com/dy/article/L4N2EQCG0550WHYR.html</guid>
       <pubDate>Wed, 19 Aug 2026 00:00:00 +0800</pubDate>
-      <description>汽车行业关注：乘联分会数据显示，2026年7月国内中大型SUV销量榜中，小米YU7以10223辆位列第三，仅次于方程豹钛7（20320辆）与理想i6（15420辆），为中大型SUV品类仅三款过万车型之一；自主品牌占前十中九席。</description>
+      <description>网易：小米韩国8月19日宣布扫地机器人6系列正式上市，含高端版6 Max与亲民版6；6 Max搭载仿生双机械足、35000帕吸力、可升降激光雷达与三摄AI系统，预售至8月24日。</description>
     </item>
   </channel>
 </rss>
