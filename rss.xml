@@ -6,49 +6,35 @@
     <atom:link href="https://pyonline.github.io/xiaomi-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>每日自动聚合的小米（Xiaomi）最新新闻</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 21 Aug 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 00:00:00 +0800</lastBuildDate>
     <generator>xiaomi-news skill</generator>
     <item>
-      <title>高通骁龙8E6/8E6 Pro官宣，小米拿下双旗舰芯片终端首发权</title>
-      <link>https://view.inews.qq.com/a/20260820A08UKH00</link>
-      <guid isPermaLink="true">https://view.inews.qq.com/a/20260820A08UKH00</guid>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 +0800</pubDate>
-      <description>快科技：高通宣布9月22日骁龙峰会推出骁龙8E6（标准版）与8E6 Pro两款旗舰平台，首次采用标准版+Pro双产品策略，均基于台积电2nm与第三代Oryon CPU；小米同时拿下两款芯片终端首发权，小米18 Pro、18 Pro Max将于9月下旬发布。</description>
+      <title>小米首款NAS「Xiaomi智能存储」8月27日开售，最高16TB可扩至60TB</title>
+      <link>https://www.163.com/dy/article/L4VOTN2M0531G57O.html</link>
+      <guid isPermaLink="true">https://www.163.com/dy/article/L4VOTN2M0531G57O.html</guid>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 +0800</pubDate>
+      <description>网易/T科技衍生：小米首款智能存储Xiaomi智能存储官宣8月27日开售，提供4TB/8TB/16TB版本（双盘位最大可扩至60TB）；支持AI智能相册、4路摄像机监控存储（最长360天）、微信/整机备份、小米生态联动与中枢网关。</description>
     </item>
     <item>
-      <title>小米澎程N90 Max/N70 Max 8月21日起全国499家门店开放上车体验</title>
-      <link>https://view.inews.qq.com/a/20260820A05ZA000</link>
-      <guid isPermaLink="true">https://view.inews.qq.com/a/20260820A05ZA000</guid>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 +0800</pubDate>
-      <description>鞭牛士：小米宣布澎程N90 Max、N70 Max于8月21日起在全国499家门店开放上车体验，预售价分别为29.99万元和25.99万元，增程SUV基于昆仑架构，预计9月上市交付。</description>
+      <title>小米召回超39万辆SU7：应急机械拉手隐患，免费加贴标识并OTA升级</title>
+      <link>https://www.jwview.com/jingwei/html/08-21/684622.shtml</link>
+      <guid isPermaLink="true">https://www.jwview.com/jingwei/html/08-21/684622.shtml</guid>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0800</pubDate>
+      <description>中新经纬：国家市场监管总局8月21日公告，小米备案召回2024款SU7系列纯电动汽车合计390435辆（339069+51366台），因车内应急机械拉手与内饰颜色接近不易识别，极端碰撞时影响逃生救援；将免费加贴警示标识，并通过OTA优化中控解锁逻辑与降窗策略。</description>
     </item>
     <item>
-      <title>小米多款新品发布开售：米家油烟机3欧式1499元、轻量双肩包99元、REDMI Watch 6活力版349元</title>
-      <link>https://view.inews.qq.com/a/20260820A0CYR100</link>
-      <guid isPermaLink="true">https://view.inews.qq.com/a/20260820A0CYR100</guid>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 +0800</pubDate>
-      <description>IT之家：小米发布并开售多款新品，覆盖厨电、配件与穿戴：米家油烟机3欧式售1499元、轻量双肩包99元、REDMI Watch 6活力版349元。</description>
+      <title>小米SU7 Pro续航实测十车夺冠：川渝700km往返达成率超80%排第一</title>
+      <link>https://view.inews.qq.com/a/20260822A05EPV00</link>
+      <guid isPermaLink="true">https://view.inews.qq.com/a/20260822A05EPV00</guid>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0800</pubDate>
+      <description>IT之家：雷军8月22日发微博称，在川渝往返约700km高速+山区路况的十车PK中，小米SU7 Pro实测续航超700km、达成率超80%排第一（CLTC排第四），小米YU7表现同样出色。</description>
     </item>
     <item>
-      <title>小米或9月9日晚与苹果华为同台发布新品，小米18标准版或延至12月</title>
-      <link>https://view.inews.qq.com/a/20260820A05FF200</link>
-      <guid isPermaLink="true">https://view.inews.qq.com/a/20260820A05FF200</guid>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 +0800</pubDate>
-      <description>PChome：消息称小米拟9月9日晚发布新品，苹果凌晨、华为下午同天开发布会，三厂商时段错开；本次预计带来玄戒O3芯片与MIX Fold5折叠屏，小米18系列标准版或延至12月单独亮相。</description>
-    </item>
-    <item>
-      <title>卢伟冰称内存涨价超出团队预料，小米将重构全价位手机产品线</title>
-      <link>https://news.qq.com/rain/a/20260820A08RQR00</link>
-      <guid isPermaLink="true">https://news.qq.com/rain/a/20260820A08RQR00</guid>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 +0800</pubDate>
-      <description>太平洋科技：小米总裁卢伟冰表示，去年四季度至今年二季度的存储急涨幅度超出内部预判；小米不会将新增成本全部转嫁消费者，后续将从底层重新梳理全价位段产品线、重新规划各机型配置，不会仓促推出体验缩水产品。</description>
-    </item>
-    <item>
-      <title>小米在韩国发布新款扫地机器人6系列，8月19日上市</title>
-      <link>https://www.163.com/dy/article/L4N2EQCG0550WHYR.html</link>
-      <guid isPermaLink="true">https://www.163.com/dy/article/L4N2EQCG0550WHYR.html</guid>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0800</pubDate>
-      <description>网易：小米韩国8月19日宣布扫地机器人6系列正式上市，含高端版6 Max与亲民版6；6 Max搭载仿生双机械足、35000帕吸力、可升降激光雷达与三摄AI系统，预售至8月24日。</description>
+      <title>雷军手持阔折叠新机真机曝光，或名MIX Ultra，全球首发玄戒O3自研3nm</title>
+      <link>https://view.inews.qq.com/a/20260822A0C7T400</link>
+      <guid isPermaLink="true">https://view.inews.qq.com/a/20260822A0C7T400</guid>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0800</pubDate>
+      <description>快科技：合影图显示雷军手握红色阔折叠手机，晚间多家媒体曝该机或命名MIX Ultra，酒红配色、首发玄戒O3自研3nm芯片，为小米首款阔折叠旗舰，预计9月与苹果阔折叠同台；卢伟冰已换上该机。</description>
     </item>
   </channel>
 </rss>
