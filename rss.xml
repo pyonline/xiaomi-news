@@ -6,35 +6,35 @@
     <atom:link href="https://pyonline.github.io/xiaomi-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>每日自动聚合的小米（Xiaomi）最新新闻</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 23 Aug 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 00:00:00 +0800</lastBuildDate>
     <generator>xiaomi-news skill</generator>
     <item>
-      <title>小米首款NAS「Xiaomi智能存储」8月27日开售，最高16TB可扩至60TB</title>
-      <link>https://www.163.com/dy/article/L4VOTN2M0531G57O.html</link>
-      <guid isPermaLink="true">https://www.163.com/dy/article/L4VOTN2M0531G57O.html</guid>
+      <title>小米官宣新一代玄戒芯片8月24日技术沟通会亮相，或命名玄戒O3、3nm三丛集架构</title>
+      <link>https://view.inews.qq.com/a/20260823A07LJ700</link>
+      <guid isPermaLink="true">https://view.inews.qq.com/a/20260823A07LJ700</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0800</pubDate>
+      <description>江南都市报：小米手机官方8月23日宣布，时隔459天玄戒芯片家族迎新成员，8月24日14:00由芯片负责人朱丹以图文直播介绍最新进展；初代O1为3nm旗舰SoC且终端出货超百万，新一代预计采用3nm三丛集架构、超大核主频超4GHz，首发机型或为阔折叠新机与平板8S Pro。</description>
+    </item>
+    <item>
+      <title>小米智能摄像机视频通话版2官宣8月26日开售：3.97英寸屏、4K、视频通话</title>
+      <link>https://www.163.com/dy/article/L52BI8KU0531G57O.html</link>
+      <guid isPermaLink="true">https://www.163.com/dy/article/L52BI8KU0531G57O.html</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0800</pubDate>
+      <description>网易/T科技衍生：小米智能摄像机视频通话版2官宣8月26日正式开售（众筹式），配备3.97英寸480×800彩屏、800万像素4K镜头、360°水平全景看护、双机/米家APP视频通话、1.5T高算力芯片与AI检测，主打家庭老人儿童看护。</description>
+    </item>
+    <item>
+      <title>米家扫拖机器人7C上架预约：2299元、8月26日现货，滚筒活水增压拖地</title>
+      <link>https://view.inews.qq.com/a/20260823A053LV00</link>
+      <guid isPermaLink="true">https://view.inews.qq.com/a/20260823A053LV00</guid>
       <pubDate>Sun, 23 Aug 2026 00:00:00 +0800</pubDate>
-      <description>网易/T科技衍生：小米首款智能存储Xiaomi智能存储官宣8月27日开售，提供4TB/8TB/16TB版本（双盘位最大可扩至60TB）；支持AI智能相册、4路摄像机监控存储（最长360天）、微信/整机备份、小米生态联动与中枢网关。</description>
+      <description>IT之家：8月23日米家扫拖机器人7C在小米有品上架预约，标价2299元券后2069.1元，8月26日10点现货开售；支持滚筒活水增压拖地、200转/分洗拖、恒湿贴合与防缠毛设计。</description>
     </item>
     <item>
-      <title>小米召回超39万辆SU7：应急机械拉手隐患，免费加贴标识并OTA升级</title>
-      <link>https://www.jwview.com/jingwei/html/08-21/684622.shtml</link>
-      <guid isPermaLink="true">https://www.jwview.com/jingwei/html/08-21/684622.shtml</guid>
-      <pubDate>Sat, 22 Aug 2026 00:00:00 +0800</pubDate>
-      <description>中新经纬：国家市场监管总局8月21日公告，小米备案召回2024款SU7系列纯电动汽车合计390435辆（339069+51366台），因车内应急机械拉手与内饰颜色接近不易识别，极端碰撞时影响逃生救援；将免费加贴警示标识，并通过OTA优化中控解锁逻辑与降窗策略。</description>
-    </item>
-    <item>
-      <title>小米SU7 Pro续航实测十车夺冠：川渝700km往返达成率超80%排第一</title>
-      <link>https://view.inews.qq.com/a/20260822A05EPV00</link>
-      <guid isPermaLink="true">https://view.inews.qq.com/a/20260822A05EPV00</guid>
-      <pubDate>Sat, 22 Aug 2026 00:00:00 +0800</pubDate>
-      <description>IT之家：雷军8月22日发微博称，在川渝往返约700km高速+山区路况的十车PK中，小米SU7 Pro实测续航超700km、达成率超80%排第一（CLTC排第四），小米YU7表现同样出色。</description>
-    </item>
-    <item>
-      <title>雷军手持阔折叠新机真机曝光，或名MIX Ultra，全球首发玄戒O3自研3nm</title>
-      <link>https://view.inews.qq.com/a/20260822A0C7T400</link>
-      <guid isPermaLink="true">https://view.inews.qq.com/a/20260822A0C7T400</guid>
-      <pubDate>Sat, 22 Aug 2026 00:00:00 +0800</pubDate>
-      <description>快科技：合影图显示雷军手握红色阔折叠手机，晚间多家媒体曝该机或命名MIX Ultra，酒红配色、首发玄戒O3自研3nm芯片，为小米首款阔折叠旗舰，预计9月与苹果阔折叠同台；卢伟冰已换上该机。</description>
+      <title>小米汽车答网友问第282集：详解澎程超长滑轨可靠性与成床模式</title>
+      <link>https://view.inews.qq.com/a/20260823A05B4V00</link>
+      <guid isPermaLink="true">https://view.inews.qq.com/a/20260823A05B4V00</guid>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 +0800</pubDate>
+      <description>易车：8月23日小米汽车第282集答网友问解读澎程超长滑轨：采用7系加强铝合金，N90 Max滑轨剥离强度达57000N、缝隙仅2.5mm可阻挡异物、免额外养护；N70 Max支持后排成床与一二排成床两种模式，最大可形成约1960×1270mm双人大床。</description>
     </item>
   </channel>
 </rss>
