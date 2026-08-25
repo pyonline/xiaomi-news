@@ -6,35 +6,28 @@
     <atom:link href="https://pyonline.github.io/xiaomi-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>每日自动聚合的小米（Xiaomi）最新新闻</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 24 Aug 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 00:00:00 +0800</lastBuildDate>
     <generator>xiaomi-news skill</generator>
     <item>
-      <title>小米官宣新一代玄戒芯片8月24日技术沟通会亮相，或命名玄戒O3、3nm三丛集架构</title>
-      <link>https://view.inews.qq.com/a/20260823A07LJ700</link>
-      <guid isPermaLink="true">https://view.inews.qq.com/a/20260823A07LJ700</guid>
+      <title>雷军官宣9月为小米&quot;科技大月&quot;：澎程N70/N90于9月3日上市交付，Xiaomi 18 Fold（9999元起、9.9元盲约）同场首发玄戒O3，月底18 Pro系列压轴发布</title>
+      <link>https://news.mydrivers.com/1/1146/1146082.htm</link>
+      <guid isPermaLink="true">https://news.mydrivers.com/1/1146/1146082.htm</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0800</pubDate>
+      <description>快科技：8月25日雷军披露，9月小米将迎来新品全面爆发：月初澎程N70 Max/N90 Max（预售价25.99万/29.99万）正式上市并开启交付，Xiaomi 18 Fold折叠屏旗舰与平板9 Pro Max同场首发自研玄戒O3（3nm、安兔兔跑分522万、十核全大核）；月底将举办专场发布推出Xiaomi 18 Pro系列数字旗舰，整体节奏对标苹果等海外头部厂商。</description>
+    </item>
+    <item>
+      <title>小米港股8月25日跌超4%：01810.HK收27.82港元，受召回事件、业绩承压及港股大市拖累</title>
+      <link>https://xnews.jin10.com/details/228171</link>
+      <guid isPermaLink="true">https://xnews.jin10.com/details/228171</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0800</pubDate>
+      <description>金十数据：8月25日港股全天低位震荡，恒生科技指数收跌3.61%；小米集团(01810.HK)全日跌超4%，收报27.82港元。市场解读其受39万辆SU7召回事件、中期业绩利润大幅下滑及大盘走弱多重因素影响，年初至今股价承压明显。</description>
+    </item>
+    <item>
+      <title>小米商城调整售后政策：二手商品不再享原厂三包，&quot;只换不修&quot;与电池保权益失效</title>
+      <link>https://view.inews.qq.com/a/20260824A0B32J00</link>
+      <guid isPermaLink="true">https://view.inews.qq.com/a/20260824A0B32J00</guid>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0800</pubDate>
-      <description>江南都市报：小米手机官方8月23日宣布，时隔459天玄戒芯片家族迎新成员，8月24日14:00由芯片负责人朱丹以图文直播介绍最新进展；初代O1为3nm旗舰SoC且终端出货超百万，新一代预计采用3nm三丛集架构、超大核主频超4GHz，首发机型或为阔折叠新机与平板8S Pro。</description>
-    </item>
-    <item>
-      <title>小米智能摄像机视频通话版2官宣8月26日开售：3.97英寸屏、4K、视频通话</title>
-      <link>https://www.163.com/dy/article/L52BI8KU0531G57O.html</link>
-      <guid isPermaLink="true">https://www.163.com/dy/article/L52BI8KU0531G57O.html</guid>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 +0800</pubDate>
-      <description>网易/T科技衍生：小米智能摄像机视频通话版2官宣8月26日正式开售（众筹式），配备3.97英寸480×800彩屏、800万像素4K镜头、360°水平全景看护、双机/米家APP视频通话、1.5T高算力芯片与AI检测，主打家庭老人儿童看护。</description>
-    </item>
-    <item>
-      <title>米家扫拖机器人7C上架预约：2299元、8月26日现货，滚筒活水增压拖地</title>
-      <link>https://view.inews.qq.com/a/20260823A053LV00</link>
-      <guid isPermaLink="true">https://view.inews.qq.com/a/20260823A053LV00</guid>
-      <pubDate>Sun, 23 Aug 2026 00:00:00 +0800</pubDate>
-      <description>IT之家：8月23日米家扫拖机器人7C在小米有品上架预约，标价2299元券后2069.1元，8月26日10点现货开售；支持滚筒活水增压拖地、200转/分洗拖、恒湿贴合与防缠毛设计。</description>
-    </item>
-    <item>
-      <title>小米汽车答网友问第282集：详解澎程超长滑轨可靠性与成床模式</title>
-      <link>https://view.inews.qq.com/a/20260823A05B4V00</link>
-      <guid isPermaLink="true">https://view.inews.qq.com/a/20260823A05B4V00</guid>
-      <pubDate>Sun, 23 Aug 2026 00:00:00 +0800</pubDate>
-      <description>易车：8月23日小米汽车第282集答网友问解读澎程超长滑轨：采用7系加强铝合金，N90 Max滑轨剥离强度达57000N、缝隙仅2.5mm可阻挡异物、免额外养护；N70 Max支持后排成床与一二排成床两种模式，最大可形成约1960×1270mm双人大床。</description>
+      <description>安兔兔：8月24日小米商城更新服务政策，非保修条款新增&quot;产品属于二手商品&quot;：通过二手平台购入或转售的手机不再享受原厂三包服务，&quot;只换不修&quot;与&quot;电池保&quot;等付费保障权益同步失效，需付费维修。政策调整引发用户讨论。</description>
     </item>
   </channel>
 </rss>
