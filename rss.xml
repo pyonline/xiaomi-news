@@ -6,28 +6,63 @@
     <atom:link href="https://pyonline.github.io/xiaomi-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>每日自动聚合的小米（Xiaomi）最新新闻</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 25 Aug 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 00:00:00 +0800</lastBuildDate>
     <generator>xiaomi-news skill</generator>
     <item>
-      <title>雷军官宣9月为小米&quot;科技大月&quot;：澎程N70/N90于9月3日上市交付，Xiaomi 18 Fold（9999元起、9.9元盲约）同场首发玄戒O3，月底18 Pro系列压轴发布</title>
-      <link>https://news.mydrivers.com/1/1146/1146082.htm</link>
-      <guid isPermaLink="true">https://news.mydrivers.com/1/1146/1146082.htm</guid>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0800</pubDate>
-      <description>快科技：8月25日雷军披露，9月小米将迎来新品全面爆发：月初澎程N70 Max/N90 Max（预售价25.99万/29.99万）正式上市并开启交付，Xiaomi 18 Fold折叠屏旗舰与平板9 Pro Max同场首发自研玄戒O3（3nm、安兔兔跑分522万、十核全大核）；月底将举办专场发布推出Xiaomi 18 Pro系列数字旗舰，整体节奏对标苹果等海外头部厂商。</description>
+      <title>小米连发三款自研芯片：玄戒O3/O100/D100齐发，Xiaomi 18 Fold 9月首发玄戒O3</title>
+      <link>https://www.nbd.com.cn/articles/2026-08-26/4557290.html</link>
+      <guid isPermaLink="true">https://www.nbd.com.cn/articles/2026-08-26/4557290.html</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0800</pubDate>
+      <description>每日经济新闻：玄戒O1亮相459天后，小米8月24日技术沟通会一口气发布三颗自研芯片：玄戒O3为3nm AI旗舰SoC，晶体管从190亿增至240亿，十核全大核、G2-Ultra NX GPU性能+85%功耗-64%，全球首款支持LPDDR6（带宽113.8GB/s，+48%），安兔兔跑分522万，NPU为MiMo端侧大模型重构，200TOPS张量算力，已开启规模量产；玄戒O100为行业首颗6nm 3D晶圆级堆叠AI加速芯片，Hybrid Bonding键合间距1.4微米，带宽1.22TB/s（主流旗舰16倍），端侧推理最高330 Token/s；玄戒D100为国内首款3nm智驾高算力芯片，20核CPU+16核NPU，最高支持160GB统一内存、本地部署200B参数大模型。O100与D100明年商用。雷军披露小米重启大芯片研发五年多、累计投入超210亿元、团队近3000人。现场还展示了取消影像模组的O100高速AI演示原型机（295 tokens/s）与可150W持续释放、跑120B大模型的小米AI Cube个人AI超算终端。首搭玄戒O3的Xiaomi 18 Fold为小米首款阔折叠、被雷军称为“小米18系列顶级旗舰”，9月上市，或与网传苹果首款折叠屏正面交锋。</description>
     </item>
     <item>
-      <title>小米港股8月25日跌超4%：01810.HK收27.82港元，受召回事件、业绩承压及港股大市拖累</title>
-      <link>https://xnews.jin10.com/details/228171</link>
-      <guid isPermaLink="true">https://xnews.jin10.com/details/228171</guid>
+      <title>雷军定调9月为小米“科技大月”：18 Fold月初登场、18 Pro系列月底压轴</title>
+      <link>https://www.163.com/dy/article/L576FE6705118K0I.html</link>
+      <guid isPermaLink="true">https://www.163.com/dy/article/L576FE6705118K0I.html</guid>
       <pubDate>Tue, 25 Aug 2026 00:00:00 +0800</pubDate>
-      <description>金十数据：8月25日港股全天低位震荡，恒生科技指数收跌3.61%；小米集团(01810.HK)全日跌超4%，收报27.82港元。市场解读其受39万辆SU7召回事件、中期业绩利润大幅下滑及大盘走弱多重因素影响，年初至今股价承压明显。</description>
+      <description>网易科技（巴士数码）：雷军公布新品排期，将9月定义为小米“科技大月”，分月初、月底两场重要发布会：9月初小米澎程系列车型正式上市，首款阔折叠小米18 Fold同台亮相，小米平板9 Pro Max同步登场；9月底小米18 Pro系列压轴发布，搭载第六代骁龙8超级至尊版（2nm工艺，晶体管密度较上代3nm提升约30%），配100W有线快充、支持N79 5G与UWB超宽带。18 Fold首发玄戒O3，芯片面积133mm²、集成240亿晶体管、多核性能较上代+60%。</description>
     </item>
     <item>
-      <title>小米商城调整售后政策：二手商品不再享原厂三包，&quot;只换不修&quot;与电池保权益失效</title>
-      <link>https://view.inews.qq.com/a/20260824A0B32J00</link>
-      <guid isPermaLink="true">https://view.inews.qq.com/a/20260824A0B32J00</guid>
+      <title>雷军官宣小米澎程N70/N90九月初上市，N70 Max预售25.99万、N90 Max 29.99万</title>
+      <link>https://view.inews.qq.com/a/20260825A0AOTT00</link>
+      <guid isPermaLink="true">https://view.inews.qq.com/a/20260825A0AOTT00</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0800</pubDate>
+      <description>太平洋汽车网：8月25日雷军发文表示小米澎程N70/N90将于9月初正式上市，预计9月3日或10日举行发布会。N70 Max预售价25.99万元（大五座四驱增程SUV，双电机峰值功率310kW、零百5.5秒、CLTC纯电最高505km、综合续航1461km），N90 Max预售价29.99万元（大七座旗舰增程SUV，车长5285mm、轴距3080mm、综合续航1705km），正式价格或较预售价下探，定位稳重商务，与现有SU7/YU7纯电产品线互补。</description>
+    </item>
+    <item>
+      <title>小米通报多起AI造谣案被警方侦破：晋中AI洗稿水军案牵连9000余账号、50余家MCN</title>
+      <link>https://www.nfnews.com/content/voApwbMa6R.html</link>
+      <guid isPermaLink="true">https://www.nfnews.com/content/voApwbMa6R.html</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0800</pubDate>
+      <description>南方+ / 南都N视频：8月25日小米公司发言人发布微博通报近期多起使用AI技术造谣小米的案件告破。8月20日晋中网警接小米报案破获新型网络水军案，涉案三人自2024年7月起在太原、晋中、吕梁等地注册90余个个体工商户、50余家MCN机构，以每条20—50元收购实名网络账号，通过AI洗稿编造谣言炒作热点公司套取流量返利，梳理关联账号9000余个，涉案账号在平台产生收益160余万元、三人非法获利50余万元，均已被抓获归案。此外公安部网安局8月18日通报的14起涉企网络谣言案例中，河南商丘、广西河池两起为小米报案，涉案网民已被行政处罚；6月17日西安网警案3家MCN与14人落网、4人刑拘；3月上海嘉定案两人因涉嫌非法经营罪被采取刑事强制措施。小米称将继续配合公安机关依法维护企业商誉。</description>
+    </item>
+    <item>
+      <title>小米手机售后规则两日两改：先增“二手商品不属三包”，8月25日又删除该表述</title>
+      <link>https://www.toutiao.com/article/7677984180298416686/</link>
+      <guid isPermaLink="true">https://www.toutiao.com/article/7677984180298416686/</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0800</pubDate>
+      <description>IT之家：8月24日有用户发现小米商城服务价格及服务政策调整，非保修条款新增第11条“产品属于二手商品”不实行三包（含二手平台购入、闲置社区交易、经过回收的产品），“只换不修”“电池保”两项权益也把发生过回收、转售、赠予或转交第三方使用的机器排除在外，且购机凭证不含二手凭证；覆盖手机及小米Tag、耳机、体脂秤、手表、平板等品类。舆论发酵后，8月25日小米再次调整规则，删除了非保修条款中关于二手产品/商品不属于三包范围的表述，但“只换不修”与“电池保”的相关限制条款依然保留。</description>
+    </item>
+    <item>
+      <title>REDMI 17C 5G 海外发布：天玑6300 + 6000mAh，279新加坡元约合1480元</title>
+      <link>https://finance.sina.com.cn/tech/digi/2026-08-25/doc-inipqaak5564154.shtml</link>
+      <guid isPermaLink="true">https://finance.sina.com.cn/tech/digi/2026-08-25/doc-inipqaak5564154.shtml</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0800</pubDate>
+      <description>IT之家 / 新浪财经：小米在新加坡等海外市场发布入门级新机REDMI 17C 5G（REDMI 17C的5G版本）。正面为6.9英寸720P LCD水滴屏、120Hz高刷、峰值亮度810nits，支持全程DC调光与莱茵护眼认证；搭载联发科天玑6300，4GB LPDDR4X（可虚拟扩展至8GB）+64GB/128GB UFS 2.2，保留microSD卡槽（最高扩容1TB）与3.5mm耳机孔；6000mAh电池、33W有线快充；后置5000万像素主摄、前置800万；IP64防尘防泼溅，侧边指纹、NFC、蓝牙5.4、FM收音机；出厂预装基于Android 16的澎湃OS 3。提供黑色、浅棕、淡紫三色，售价279新加坡元（约1480元人民币）。</description>
+    </item>
+    <item>
+      <title>雷军谈国内高端汽车市场：产品“青黄不接”，豪华车正面临重构</title>
+      <link>https://view.inews.qq.com/a/20260824A0628D00</link>
+      <guid isPermaLink="true">https://view.inews.qq.com/a/20260824A0628D00</guid>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0800</pubDate>
-      <description>安兔兔：8月24日小米商城更新服务政策，非保修条款新增&quot;产品属于二手商品&quot;：通过二手平台购入或转售的手机不再享受原厂三包服务，&quot;只换不修&quot;与&quot;电池保&quot;等付费保障权益同步失效，需付费维修。政策调整引发用户讨论。</description>
+      <description>IT之家：8月24日雷军接受采访时表示，中国汽车高端化是确定的方向，但当前高端市场产品“青黄不接”，传统豪华车正面临重构；中高端市场缺少好的供给，而中低端市场竞争已非常激烈。该表态被视为小米澎程系列冲击25万—30万元区间、并向更高价位延伸的战略背景。</description>
+    </item>
+    <item>
+      <title>绵阳小米景明科技成立，经营范围含换电设施与充电桩运营</title>
+      <link>https://view.inews.qq.com/a/20260824A0ASYO00</link>
+      <guid isPermaLink="true">https://view.inews.qq.com/a/20260824A0ASYO00</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0800</pubDate>
+      <description>知嘹汽车：8月24日消息，绵阳小米景明科技有限公司近日成立，注册资本100万元，经营范围包括汽车销售、新能源汽车换电设施销售、集中式快速充电站与充电桩运营等，被视为小米在汽车能源生态与补能基础设施上的布局落子。</description>
     </item>
   </channel>
 </rss>
