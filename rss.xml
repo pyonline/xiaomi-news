@@ -6,77 +6,56 @@
     <atom:link href="https://pyonline.github.io/xiaomi-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>每日自动聚合的小米（Xiaomi）最新新闻</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 27 Aug 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 00:00:00 +0800</lastBuildDate>
     <generator>xiaomi-news skill</generator>
     <item>
-      <title>小米首款 NAS「小米智能存储」今日 10 点正式开售，2699 元起，最高支持 60TB</title>
-      <link>https://finance.sina.cn/tech/2026-08-27/detail-inipsmim9148118.d.html</link>
-      <guid isPermaLink="true">https://finance.sina.cn/tech/2026-08-27/detail-inipsmim9148118.d.html</guid>
+      <title>小米18 Fold未发先火：盲订数量远超往年</title>
+      <link>https://www.163.com/dy/article/L5DCUEVC0511CPVM.html</link>
+      <guid isPermaLink="true">https://www.163.com/dy/article/L5DCUEVC0511CPVM.html</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
+      <description>快科技：博主定焦数码透露，小米18 Fold在定金盲订阶段预订数量远超往年同期，市场关注度突出。该机为阔折叠旗舰，首发搭载玄戒O3芯片（3nm、240亿晶体管、安兔兔跑分522万），与MIX Fold常规大折叠设计理念不同。</description>
+    </item>
+    <item>
+      <title>小米澎程N90将与徐工集团挑战55吨电动矿卡</title>
+      <link>https://auto.ifeng.com/c/8vvk8LyI2Y5</link>
+      <guid isPermaLink="true">https://auto.ifeng.com/c/8vvk8LyI2Y5</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
+      <description>网通社：小米澎程官方8月27日发布预告，8月28日与徐工集团进行特别挑战：澎程N90 Max拖拽自重55吨的纯电动矿卡。该车搭载双电机四驱增程系统，峰值功率310kW，0-100km/h 5.9秒，CLTC综合续航1705km。</description>
+    </item>
+    <item>
+      <title>小米单联瑜谈好的家电设计：功能形态融入家居环境</title>
+      <link>https://www.163.com/dy/article/L5DFI991051191D6.html</link>
+      <guid isPermaLink="true">https://www.163.com/dy/article/L5DFI991051191D6.html</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
+      <description>CNMO科技：小米大家电部总经理单联瑜分享米家家电设计创新：空调Pro上出风2cm贴顶安装、新风Pro双出风柜机、双区洗衣机Pro等，获iF/红点奖；并推进适老化设计，在按键旁加文字标识、优化提示音量等。</description>
+    </item>
+    <item>
+      <title>小米YU7获中保研C-IASI最高安全评级 四项全优</title>
+      <link>https://tech.sina.cn/2026-08-27/detail-iniptxkt9081251.d.html</link>
+      <guid isPermaLink="true">https://tech.sina.cn/2026-08-27/detail-iniptxkt9081251.d.html</guid>
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0800</pubDate>
-      <description>新浪财经 / 快科技：8 月 27 日 10:00 小米首款 NAS 产品正式开售，4TB / 8TB / 16TB 三版售价 2699 / 3499 / 5499 元。双盘位兼容 3.5 与 2.5 英寸硬盘，单盘最高 30TB、整机最高 60TB，支持动态备份与双备份；配 USB-A 3.0、HDMI 1.4 与 2.5GbE 网口。内置 AI 智能相册可自然语言检索，支持小米手机微信与整机备份（HyperOS 3.0 及以上），最多接入 4 路小米摄像机直存本地、录像最长保存 360 天，提供最高 40Mbps 免费远程访问带宽。</description>
+      <description>快科技：8月27日中保研发布测评结果，小米YU7在车内乘员安全、车外行人安全、车辆辅助安全三项获最高G+，新能源汽车专项获G，四项全优；此前6月已获C-NCAP五星+。送测为标准版，全系安全配置无缩水。</description>
     </item>
     <item>
-      <title>米家新品连发：弹盖保温杯 2 众筹 79 元，石墨烯暖风机 C 众筹 179 元</title>
-      <link>https://www.163.com/dy/article/L5AVHF6V0511B8LM.html</link>
-      <guid isPermaLink="true">https://www.163.com/dy/article/L5AVHF6V0511B8LM.html</guid>
+      <title>小米两门纯电轿跑谍照曝光，剑指高端运动市场</title>
+      <link>https://view.inews.qq.com/a/20260827A04DEL00</link>
+      <guid isPermaLink="true">https://view.inews.qq.com/a/20260827A04DEL00</guid>
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0800</pubDate>
-      <description>IT之家：米家弹盖保温杯 2 已在小米有品上架，白色/藏蓝色/迷雾紫/冰川蓝四色，9 月 2 日开启众筹、众筹价 79 元、9 月 10 日发货；杯盖左滑或按压即开、关盖自动锁防漏，饮水口与滤网为 PPSU 材质且可拆洗，316L 不锈钢内胆配无尾抽真空+镀铜工艺，6 小时保温≥68℃、保冷≤10℃。同期上架的米家石墨烯暖风机 C 众筹价 179 元、同为 9 月 2 日开启，支持 3 秒发热与 80 度摆头。</description>
+      <description>驱动之家：8月27日博主曝光全身伪装的神秘测试车，网友推测为小米研发的两门纯电轿跑，车身低矮紧凑、尾部大扩散器明显，预示小米进军高端运动轿跑市场，产品矩阵进一步扩张。</description>
     </item>
     <item>
-      <title>小米汽车海外官网与「Xiaomi Auto」社媒账号正式上线，明确 2027 年下半年出海欧洲</title>
-      <link>https://view.inews.qq.com/a/20260826A0BMHT00</link>
-      <guid isPermaLink="true">https://view.inews.qq.com/a/20260826A0BMHT00</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0800</pubDate>
-      <description>鞭牛士：8 月 26 日小米汽车海外官网及社媒账号「Xiaomi Auto」正式上线，首页展示 SU7 / SU7 Ultra、Skynomad、Vision GT 等车型，官方宣布 2027 年下半年启动出海、首选欧洲市场。官网同时披露累计交付已超 70 万辆，截至 8 月 17 日 SU7 系列突破 50 万台。卢伟冰此前称各国排名前十的大型经销商集团多数主动接洽争抢合作名额。</description>
+      <title>小米交了30亿“内存税”：存储涨价上半年吞噬利润23-27亿</title>
+      <link>https://new.qq.com/rain/a/20260827A07KLY00?refer=cp_1009</link>
+      <guid isPermaLink="true">https://new.qq.com/rain/a/20260827A07KLY00?refer=cp_1009</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0800</pubDate>
+      <description>腾讯新闻：据测算，受存储芯片价格暴涨影响，小米二季度手机业务被存储等吃掉的毛利约12.6亿元，上半年两季度叠加损失23亿-27亿元，即“内存税”约30亿。卢伟冰称毛利率8.5%超预期守住，存储涨价趋缓但高位运行。</description>
     </item>
     <item>
-      <title>雷军官宣小米澎程×宜家跨界，「第 N 空间 自在的空间」特展登陆多城宜家商场</title>
-      <link>https://k.sina.com.cn/article_7096020433_1a6f4add106801mve4.html</link>
-      <guid isPermaLink="true">https://k.sina.com.cn/article_7096020433_1a6f4add106801mve4.html</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0800</pubDate>
-      <description>新浪新闻：8 月 26 日雷军在社交平台宣布澎程与宜家达成跨界概念合作，把宜家标志性家居产品搬进澎程 N90 Max 车内还原样板间，首批登陆北京四元桥、上海徐汇、南京、郑州、大连、重庆等地宜家商场。基于昆仑架构的纯平地板+超长滑轨、前排 180 度旋转座椅与可滑动中岛，支持会客、移动办公、大床房等 18 种以上场景切换。官方明确不推出宜家定制版实车，属概念展示与澎程上市前预热。</description>
-    </item>
-    <item>
-      <title>SU7 隧道内被连续追尾，车辆碰撞感应自动拨打 120，雷军点赞售后团队</title>
-      <link>https://view.inews.qq.com/a/20260826A08LXT00</link>
-      <guid isPermaLink="true">https://view.inews.qq.com/a/20260826A08LXT00</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0800</pubDate>
-      <description>驱动之家：一名 SU7 车主在隧道遭连续追尾后无法自救，车辆碰撞感应功能自动触发 120 急救呼叫；小米杭州售后店长连夜沿隧道搜寻并陪同送医。雷军回应称「为小米汽车售后服务的同学们点赞」，事件在社交平台引发大量转发。</description>
-    </item>
-    <item>
-      <title>奔驰 AMG GT 63 赴纽北测试自动驾驶，两圈成绩远不及小米 YU7 GT 的 10 分 29.483 秒纪录</title>
-      <link>https://tech.sina.cn/2026-08-26/detail-iniprcpw5406091.d.html</link>
-      <guid isPermaLink="true">https://tech.sina.cn/2026-08-26/detail-iniprcpw5406091.d.html</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0800</pubDate>
-      <description>新浪科技 / 快科技：8 月 26 日谍照显示，一辆车顶加装三组传感器的哑光橘奔驰 AMG GT 63 测试车现身纽博格林北环，完成两圈脱手式自动驾驶跑圈，节奏保守、成绩与纪录差距巨大。纽北自动驾驶圈速纪录仍由小米保持：今年 6 月 22 日小米 YU7 GT 以 10 分 29 秒 483 拿下全球首个官方认证纽北自动驾驶圈速，直道限速 210km/h。纽北已为此新增 AUTONOMOUS DRIVING 官方类别。</description>
-    </item>
-    <item>
-      <title>澎湃 OS 4 全新融合设备中心亮相，相机美学同步焕新，Beta 第二批机型开启招募</title>
-      <link>https://view.inews.qq.com/a/20260826A093NQ00</link>
-      <guid isPermaLink="true">https://view.inews.qq.com/a/20260826A093NQ00</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0800</pubDate>
-      <description>IT之家：8 月 26 日小米公布澎湃 OS 4 全新「融合设备中心」，改用卡片式布局并支持家庭切换，Beta 版第二批机型已开启招募。同日小米相机产品经理宣布澎湃 OS 4 相机 UI 对齐系统整体 redesign，非 17 Ultra 徕卡版机型亦可体验。</description>
-    </item>
-    <item>
-      <title>小米 18 Pro 发布会或提前至 9 月 23 日，全球首发第六代骁龙 8 超级至尊版，疑与华为 Mate 90 撞档</title>
-      <link>https://news.pconline.com.cn/2181/21810201.html</link>
-      <guid isPermaLink="true">https://news.pconline.com.cn/2181/21810201.html</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0800</pubDate>
-      <description>太平洋科技 / 快科技：8 月 26 日爆料称小米 18 Pro 系列发布时间早于此前网传的 9 月 24 日，很可能定档 9 月 23 日；而文旅部演出审批系统显示同日深圳国际会展中心有「华为终端 Haco 发布会」活动，业内判断即 Mate 90 系列发布会，双方档期或重合。小米 18 Pro 将全球首发高通第六代骁龙 8 超级至尊版，自研 Oryon CPU 主频首破 5GHz、台积电 2nm 工艺，并引入 Oryon FlexCache 可扩展缓存架构；骁龙峰会定于 9 月 22 日举行。双方均未官宣确切日期。</description>
-    </item>
-    <item>
-      <title>洛图科技：7 月小米包揽智能门锁、可视门铃、监控摄像头线上销量销额三项第一</title>
-      <link>https://www.163.com/dy/article/L589TM2D051191D6.html</link>
-      <guid isPermaLink="true">https://www.163.com/dy/article/L589TM2D051191D6.html</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0800</pubDate>
-      <description>网易 / CNMO：洛图科技数据显示，2026 年 7 月中国消费级智慧安防线上全渠道零售额 10.6 亿元，同比降 6.5%、环比降 24.4%，大促后重回刚需换新节奏。小米在三大品类量额双维度均居第一：智能门锁销量份额 15.2%、销额 19.2%；监控摄像头销量 16.7%、销额 15.9%，环比分别提升 2.8 和 3.1 个百分点重回双榜第一；可视门铃销量 39.5%、销额 39.0%。德施曼/凯迪仕、海康威视/萤石、360 分列各品类二三名。</description>
-    </item>
-    <item>
-      <title>小米汽车答网友问第 283 集：澎程 N90 Max 智能电动门可做「开门杀」预警与主动避障</title>
-      <link>https://view.inews.qq.com/a/20260826A08CW400</link>
-      <guid isPermaLink="true">https://view.inews.qq.com/a/20260826A08CW400</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0800</pubDate>
-      <description>环球网：小米汽车第 283 集「答网友问」介绍，澎程 N90 Max 智能电动门通过 9 颗摄像头、4 颗车门毫米波雷达与 1 颗前向激光雷达融合感知，实现开门杀预警与主动避障，并可悬停兼顾安全与便利；N70 Max 后排成床模式可均匀承重 200kg。</description>
+      <title>小米澎湃OS 4新特性：双持手机可跨设备接听来电、接收验证码</title>
+      <link>https://www.sohu.com/a/1068274027_122066678</link>
+      <guid isPermaLink="true">https://www.sohu.com/a/1068274027_122066678</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0800</pubDate>
+      <description>IT之家：8月27日小米公布澎湃OS 4跨设备能力：两台同账号小米/REDMI手机，即使不在同一网络也可跨设备接听来电、跨设备接收验证码。需接收端HyperOS 4及以上并开启权限，发送端HyperOS 3及以上，仅限国内。</description>
     </item>
   </channel>
 </rss>
