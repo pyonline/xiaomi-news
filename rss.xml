@@ -6,56 +6,63 @@
     <atom:link href="https://pyonline.github.io/xiaomi-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>每日自动聚合的小米（Xiaomi）最新新闻</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 29 Aug 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 00:00:00 +0800</lastBuildDate>
     <generator>xiaomi-news skill</generator>
     <item>
-      <title>小米澎湃OS 4 Beta连推两次升级，超级小爱2.0新增“码号上岛”“小爱备车”</title>
-      <link>https://www.toutiao.com/article/7679034480434151951</link>
-      <guid isPermaLink="true">https://www.toutiao.com/article/7679034480434151951</guid>
+      <title>小米18 Fold规格与定价曝光：6000mAh电池、67W快充、约1.2万元</title>
+      <link>https://view.inews.qq.com/a/20260830A0467K00</link>
+      <guid isPermaLink="true">https://view.inews.qq.com/a/20260830A0467K00</guid>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0800</pubDate>
+      <description>IT之家：曝光显示小米18 Fold将内置6000mAh电池、支持67W有线与50W无线快充，配7.6英寸阔折叠屏，9月上市并首发玄戒O3与长鑫LPDDR6；多方预测起售价约1.2万元，对标三星Z Fold8。</description>
+    </item>
+    <item>
+      <title>长鑫LPDDR6内存正式量产，小米18 Fold全球首发搭载</title>
+      <link>https://www.nfnews.com/content/lyKm8Opl65.html</link>
+      <guid isPermaLink="true">https://www.nfnews.com/content/lyKm8Opl65.html</guid>
       <pubDate>Sat, 29 Aug 2026 00:00:00 +0800</pubDate>
-      <description>快科技：小米公布澎湃OS 4 Beta进展：已推送两轮系统升级优化流畅度，超级小爱2.0上线“码号上岛”（三指上滑提取取件码等）与“小爱备车”两项能力；超级小爱App 8.2于8月28日起分批推送，第二批机型8月27日开始推送。</description>
+      <description>南方+/证券时报：长鑫存储8月29日宣布LPDDR6内存正式量产，峰值速率12800Mbps、最高容量16GB，将首批搭载于小米18 Fold折叠旗舰；雷军发文祝贺，称玄戒O3首家支持长鑫LPDDR6，&#x27;芯存协同&#x27;导入旗舰量产，央视财经亦赞为半导体协同突破样本。</description>
     </item>
     <item>
-      <title>人民日报评论版点赞小米玄戒芯片：为业界探索出一条新路</title>
-      <link>https://www.toutiao.com/article/7679008382560289289/</link>
-      <guid isPermaLink="true">https://www.toutiao.com/article/7679008382560289289/</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
-      <description>读创/深圳商报：8月28日人民日报评论版刊发《携手向前，成就中国创造》，点赞小米玄戒O3/O100/D100三款自研芯片背后的协同创新，称其与晶圆厂攻克6nm多层晶圆先进封装“无人区”，为业界探新路；雷军转发致谢。</description>
+      <title>超2600位小米车主行驶里程突破10万公里</title>
+      <link>https://news.qq.com/rain/a/20260829A07NLK00</link>
+      <guid isPermaLink="true">https://news.qq.com/rain/a/20260829A07NLK00</guid>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0800</pubDate>
+      <description>IT之家/腾讯新闻：雷军援引小米汽车数据称，截至2026年8月已有超过2600位车主将车辆开至10万公里，官方同步发起至9月20日的暑期出行故事征集并奖积分，反映高频真实路况实测。</description>
     </item>
     <item>
-      <title>小米在香港发布 REDMI Note 17 系列四款机型，1799港元起</title>
-      <link>https://hk.finance.yahoo.com/news/%E5%B0%8F%E7%B1%B3%E7%99%BC%E5%B8%83-redmi-note-17-series-042428000.html</link>
-      <guid isPermaLink="true">https://hk.finance.yahoo.com/news/%E5%B0%8F%E7%B1%B3%E7%99%BC%E5%B8%83-redmi-note-17-series-042428000.html</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
-      <description>雅虎香港/infocast：8月28日小米在香港正式发布REDMI Note 17系列共四款机型（含首款Pro Max），最高10000mAh电池，系列全球累计出货破5亿部；另推7款智能生活产品，最低1799港元起。</description>
+      <title>西安保时捷中心闭店换标小米汽车</title>
+      <link>https://view.inews.qq.com/a/20260829V0BSGV00</link>
+      <guid isPermaLink="true">https://view.inews.qq.com/a/20260829V0BSGV00</guid>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0800</pubDate>
+      <description>大风新闻：建发汽车将西安灞桥保时捷中心招牌拆除换装小米汽车Logo，运营近十年的保时捷展厅转型；在BBA一年净关258家网点、豪华车渠道洗牌背景下，被视为经销商转向新能源的代表事件。</description>
     </item>
     <item>
-      <title>小米平板9 Pro系列参数曝光：骁龙8 Gen5与自研玄戒O3双平台</title>
-      <link>https://tech.sina.cn/2026-08-28/detail-inipvvzv8918926.d.html</link>
-      <guid isPermaLink="true">https://tech.sina.cn/2026-08-28/detail-inipvvzv8918926.d.html</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
-      <description>快科技：博主曝光小米平板9 Pro系列核心参数：9 Pro搭载骁龙8 Gen5、12.5英寸3.2K 144Hz LCD、11000mAh+67W；9 Pro Max首发玄戒O3，9月同台发布，继续双芯片策略。</description>
+      <title>小米推出龙甲电池，入局车企自研电池潮</title>
+      <link>https://www.toutiao.com/article/7679384489797124644</link>
+      <guid isPermaLink="true">https://www.toutiao.com/article/7679384489797124644</guid>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0800</pubDate>
+      <description>中国汽车报：小米正式推出龙甲电池体系（电芯循环寿命2000次、底部防刮抗500J撞击、55℃满电单芯热失控无蔓延），由小米定义与全流程质控；在华为巨鲸、理想5C电池之后，车企自研电池成战略浪潮。</description>
     </item>
     <item>
-      <title>极狐阿尔法T7宣传片被指“像素级复刻”小米YU7短片</title>
-      <link>https://view.inews.qq.com/a/20260828A0AET200</link>
-      <guid isPermaLink="true">https://view.inews.qq.com/a/20260828A0AET200</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
-      <description>DoNews汽车：8月28日社交平台流传分屏对比，极狐阿尔法T7宣传片与小米YU7短片镜头高度相似，原创作者称遭像素级复刻，双方官方暂未回应。</description>
+      <title>小米经典旗舰12S Pro入终止支持列表，无缘澎湃OS 4</title>
+      <link>https://new.qq.com/rain/a/20260829A0A6SU00?refer=cp_1009</link>
+      <guid isPermaLink="true">https://new.qq.com/rain/a/20260829A0A6SU00?refer=cp_1009</guid>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0800</pubDate>
+      <description>极客Geeking/腾讯网：小米安全中心更新&#x27;终止软件支持产品列表&#x27;，2022年发布的小米12S Pro等老机型无缘澎湃OS 4且停止安全补丁与系统更新；同批还有红米Note 12R、红米12R、小米12 Lite等。</description>
     </item>
     <item>
-      <title>乘联会数据：小米SU7七月零售21044辆，居国产轿车第二</title>
-      <link>https://view.inews.qq.com/a/20260828A03R5V00</link>
-      <guid isPermaLink="true">https://view.inews.qq.com/a/20260828A03R5V00</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
-      <description>鬼斗车：8月28日乘联会数据显示，7月国产轿车9款销量过万，小米SU7以21044辆位列第二，延续“一边被质疑一边热销”态势。</description>
+      <title>小米8篇论文入选EMNLP 2026</title>
+      <link>https://news.mydrivers.com/1/1147/1147280.htm</link>
+      <guid isPermaLink="true">https://news.mydrivers.com/1/1147/1147280.htm</guid>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0800</pubDate>
+      <description>快科技：小米8篇论文入选自然语言处理顶会EMNLP 2026（10/24-29布达佩斯），覆盖手机GUI智能体、大模型推理加速ECHO（2.4–3.01倍）、主动智能PRPF等方向。</description>
     </item>
     <item>
-      <title>小米公益基金会投入1000万元备灾资金驰援西藏吉隆灾区</title>
-      <link>https://m.chinanews.com/wap/detail/cht/zw/jw685304.shtml</link>
-      <guid isPermaLink="true">https://m.chinanews.com/wap/detail/cht/zw/jw685304.shtml</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0800</pubDate>
-      <description>中国新闻网/中新经纬：8月26日尼泊尔侧泥石流致西藏吉隆重大伤亡，小米公益基金会紧急启动响应，投入1000万元备灾资金，用于紧急援助、过渡安置及灾后重建，并响应应急管理部政社协同机制。</description>
+      <title>20万级纯电轿车两强并立：SU7与Model 3让后来者月销难破3000</title>
+      <link>https://m.10jqka.com.cn/20260829/c679415806.shtml</link>
+      <guid isPermaLink="true">https://m.10jqka.com.cn/20260829/c679415806.shtml</guid>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0800</pubDate>
+      <description>华夏时报：《华夏时报》指出20万元级纯电轿车长期由特斯拉Model 3与小米SU7两强主导，其他品牌月销普遍徘徊3000辆；智己L6以&#x27;全系标配&#x27;策略试图破局，反映小米在该细分市场格局稳固。</description>
     </item>
   </channel>
 </rss>
