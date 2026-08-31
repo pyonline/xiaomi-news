@@ -6,63 +6,42 @@
     <atom:link href="https://pyonline.github.io/xiaomi-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>每日自动聚合的小米（Xiaomi）最新新闻</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 30 Aug 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 00:00:00 +0800</lastBuildDate>
     <generator>xiaomi-news skill</generator>
     <item>
-      <title>小米18 Fold规格与定价曝光：6000mAh电池、67W快充、约1.2万元</title>
-      <link>https://view.inews.qq.com/a/20260830A0467K00</link>
-      <guid isPermaLink="true">https://view.inews.qq.com/a/20260830A0467K00</guid>
+      <title>小米18 Fold定档9月30日开售，小米之家盲订远超往年</title>
+      <link>https://www.toutiao.com/article/7679858622981079587/</link>
+      <guid isPermaLink="true">https://www.toutiao.com/article/7679858622981079587/</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0800</pubDate>
+      <description>今日头条：据爆料小米18 Fold定档9月30日开售，线下小米之家已开启盲订且数量&#x27;远超往年大折&#x27;；形态改为7.6英寸&#x27;阔折叠&#x27;，首发自研玄戒O3（3nm、十核全大核、安兔兔522万），配2亿像素徕卡三摄、约6000mAh电池、67W有线+50W无线，起售价大概率破万元，正面刚华为/苹果阔折叠。</description>
+    </item>
+    <item>
+      <title>中国中车称小米澎程电驱具“高铁基因”，技术同源高铁电机</title>
+      <link>https://view.inews.qq.com/a/20260830A097WU00</link>
+      <guid isPermaLink="true">https://view.inews.qq.com/a/20260830A097WU00</guid>
       <pubDate>Sun, 30 Aug 2026 00:00:00 +0800</pubDate>
-      <description>IT之家：曝光显示小米18 Fold将内置6000mAh电池、支持67W有线与50W无线快充，配7.6英寸阔折叠屏，9月上市并首发玄戒O3与长鑫LPDDR6；多方预测起售价约1.2万元，对标三星Z Fold8。</description>
+      <description>IT之家：8月30日中国中车介绍与小米汽车合作，称澎程前电驱总成由中车提供，技术同源高铁电机，具备稳定、高效、耐久特性，基于昆仑技术架构落地，引发行业对供应链技术背书的关注。</description>
     </item>
     <item>
-      <title>长鑫LPDDR6内存正式量产，小米18 Fold全球首发搭载</title>
-      <link>https://www.nfnews.com/content/lyKm8Opl65.html</link>
-      <guid isPermaLink="true">https://www.nfnews.com/content/lyKm8Opl65.html</guid>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 +0800</pubDate>
-      <description>南方+/证券时报：长鑫存储8月29日宣布LPDDR6内存正式量产，峰值速率12800Mbps、最高容量16GB，将首批搭载于小米18 Fold折叠旗舰；雷军发文祝贺，称玄戒O3首家支持长鑫LPDDR6，&#x27;芯存协同&#x27;导入旗舰量产，央视财经亦赞为半导体协同突破样本。</description>
+      <title>黄仁勋公开称赞小米汽车，称美国消费者暂时买不到</title>
+      <link>https://view.inews.qq.com/a/20260830V08YQG00</link>
+      <guid isPermaLink="true">https://view.inews.qq.com/a/20260830V08YQG00</guid>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0800</pubDate>
+      <description>科技演说家：8月30日黄仁勋在活动中聊及雷军与小米汽车，评价小米汽车产品&#x27;很不错&#x27;，但受市场限制美国消费者暂时无法购买，成为科技圈舆论热点。</description>
     </item>
     <item>
-      <title>超2600位小米车主行驶里程突破10万公里</title>
-      <link>https://news.qq.com/rain/a/20260829A07NLK00</link>
-      <guid isPermaLink="true">https://news.qq.com/rain/a/20260829A07NLK00</guid>
+      <title>7月国内手机市场份额：小米与苹果并列第五，各占15.0%</title>
+      <link>https://view.inews.qq.com/a/20260829A08ASV00</link>
+      <guid isPermaLink="true">https://view.inews.qq.com/a/20260829A08ASV00</guid>
       <pubDate>Sat, 29 Aug 2026 00:00:00 +0800</pubDate>
-      <description>IT之家/腾讯新闻：雷军援引小米汽车数据称，截至2026年8月已有超过2600位车主将车辆开至10万公里，官方同步发起至9月20日的暑期出行故事征集并奖积分，反映高频真实路况实测。</description>
+      <description>手机中国：数据显示2026年7月国内手机市场整体同比降17%，华为以20.6%居第一，苹果与小米并列第五、各占15.0%，反映小米在存量换机市场中的稳定站位。</description>
     </item>
     <item>
-      <title>西安保时捷中心闭店换标小米汽车</title>
-      <link>https://view.inews.qq.com/a/20260829V0BSGV00</link>
-      <guid isPermaLink="true">https://view.inews.qq.com/a/20260829V0BSGV00</guid>
+      <title>REDMI Note 17 Pro Max日本正式开售，小米首款万毫安时手机</title>
+      <link>https://dy.163.com/article/L5GC5THV0556D62U.html</link>
+      <guid isPermaLink="true">https://dy.163.com/article/L5GC5THV0556D62U.html</guid>
       <pubDate>Sat, 29 Aug 2026 00:00:00 +0800</pubDate>
-      <description>大风新闻：建发汽车将西安灞桥保时捷中心招牌拆除换装小米汽车Logo，运营近十年的保时捷展厅转型；在BBA一年净关258家网点、豪华车渠道洗牌背景下，被视为经销商转向新能源的代表事件。</description>
-    </item>
-    <item>
-      <title>小米推出龙甲电池，入局车企自研电池潮</title>
-      <link>https://www.toutiao.com/article/7679384489797124644</link>
-      <guid isPermaLink="true">https://www.toutiao.com/article/7679384489797124644</guid>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 +0800</pubDate>
-      <description>中国汽车报：小米正式推出龙甲电池体系（电芯循环寿命2000次、底部防刮抗500J撞击、55℃满电单芯热失控无蔓延），由小米定义与全流程质控；在华为巨鲸、理想5C电池之后，车企自研电池成战略浪潮。</description>
-    </item>
-    <item>
-      <title>小米经典旗舰12S Pro入终止支持列表，无缘澎湃OS 4</title>
-      <link>https://new.qq.com/rain/a/20260829A0A6SU00?refer=cp_1009</link>
-      <guid isPermaLink="true">https://new.qq.com/rain/a/20260829A0A6SU00?refer=cp_1009</guid>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 +0800</pubDate>
-      <description>极客Geeking/腾讯网：小米安全中心更新&#x27;终止软件支持产品列表&#x27;，2022年发布的小米12S Pro等老机型无缘澎湃OS 4且停止安全补丁与系统更新；同批还有红米Note 12R、红米12R、小米12 Lite等。</description>
-    </item>
-    <item>
-      <title>小米8篇论文入选EMNLP 2026</title>
-      <link>https://news.mydrivers.com/1/1147/1147280.htm</link>
-      <guid isPermaLink="true">https://news.mydrivers.com/1/1147/1147280.htm</guid>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 +0800</pubDate>
-      <description>快科技：小米8篇论文入选自然语言处理顶会EMNLP 2026（10/24-29布达佩斯），覆盖手机GUI智能体、大模型推理加速ECHO（2.4–3.01倍）、主动智能PRPF等方向。</description>
-    </item>
-    <item>
-      <title>20万级纯电轿车两强并立：SU7与Model 3让后来者月销难破3000</title>
-      <link>https://m.10jqka.com.cn/20260829/c679415806.shtml</link>
-      <guid isPermaLink="true">https://m.10jqka.com.cn/20260829/c679415806.shtml</guid>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 +0800</pubDate>
-      <description>华夏时报：《华夏时报》指出20万元级纯电轿车长期由特斯拉Model 3与小米SU7两强主导，其他品牌月销普遍徘徊3000辆；智己L6以&#x27;全系标配&#x27;策略试图破局，反映小米在该细分市场格局稳固。</description>
+      <description>网易订阅：小米首款10000mAh（全球版典型值9210mAh）手机REDMI Note 17 Pro Max 5G于8月27日在日本发布、8月28日正式开售，8+256GB早鸟价69980日元（约2950元），配100W有线闪充、IP66/68/69K防护，出厂预装安卓16。</description>
     </item>
   </channel>
 </rss>
