@@ -6,42 +6,35 @@
     <atom:link href="https://pyonline.github.io/xiaomi-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>每日自动聚合的小米（Xiaomi）最新新闻</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 31 Aug 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 00:00:00 +0800</lastBuildDate>
     <generator>xiaomi-news skill</generator>
     <item>
-      <title>小米18 Fold定档9月30日开售，小米之家盲订远超往年</title>
-      <link>https://www.toutiao.com/article/7679858622981079587/</link>
-      <guid isPermaLink="true">https://www.toutiao.com/article/7679858622981079587/</guid>
+      <title>小米汽车8月交付量超3万台，正全力为澎程上市交付做准备</title>
+      <link>https://www.toutiao.com/article/7680367491683484179/</link>
+      <guid isPermaLink="true">https://www.toutiao.com/article/7680367491683484179/</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0800</pubDate>
+      <description>IT之家：小米汽车官方9月1日宣布，2026年8月交付量持续超过30000台，连续多月保持3万+；同时正全力为小米澎程（SkyNomad）上市交付做准备。雷军此前披露SU7/YU7累计交付已超70万台，1—8月各月交付均维持2万至3.9万台区间。</description>
+    </item>
+    <item>
+      <title>华为、小米、荣耀等多家手机厂商9月1日统一调价，小米17与REDMI K90涨幅200—500元</title>
+      <link>https://news.qq.com/rain/a/20260901A02PSH00</link>
+      <guid isPermaLink="true">https://news.qq.com/rain/a/20260901A02PSH00</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0800</pubDate>
+      <description>腾讯新闻：9月1日国内多家手机厂商统一调价。小米17由4799元升至5099元起，小米17 Pro涨300元至5699元起，17 Pro Max涨500元至6999元起，REDMI K90 Max涨400元至3899元起，K90至尊版涨400元至3699元起，Turbo 5 Max涨200元至2999元起。背景为高通芯片9月两位数涨价及内存成本高位运行。</description>
+    </item>
+    <item>
+      <title>小米澎程N90 Max上海至北京一镜到底实测续航1230公里，中途不补能</title>
+      <link>https://view.inews.qq.com/a/20260831A0D6IB00</link>
+      <guid isPermaLink="true">https://view.inews.qq.com/a/20260831A0D6IB00</guid>
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0800</pubDate>
-      <description>今日头条：据爆料小米18 Fold定档9月30日开售，线下小米之家已开启盲订且数量&#x27;远超往年大折&#x27;；形态改为7.6英寸&#x27;阔折叠&#x27;，首发自研玄戒O3（3nm、十核全大核、安兔兔522万），配2亿像素徕卡三摄、约6000mAh电池、67W有线+50W无线，起售价大概率破万元，正面刚华为/苹果阔折叠。</description>
+      <description>快科技：8月31日雷军晒出澎程N90 Max上海至北京实测：全程1230公里中途不充电不补能，纯电续航323.6km，亏电油耗6.7L/100km，抵达终点剩余续航54km；博主逐帧打假未发现异常，舆论称“雷军挺住了”。</description>
     </item>
     <item>
-      <title>中国中车称小米澎程电驱具“高铁基因”，技术同源高铁电机</title>
-      <link>https://view.inews.qq.com/a/20260830A097WU00</link>
-      <guid isPermaLink="true">https://view.inews.qq.com/a/20260830A097WU00</guid>
-      <pubDate>Sun, 30 Aug 2026 00:00:00 +0800</pubDate>
-      <description>IT之家：8月30日中国中车介绍与小米汽车合作，称澎程前电驱总成由中车提供，技术同源高铁电机，具备稳定、高效、耐久特性，基于昆仑技术架构落地，引发行业对供应链技术背书的关注。</description>
-    </item>
-    <item>
-      <title>黄仁勋公开称赞小米汽车，称美国消费者暂时买不到</title>
-      <link>https://view.inews.qq.com/a/20260830V08YQG00</link>
-      <guid isPermaLink="true">https://view.inews.qq.com/a/20260830V08YQG00</guid>
-      <pubDate>Sun, 30 Aug 2026 00:00:00 +0800</pubDate>
-      <description>科技演说家：8月30日黄仁勋在活动中聊及雷军与小米汽车，评价小米汽车产品&#x27;很不错&#x27;，但受市场限制美国消费者暂时无法购买，成为科技圈舆论热点。</description>
-    </item>
-    <item>
-      <title>7月国内手机市场份额：小米与苹果并列第五，各占15.0%</title>
-      <link>https://view.inews.qq.com/a/20260829A08ASV00</link>
-      <guid isPermaLink="true">https://view.inews.qq.com/a/20260829A08ASV00</guid>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 +0800</pubDate>
-      <description>手机中国：数据显示2026年7月国内手机市场整体同比降17%，华为以20.6%居第一，苹果与小米并列第五、各占15.0%，反映小米在存量换机市场中的稳定站位。</description>
-    </item>
-    <item>
-      <title>REDMI Note 17 Pro Max日本正式开售，小米首款万毫安时手机</title>
-      <link>https://dy.163.com/article/L5GC5THV0556D62U.html</link>
-      <guid isPermaLink="true">https://dy.163.com/article/L5GC5THV0556D62U.html</guid>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 +0800</pubDate>
-      <description>网易订阅：小米首款10000mAh（全球版典型值9210mAh）手机REDMI Note 17 Pro Max 5G于8月27日在日本发布、8月28日正式开售，8+256GB早鸟价69980日元（约2950元），配100W有线闪充、IP66/68/69K防护，出厂预装安卓16。</description>
+      <title>REDMI 17系列全球发布：7500mAh大电池、骁龙4 Gen5、预装HyperOS 3</title>
+      <link>https://www.thecitizen.co.tz/tanzania/news/national/xiaomi-unveils-redmi-17-with-massive-7-500mah-battery-5577316</link>
+      <guid isPermaLink="true">https://www.thecitizen.co.tz/tanzania/news/national/xiaomi-unveils-redmi-17-with-massive-7-500mah-battery-5577316</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0800</pubDate>
+      <description>The Citizen：小米于8月31日在海外发布REDMI 17系列，含5G版配骁龙4 Gen5、标准版配Helio G91-Ultra，主打7500mAh大电池（视频播放28小时）、6.9英寸120Hz屏、5000万双AI相机，预装HyperOS 3，支持12GB内存扩展与IP64防护。</description>
     </item>
   </channel>
 </rss>
