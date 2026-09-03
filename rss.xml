@@ -6,42 +6,35 @@
     <atom:link href="https://pyonline.github.io/xiaomi-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>每日自动聚合的小米（Xiaomi）最新新闻</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 02 Sep 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 00:00:00 +0800</lastBuildDate>
     <generator>xiaomi-news skill</generator>
     <item>
-      <title>小米秋季旗舰新品发布会定档 9 月 7 日：澎程 N70 Pro/N70 Max/N90 Max 正式上市，18 Fold 与平板 9 Pro Max 同台首发玄戒 O3</title>
-      <link>https://www.ithome.com/0/997/228.htm</link>
-      <guid isPermaLink="true">https://www.ithome.com/0/997/228.htm</guid>
+      <title>小米/华为/苹果三强争霸：秋季发布会档期高度撞车引关注</title>
+      <link>https://www.163.com/dy/article/L5SV2ML805118O8G.html</link>
+      <guid isPermaLink="true">https://www.163.com/dy/article/L5SV2ML805118O8G.html</guid>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0800</pubDate>
+      <description>爱范儿：小米 9月7日19:00 秋季发布会，与华为（9月7日14:30 Mate XT 2 及全场景新品）及苹果（9月10日凌晨特别活动）秋季活动时间高度集中，三大科技巨头四天内接连登场，引发科技圈“三强争霸”关注。</description>
+    </item>
+    <item>
+      <title>小米 18 Fold 9月3日官方预热：首发玄戒 O3 + 长鑫 LPDDR6，安兔兔跑分超 500 万</title>
+      <link>https://news.mydrivers.com/1/1148/1148314.htm</link>
+      <guid isPermaLink="true">https://news.mydrivers.com/1/1148/1148314.htm</guid>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0800</pubDate>
+      <description>快科技：9月3日小米正式预热 18 Fold，确认首发玄戒 O3（3nm、十核全大核、安兔兔超 500 万分、多核破 15000）与长鑫 LPDDR6 内存（带宽 113.8GB/s），首发澎湃 OS 4（负载精算+内存预载，9 小时 30 款应用启动耗时降 17.5%、相机冷启 1043ms→809ms）；官方称大屏 1 小时重载帧率稳定、全程冷静。</description>
+    </item>
+    <item>
+      <title>小米电视 S Pro RGB-Mini LED 2027 系列开启预售：首款 RGB-Mini LED，5999 元起</title>
+      <link>https://home.cnmo.com/news/817500.html</link>
+      <guid isPermaLink="true">https://home.cnmo.com/news/817500.html</guid>
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0800</pubDate>
-      <description>IT之家：9 月 2 日雷军宣布小米秋季旗舰新品发布会定档 9 月 7 日晚 7 点：增程 SUV 澎程 N70 Pro/N70 Max/N90 Max 正式上市，同场发布小米 18 Fold 阔折叠旗舰与小米平板 9 Pro Max，均首发玄戒 O3 AI 旗舰处理器（3nm、安兔兔 522 万分）。</description>
+      <description>CNMO科技：9月2日小米电视宣布 S Pro RGB-Mini LED 2027 系列开启预售，为小米首款 RGB-Mini LED 电视，分 2027 款与至尊版，提供 65/75/85/98 英寸，预售价 5999/6999/8799/12999 元（国补后 5099 元起）。支持 BT.2020 100% 色域、2160 控色分区、360Hz 刷新率与低反屏，搭载澎湃 OS 4 联动米家生态。</description>
     </item>
     <item>
-      <title>小米汽车 9 月购车福利：SU7/YU7 享 3 年 0 息或 6000 元保险补贴，SU7 Ultra 5 年 0 息</title>
-      <link>https://www.pcauto.com.cn/ask/7065792.html</link>
-      <guid isPermaLink="true">https://www.pcauto.com.cn/ask/7065792.html</guid>
+      <title>米家智能燃气热水器 Pro 双循环一级能效 16L 开售：首发 3499 元</title>
+      <link>https://www.toutiao.com/article/7680233305463063079/</link>
+      <guid isPermaLink="true">https://www.toutiao.com/article/7680233305463063079/</guid>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0800</pubDate>
-      <description>太平洋汽车网：9 月 1 日至 10 月 7 日下定有效：SU7/YU7 可选 3 年 0 息或 6000 元保险补贴，科技舒享套装限时优惠（SU7 7000 元 / YU7 6500 元），至高权益 6.1 万 / 7.9 万元；SU7 Ultra 额外享 5 年 0 息及价值 4.9 万元权益，部分现车最快 2 小时提车。</description>
-    </item>
-    <item>
-      <title>澎湃 OS 4 超级小爱交互焕新：轻盈动效实时反馈、任务上岛运行、思考结果自动展开</title>
-      <link>https://www.toutiao.com/article/7680442782988649010/</link>
-      <guid isPermaLink="true">https://www.toutiao.com/article/7680442782988649010/</guid>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0800</pubDate>
-      <description>IT之家：9 月 1 日小米官方宣布澎湃 HyperOS 4 超级小爱交互焕新：回应更自然的轻盈动效实时反馈、任务上岛运行（思考不断操作不停）、思考结果自动展开；已升级澎湃 OS 4 Beta 的用户可分批收到更新。</description>
-    </item>
-    <item>
-      <title>小米战略投资燧原科技科创板 IPO：发行价 142.18 元，募资 61.19 亿元，9 月 2 日申购</title>
-      <link>https://news.qq.com/rain/a/20260901A0914800</link>
-      <guid isPermaLink="true">https://news.qq.com/rain/a/20260901A0914800</guid>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0800</pubDate>
-      <description>腾讯新闻：燧原科技（688801）发行价 142.18 元/股，预计募资 61.19 亿元，9 月 2 日申购。小米旗下武汉壹捌壹零企业管理有限公司获配 49.23 万股（占 1.14%），限售 12 个月；腾讯、兆易创新、中兴、社保基金等同列战配名单。</description>
-    </item>
-    <item>
-      <title>雷军承认小米与特斯拉麋鹿测试八败两胜，对决话题引车圈讨论</title>
-      <link>https://view.inews.qq.com/a/20260831V0D6P400</link>
-      <guid isPermaLink="true">https://view.inews.qq.com/a/20260831V0D6P400</guid>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0800</pubDate>
-      <description>百家说车：雷军在对阵特斯拉的麋鹿测试中承认小米八败两胜，相关对决于 9 月 1 日见诸报道，引发车圈关于操控差距与测试意义的讨论。</description>
+      <description>今日头条：8月31日20点米家智能燃气热水器 Pro 双循环一级能效 16L 开售，官方定价 3999 元、首发 3499 元、国补后到手约 2974 元；主打 107% 热效率、双循环恒温（水温波动压至 ±0.3℃ 内）、TSI 直流变频增压泵，支持米家 APP 调温与小爱语音联动。</description>
     </item>
   </channel>
 </rss>
