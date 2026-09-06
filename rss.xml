@@ -6,28 +6,21 @@
     <atom:link href="https://pyonline.github.io/xiaomi-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>每日自动聚合的小米（Xiaomi）最新新闻</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 05 Sep 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 00:00:00 +0800</lastBuildDate>
     <generator>xiaomi-news skill</generator>
     <item>
-      <title>小米龙甲电池战略合作发布会：联手中创新航、欣旺达，推“不自燃/碰撞不起火”终身保障</title>
-      <link>https://www.cnr.cn/2013qcpd/cz/20260904/t20260904_527804622.shtml</link>
-      <guid isPermaLink="true">https://www.cnr.cn/2013qcpd/cz/20260904/t20260904_527804622.shtml</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0800</pubDate>
-      <description>央广网：9月4日小米汽车举办龙甲电池战略合作发布会，官宣与中创新航、欣旺达动力达成战略合作。龙甲电池是小米从整车全局视角定义的动力电池标准与系统方案，小米“全链路负责”（主导电池包设计开发、参与电芯设计、全流程质量管控），即将上市的小米澎程全系搭载。安全标准六大维度超国标（55℃满电单电芯热失控无热蔓延、500J底部撞击后功能不失效等）。同步推出“小米龙甲电池安心保障计划”：首任非营运车主免费享“动力电池不自燃终身保障”“碰撞不起火终身保障”两项权益。</description>
+      <title>小米发布并开源通用表格数据大模型 Xiaomi-TabLDM</title>
+      <link>https://www.chinaz.com/2026/0905/1775388.shtml</link>
+      <guid isPermaLink="true">https://www.chinaz.com/2026/0905/1775388.shtml</guid>
+      <pubDate>Sat, 05 Sep 2026 00:00:00 +0800</pubDate>
+      <description>快科技：小米正式发布并开源通用表格数据基础大模型 Xiaomi-TabLDM：单一预训练模型、统一默认配置即可跨数据集直接完成分类与回归预测，打破“一表一模型”现状。模型在 TALENT、OpenML-CTR23、BCCO、TabArena 四大公开基准进入第一梯队，权重与代码已在 GitHub/HuggingFace 开源。</description>
     </item>
     <item>
-      <title>小米在IFA透露物理AI布局：人形机器人CyberOne海外首秀，机器人工厂实习成功率98%</title>
-      <link>https://news.qq.com/rain/a/20260904A0CFOL00</link>
-      <guid isPermaLink="true">https://news.qq.com/rain/a/20260904A0CFOL00</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0800</pubDate>
-      <description>腾讯新闻 / 北京日报：9月4日小米在柏林IFA展示物理AI战略，人形机器人CyberOne首次海外展出，与观众猜拳、比V合影互动。卢伟冰称“AI下半场一定要走到物理AI”。CyberOne采用“大脑+小脑”分层控制，已在小米汽车工厂“实习”大半年，自攻螺母工站作业成功率从90%提升至98%。卢伟冰透露小米手机平板全球活跃用户约7亿、IoT连接设备11.6亿台，是发力物理AI的底气；并坦言内存成本上涨对利润影响大，但今年研发投入仍增近30%。</description>
-    </item>
-    <item>
-      <title>小米手环11开启预约：0.99cm超薄机身、AI睡眠监测、21天续航、289元起</title>
-      <link>https://news.pconline.com.cn/2181/21815862.html</link>
-      <guid isPermaLink="true">https://news.pconline.com.cn/2181/21815862.html</guid>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0800</pubDate>
-      <description>太平洋科技：9月3日晚小米智能生态官微宣布小米手环11开启预约，首销到手价289元起（标准版）。机身厚0.99cm、重15.58g，1.72英寸AMOLED屏、峰值亮度2000nits；支持睡眠HRV监测与AI睡眠解读、心率血氧压力女性健康等150+运动模式；内置澎湃OS 4，可控制米家产品与小米汽车，5ATM防水、21天续航，部分版本支持NFC离线支付；另有NFC版（339元）、陶瓷版/全金属版（399元）预计9月下旬开售。</description>
+      <title>小米18 Fold两款新配色官图公布·起售12999元</title>
+      <link>https://www.toutiao.com/article/7682005979407434246</link>
+      <guid isPermaLink="true">https://www.toutiao.com/article/7682005979407434246</guid>
+      <pubDate>Sat, 05 Sep 2026 00:00:00 +0800</pubDate>
+      <description>小米官方/IT时代网：小米官方公布 18 Fold“暖金白”与“黑色”两款新配色官图（此前已公布西野红），将于9月7日19点秋季发布会正式亮相。该机首发玄戒O3 3nm自研芯片+长鑫LPDDR6，内7.58/外5.38寸超级像素屏、徕卡2亿主摄，起售价12999元，成小米首款全版本破万元手机。</description>
     </item>
   </channel>
 </rss>
