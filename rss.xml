@@ -6,21 +6,14 @@
     <atom:link href="https://pyonline.github.io/xiaomi-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>每日自动聚合的小米（Xiaomi）最新新闻</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 06 Sep 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 00:00:00 +0800</lastBuildDate>
     <generator>xiaomi-news skill</generator>
     <item>
-      <title>小米发布并开源通用表格数据大模型 Xiaomi-TabLDM</title>
-      <link>https://www.chinaz.com/2026/0905/1775388.shtml</link>
-      <guid isPermaLink="true">https://www.chinaz.com/2026/0905/1775388.shtml</guid>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0800</pubDate>
-      <description>快科技：小米正式发布并开源通用表格数据基础大模型 Xiaomi-TabLDM：单一预训练模型、统一默认配置即可跨数据集直接完成分类与回归预测，打破“一表一模型”现状。模型在 TALENT、OpenML-CTR23、BCCO、TabArena 四大公开基准进入第一梯队，权重与代码已在 GitHub/HuggingFace 开源。</description>
-    </item>
-    <item>
-      <title>小米18 Fold两款新配色官图公布·起售12999元</title>
-      <link>https://www.toutiao.com/article/7682005979407434246</link>
-      <guid isPermaLink="true">https://www.toutiao.com/article/7682005979407434246</guid>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0800</pubDate>
-      <description>小米官方/IT时代网：小米官方公布 18 Fold“暖金白”与“黑色”两款新配色官图（此前已公布西野红），将于9月7日19点秋季发布会正式亮相。该机首发玄戒O3 3nm自研芯片+长鑫LPDDR6，内7.58/外5.38寸超级像素屏、徕卡2亿主摄，起售价12999元，成小米首款全版本破万元手机。</description>
+      <title>雷军官宣：小米汽车累计交付突破80万辆，两年半达成新里程碑</title>
+      <link>https://news.qq.com/rain/a/20260907A03NHI00</link>
+      <guid isPermaLink="true">https://news.qq.com/rain/a/20260907A03NHI00</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0800</pubDate>
+      <description>凤凰网科技：9月7日，雷军宣布小米汽车累计交付量已超过80万辆，自2024年3月首款SU7上市、4月启动首批交付算起，用时约两年半达成。7月30日澎程技术发布会上曾披露SU7与YU7两款车型累计交付已超70万辆，此后仅一个多月便突破80万。2026年8月小米汽车交付量持续超过3万台，公司表示正全力为澎程上市交付做准备。</description>
     </item>
   </channel>
 </rss>
