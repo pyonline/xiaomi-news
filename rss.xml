@@ -6,42 +6,21 @@
     <atom:link href="https://pyonline.github.io/xiaomi-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>每日自动聚合的小米（Xiaomi）最新新闻</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 11 Sep 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 00:00:00 +0800</lastBuildDate>
     <generator>xiaomi-news skill</generator>
     <item>
-      <title>澎程N90 Max“七车叠罗汉”顶压测试成功 底部车承17吨乘员舱完好</title>
-      <link>https://weibo.com/ttarticle/p/show?id=2309405341753418317975</link>
-      <guid isPermaLink="true">https://weibo.com/ttarticle/p/show?id=2309405341753418317975</guid>
+      <title>雷军：小米澎程明日开启全国交付，覆盖75座城市</title>
+      <link>https://www.sohu.com/a/1074778938_118778</link>
+      <guid isPermaLink="true">https://www.sohu.com/a/1074778938_118778</guid>
       <pubDate>Fri, 11 Sep 2026 00:00:00 +0800</pubDate>
-      <description>小米汽车：9月11日小米汽车答网友问第287集详解发布会“七车叠罗汉”顶压测试：7台N90 Max垂直叠放，最下方承受6台同款共17吨，乘员舱结构完好、ABCD柱无明显变形、四门可正常开关；车身采用铠甲笼式结构，高强度钢和铝合金占比90.4%，配2200MPa内嵌式防滚架。</description>
+      <description>搜狐汽车：9月11日，雷军通过微博宣布，小米澎程系列增程SUV将于9月12日正式开启全国交付，首批覆盖全国75座城市。澎程系列9月7日上市，开售4分钟锁单突破1万台（N90 Max版直接售罄），基于“昆仑技术架构”打造，定位“智能可变大空间”；小米汽车北京工厂产能利用率已超90%，SU7与澎程共线生产，全国门店超200家。</description>
     </item>
     <item>
-      <title>小米启动HyperOS 4全球测试版招募 首批覆盖三款机型</title>
-      <link>https://so.html5.qq.com/page/real/search_news?docid=70000021_3286aa34f5644052</link>
-      <guid isPermaLink="true">https://so.html5.qq.com/page/real/search_news?docid=70000021_3286aa34f5644052</guid>
+      <title>小米开源工业级目标说话人语音识别大模型 Xiaomi-CocktailASR-1</title>
+      <link>https://news.qq.com/rain/a/20260911A0A54400</link>
+      <guid isPermaLink="true">https://news.qq.com/rain/a/20260911A0A54400</guid>
       <pubDate>Fri, 11 Sep 2026 00:00:00 +0800</pubDate>
-      <description>CNMO科技：小米已正式开启HyperOS 4全球测试版招募，首批覆盖小米17 Ultra、小米17以及“Leica Leitzphone powered by Xiaomi”三款机型的全球版和EEA版；第二批将于9月17日开放，包括小米17T Pro、小米17T、小米15 Ultra和小米15。</description>
-    </item>
-    <item>
-      <title>人民日报：小米武汉智能家电工厂装上“智慧大脑” 空调每6.5秒下线</title>
-      <link>https://so.html5.qq.com/page/real/search_news?docid=70000021_6776aa32dec20352</link>
-      <guid isPermaLink="true">https://so.html5.qq.com/page/real/search_news?docid=70000021_6776aa32dec20352</guid>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0800</pubDate>
-      <description>人民日报：9月11日《人民日报》报道，小米武汉智能家电工厂依托自研澎湃智能制造平台，集成65套AI视觉检测系统与12万个数据采集节点，平均每6.5秒下线一台空调，关键部件全部AI视觉质检、一次性合格率超99%；小米空调累计联网达1960万台，工厂形成“设计—研发—生产—验证”完整闭环。</description>
-    </item>
-    <item>
-      <title>雷军回应新华社：未来5年计划投入2000亿元研发费用</title>
-      <link>https://tech.ifeng.com/c/8wJ5BjOUmdc</link>
-      <guid isPermaLink="true">https://tech.ifeng.com/c/8wJ5BjOUmdc</guid>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0800</pubDate>
-      <description>凤凰网科技：9月10日，新华社发文报道小米玄戒三芯、澎程系列新车发布，称底层技术自研打开科技创新空间。雷军随后发文回应：技术为本是小米永不更改的铁律，未来5年计划投入2000亿元研发费用，持续加大硬核科技研发投入。</description>
-    </item>
-    <item>
-      <title>启境汽车回应误发“小米澎程攻防”信息：并非策划攻击、拉踩友商</title>
-      <link>https://www.cs.com.cn/ssgs/01/2026/09/10/detail_2026091010038310.html</link>
-      <guid isPermaLink="true">https://www.cs.com.cn/ssgs/01/2026/09/10/detail_2026091010038310.html</guid>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0800</pubDate>
-      <description>中证网：9月10日，针对工作人员在媒体群误发“小米澎程攻防”相关信息，启境汽车发布说明称系操作失误，发现后处置仓促解散了媒体群；“攻防”是内部对同期产品进行信息监测、差异梳理和事实核验的工作用语，并非策划攻击、拉踩友商，对此致歉并将复盘改进管理。</description>
+      <description>IT之家：9月11日，小米技术宣布正式发布并开源工业级目标说话人语音识别大模型 Xiaomi-CocktailASR-1，主攻“鸡尾酒会”难题：采用端到端LLM架构，以目标说话人一段参考音频为声纹提示，可在多人重叠发言中仅转录目标用户语音，在AliMeeting、AMI、LibriMix等主流测试集达SOTA，并具备负样本拒识与思维链推理能力；权重与推理代码已开源（Apache 2.0，GitHub/huggingface可下）。</description>
     </item>
   </channel>
 </rss>
