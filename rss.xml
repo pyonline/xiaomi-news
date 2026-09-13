@@ -6,21 +6,28 @@
     <atom:link href="https://pyonline.github.io/xiaomi-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>每日自动聚合的小米（Xiaomi）最新新闻</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 12 Sep 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 00:00:00 +0800</lastBuildDate>
     <generator>xiaomi-news skill</generator>
     <item>
-      <title>雷军：小米澎程明日开启全国交付，覆盖75座城市</title>
-      <link>https://www.sohu.com/a/1074778938_118778</link>
-      <guid isPermaLink="true">https://www.sohu.com/a/1074778938_118778</guid>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0800</pubDate>
-      <description>搜狐汽车：9月11日，雷军通过微博宣布，小米澎程系列增程SUV将于9月12日正式开启全国交付，首批覆盖全国75座城市。澎程系列9月7日上市，开售4分钟锁单突破1万台（N90 Max版直接售罄），基于“昆仑技术架构”打造，定位“智能可变大空间”；小米汽车北京工厂产能利用率已超90%，SU7与澎程共线生产，全国门店超200家。</description>
+      <title>小米 18 Fold 与澎程新车集中上市，首周末门店客流较平日暴涨 400%</title>
+      <link>https://caifuhao.eastmoney.com/news/20260913061155100658050</link>
+      <guid isPermaLink="true">https://caifuhao.eastmoney.com/news/20260913061155100658050</guid>
+      <pubDate>Sun, 13 Sep 2026 00:00:00 +0800</pubDate>
+      <description>经济观察网 / 东方财富：小米方面披露，近期全国多地小米之家迎来客流高峰，部分门店高峰时段客流量较平日暴涨 400%。现象出现在 18 Fold 与澎程系列新车集中上市后的首个周末，消费者到店上手折叠屏并预约试驾，人车家全生态实现双向导流。</description>
     </item>
     <item>
-      <title>小米开源工业级目标说话人语音识别大模型 Xiaomi-CocktailASR-1</title>
-      <link>https://news.qq.com/rain/a/20260911A0A54400</link>
-      <guid isPermaLink="true">https://news.qq.com/rain/a/20260911A0A54400</guid>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0800</pubDate>
-      <description>IT之家：9月11日，小米技术宣布正式发布并开源工业级目标说话人语音识别大模型 Xiaomi-CocktailASR-1，主攻“鸡尾酒会”难题：采用端到端LLM架构，以目标说话人一段参考音频为声纹提示，可在多人重叠发言中仅转录目标用户语音，在AliMeeting、AMI、LibriMix等主流测试集达SOTA，并具备负样本拒识与思维链推理能力；权重与推理代码已开源（Apache 2.0，GitHub/huggingface可下）。</description>
+      <title>小米 18 Fold 首销日销量约 3.6 万台，较上代大折叠同比增长 310%</title>
+      <link>https://tech.sina.cn/2026-09-12/detail-inirqrww5117691.d.html</link>
+      <guid isPermaLink="true">https://tech.sina.cn/2026-09-12/detail-inirqrww5117691.d.html</guid>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0800</pubDate>
+      <description>新浪科技 / 快科技：博主 RD 观测公布数据显示，小米 18 Fold 开售当日销量约 3.6 万台（10999 元起）。官方此前称首销较上代大折叠同比增长 310%；卢伟冰确认西野红顶配版线上全渠道缺货，正抓紧补货。</description>
+    </item>
+    <item>
+      <title>小米澎程全国交付首站落地徐州，雷军亲赴现场为车主开车门再上热搜</title>
+      <link>https://k.sina.com.cn/article_1644114654_61ff32de020029lki.html?subch=onews</link>
+      <guid isPermaLink="true">https://k.sina.com.cn/article_1644114654_61ff32de020029lki.html?subch=onews</guid>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0800</pubDate>
+      <description>新浪新闻 / 新京报：9 月 12 日小米澎程系列正式开启全国交付，首站落地江苏徐州（古称“彭城”，与“澎程”谐音）。首批 20 位车主同日提车，雷军携团队现场迎接、逐一开车门并目送驶离，从上市到交付仅 5 天，相关话题登上热搜。</description>
     </item>
   </channel>
 </rss>
