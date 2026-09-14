@@ -6,28 +6,21 @@
     <atom:link href="https://pyonline.github.io/xiaomi-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>每日自动聚合的小米（Xiaomi）最新新闻</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 13 Sep 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 00:00:00 +0800</lastBuildDate>
     <generator>xiaomi-news skill</generator>
     <item>
-      <title>小米 18 Fold 与澎程新车集中上市，首周末门店客流较平日暴涨 400%</title>
-      <link>https://caifuhao.eastmoney.com/news/20260913061155100658050</link>
-      <guid isPermaLink="true">https://caifuhao.eastmoney.com/news/20260913061155100658050</guid>
+      <title>雷军为小米澎程上海首批 30 位车主交付新车，上海市场交付正式开启</title>
+      <link>https://www.qudong.com/article/521399.html</link>
+      <guid isPermaLink="true">https://www.qudong.com/article/521399.html</guid>
       <pubDate>Sun, 13 Sep 2026 00:00:00 +0800</pubDate>
-      <description>经济观察网 / 东方财富：小米方面披露，近期全国多地小米之家迎来客流高峰，部分门店高峰时段客流量较平日暴涨 400%。现象出现在 18 Fold 与澎程系列新车集中上市后的首个周末，消费者到店上手折叠屏并预约试驾，人车家全生态实现双向导流。</description>
+      <description>驱动中国 / 环球网：9 月 13 日，小米汽车官方宣布小米澎程迎来上海首批车主，雷军亲临现场为 30 位车主及家人交付新车。这标志着小米汽车在上海市场的用户交付工作正式开启，是其 9 月 12 日徐州首站（20 位车主）之后第二个重点城市的规模化交付，全国 75 城交付体系加速铺开。</description>
     </item>
     <item>
-      <title>小米 18 Fold 首销日销量约 3.6 万台，较上代大折叠同比增长 310%</title>
-      <link>https://tech.sina.cn/2026-09-12/detail-inirqrww5117691.d.html</link>
-      <guid isPermaLink="true">https://tech.sina.cn/2026-09-12/detail-inirqrww5117691.d.html</guid>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 +0800</pubDate>
-      <description>新浪科技 / 快科技：博主 RD 观测公布数据显示，小米 18 Fold 开售当日销量约 3.6 万台（10999 元起）。官方此前称首销较上代大折叠同比增长 310%；卢伟冰确认西野红顶配版线上全渠道缺货，正抓紧补货。</description>
-    </item>
-    <item>
-      <title>小米澎程全国交付首站落地徐州，雷军亲赴现场为车主开车门再上热搜</title>
-      <link>https://k.sina.com.cn/article_1644114654_61ff32de020029lki.html?subch=onews</link>
-      <guid isPermaLink="true">https://k.sina.com.cn/article_1644114654_61ff32de020029lki.html?subch=onews</guid>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 +0800</pubDate>
-      <description>新浪新闻 / 新京报：9 月 12 日小米澎程系列正式开启全国交付，首站落地江苏徐州（古称“彭城”，与“澎程”谐音）。首批 20 位车主同日提车，雷军携团队现场迎接、逐一开车门并目送驶离，从上市到交付仅 5 天，相关话题登上热搜。</description>
+      <title>雷军徐州参观徐工集团并试驾挖掘机，&quot;小米跨界造重工&quot;引发热议</title>
+      <link>https://dy.163.com/article/L6N01VGI0530RMN7.html</link>
+      <guid isPermaLink="true">https://dy.163.com/article/L6N01VGI0530RMN7.html</guid>
+      <pubDate>Sun, 13 Sep 2026 00:00:00 +0800</pubDate>
+      <description>网易订阅 / 数码八叔：在徐州交付之行期间，雷军赴徐工集团参观交流并坐进轮式挖掘机驾驶室亲身试驾，相关视频 9 月 13 日刷屏网络，引发&quot;小米是否跨界造挖掘机/重工&quot;的调侃与热议。理性解读认为此次为企业间技术交流，意在考察液压、电控、智能驾驶等硬件技术以反哺汽车研发，并非下场造工程机械。</description>
     </item>
   </channel>
 </rss>
