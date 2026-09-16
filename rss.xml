@@ -6,35 +6,28 @@
     <atom:link href="https://pyonline.github.io/xiaomi-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>每日自动聚合的小米（Xiaomi）最新新闻</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 15 Sep 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 00:00:00 +0800</lastBuildDate>
     <generator>xiaomi-news skill</generator>
     <item>
-      <title>小米官宣9月「主动智能」发布会：卢伟冰谈米家下一个十年，净烟机3 Max/门锁5 Max/扫拖机器人7 Max等新品亮相</title>
-      <link>https://news.10jqka.com.cn/20260915/c679902567.shtml</link>
-      <guid isPermaLink="true">https://news.10jqka.com.cn/20260915/c679902567.shtml</guid>
+      <title>小米汽车订单强势反弹，澎程系列成新爆款：第37周周订单47750台环比增635%，8月交付连续5个月破3万</title>
+      <link>https://auto.sina.cn/2026-09-16/detail-inirxxxq3370400.d.html</link>
+      <guid isPermaLink="true">https://auto.sina.cn/2026-09-16/detail-inirxxxq3370400.d.html</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0800</pubDate>
+      <description>新浪汽车 / 汽车显微镜：据第三方机构“新能源探索录”统计，小米汽车第37周（9月7日-13日）周订单达47750台，环比增长635%，在新能源品牌中排名第二，仅次于比亚迪。增长主因是9月7日晚澎程系列上市后订单回补与集中释放（前一周处于新老车型切换空窗期，基数约6500台）。8月小米汽车交付超30000台，连续第5个月站稳该关口（SU7约16518辆、YU7约13635辆）；1-8月累计交付约24.6万辆，完成全年55万辆目标约44%；9月7日雷军宣布累计交付突破80万辆。澎程单周订单约4万台成绝对主力，配置上N90 Max占比约55%、N70 Max约20%、N70 Pro仅约5%；用户画像为30-45岁男性占80%、家庭增换购约80%，与SU7/YU7用户基本不重叠。</description>
+    </item>
+    <item>
+      <title>中国青年报：最冷的增程赛道迎来最热的新车，解析小米为何在增程退潮时大举押注澎程</title>
+      <link>https://www.toutiao.com/article/7685899414279422516/</link>
+      <guid isPermaLink="true">https://www.toutiao.com/article/7685899414279422516/</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0800</pubDate>
+      <description>中国青年报 / 今日头条：9月16日中国青年报发文分析小米9月7日秋季发布会后逆势押注增程的市场逻辑。文章指出，乘联分会数据显示2026年上半年国内增程式乘用车批发量50.4万辆、同比下降13.1%，零售43.9万辆、下降19.4%，是纯电/插混/增程三条路线中唯一批零双降的品类，83款在售增程车型月均零售破5000辆的仅问界M7一款。小米打法：一是大电池——N70 Max搭载76度三元锂、CLTC纯电续航505公里（市面最长增程纯电续航），N70系列亏电油耗5.7-6.1升、支持92号汽油，N90 Max综合续航1705公里；二是空间——首创“智能可变大空间”，N90 Max探索版配国内SUV唯一原生电动升降顶舱，车内挑高2.29米，雷军称其为“移动的房子”。文章认为“人车家全生态”战略首次有了可触摸的完整形态。</description>
+    </item>
+    <item>
+      <title>卢伟冰官宣小米18 Pro系列本月发布：称“史上最大升级”，将搭载全新百变背屏对决iPhone 18 Pro</title>
+      <link>https://www.36kr.com/p/3984289450432384</link>
+      <guid isPermaLink="true">https://www.36kr.com/p/3984289450432384</guid>
       <pubDate>Tue, 15 Sep 2026 00:00:00 +0800</pubDate>
-      <description>同花顺财经 / 中关村在线：9月14日卢伟冰发文，明确米家下一个十年主线为「主动智能」——设备从被动响应转向自主感知、理解并主动服务。9月发布会将亮相小米电视S Pro RGB-Mini LED、米家智能净烟机3 Max、小米智能门锁5 Max、米家扫拖机器人7 Max等多款新品，覆盖客厅、厨房、入户与清洁场景。上半年小米研发投入超180亿元，MiMo大模型调用破一万亿Token，IoT连接设备破11亿。</description>
-    </item>
-    <item>
-      <title>小米平板9 / 平板9 Pro无预告直接上架预售：11.2&quot;/12.5&quot; 3.2K屏、2999元起</title>
-      <link>https://c.m.163.com/news/a/L6QSEKLI0511RFLI.html</link>
-      <guid isPermaLink="true">https://c.m.163.com/news/a/L6QSEKLI0511RFLI.html</guid>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0800</pubDate>
-      <description>网易新闻：小米平板9与平板9 Pro在毫无预告下直接上架官网预售。平板9：11.2英寸3.2K 144Hz LCD、骁龙8s Gen 4、9720mAh+45W，2999元起；平板9 Pro：12.5英寸3.2K、骁龙8 Gen 5、11000mAh+67W、6扬声器，3799元起。相较前代屏幕与电池升级，但Pro版处理器由骁龙8 Elite换为8 Gen 5。</description>
-    </item>
-    <item>
-      <title>小米集团-W港股涨超3%报27.12港元，里昂、国泰海通称Q3见底、Q4反弹迎基本面拐点</title>
-      <link>https://www.toutiao.com/article/7685229392397615679/</link>
-      <guid isPermaLink="true">https://www.toutiao.com/article/7685229392397615679/</guid>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0800</pubDate>
-      <description>智通财经 / 今日头条：9月14日小米集团-W(01810)涨超3%，收报27.12港元，成交额15.57亿港元。消息面为澎程系列上市及旗舰密集发售。里昂指出随新旗舰推出，收入及盈利应于2026年Q3见底、Q4反弹；国泰海通认为下半年成本边际改善叠加新车拉动，或迎基本面拐点。</description>
-    </item>
-    <item>
-      <title>澎湃OS 4第三批9月17日推送：8款设备确认，含REDMI K80系列与MIX Flip 2</title>
-      <link>https://www.toutiao.com/article/7685400870707675686/</link>
-      <guid isPermaLink="true">https://www.toutiao.com/article/7685400870707675686/</guid>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0800</pubDate>
-      <description>今日头条 / 小8说科技：小米官方公布澎湃OS 4第三批Beta于9月17日起陆续推送，共8款设备：REDMI K100 Pro Max、K100 Pro、K80 Pro、K80至尊版、K80、Xiaomi MIX Flip 2，以及平板Pad 7 Ultra、Pad 7S Pro 12.5。9月16日11点开放小米社区内测报名。小米13/14、Civi 5 Pro、MIX Fold 3/4暂未入选本轮。</description>
+      <description>36氪 / IT之家：9月15日，小米集团合伙人、总裁卢伟冰在微博为小米18 Pro系列开启预热，明确表示“全新的小米18 Pro系列将于本月发布，这是小米数字系列有史以来升级最大的一次”，在性能、影像、续航、AI能力等方面均有显著提升。IT之家同日早报进一步确认Pro版将搭载升级后的“妙享背屏”（百变背屏），多方面体验提升。多方爆料显示该机首发高通第六代骁龙8至尊版（台积电2nm、主频首破5GHz），配LPDDR6与UFS 5.0，正面对标9月9日发布、9月18日开售的苹果iPhone 18 Pro系列；标准版小米18或推迟至12月底，“Pro先行”节奏被广泛解读为对标苹果高端策略。</description>
     </item>
   </channel>
 </rss>
