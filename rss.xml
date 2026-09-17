@@ -6,28 +6,28 @@
     <atom:link href="https://pyonline.github.io/xiaomi-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>每日自动聚合的小米（Xiaomi）最新新闻</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 16 Sep 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 00:00:00 +0800</lastBuildDate>
     <generator>xiaomi-news skill</generator>
     <item>
-      <title>小米汽车订单强势反弹，澎程系列成新爆款：第37周周订单47750台环比增635%，8月交付连续5个月破3万</title>
-      <link>https://auto.sina.cn/2026-09-16/detail-inirxxxq3370400.d.html</link>
-      <guid isPermaLink="true">https://auto.sina.cn/2026-09-16/detail-inirxxxq3370400.d.html</guid>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0800</pubDate>
-      <description>新浪汽车 / 汽车显微镜：据第三方机构“新能源探索录”统计，小米汽车第37周（9月7日-13日）周订单达47750台，环比增长635%，在新能源品牌中排名第二，仅次于比亚迪。增长主因是9月7日晚澎程系列上市后订单回补与集中释放（前一周处于新老车型切换空窗期，基数约6500台）。8月小米汽车交付超30000台，连续第5个月站稳该关口（SU7约16518辆、YU7约13635辆）；1-8月累计交付约24.6万辆，完成全年55万辆目标约44%；9月7日雷军宣布累计交付突破80万辆。澎程单周订单约4万台成绝对主力，配置上N90 Max占比约55%、N70 Max约20%、N70 Pro仅约5%；用户画像为30-45岁男性占80%、家庭增换购约80%，与SU7/YU7用户基本不重叠。</description>
+      <title>雷军亚洲质量大会首揭小米质量体系：累计2696辆测试车、路测超4000万公里、802间实验室，未来5年研发2000亿</title>
+      <link>https://www.163.com/dy/article/L7087FSH05527PMU.html</link>
+      <guid isPermaLink="true">https://www.163.com/dy/article/L7087FSH05527PMU.html</guid>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0800</pubDate>
+      <description>IT时代网 / 每日经济新闻 / 虎嗅：9月16日，雷军受中国质量协会邀请，在第24届亚洲质量网组织大会上作为产业界代表发表演讲，首次系统披露小米质量管理体系。据其介绍，小米自2017年成立质量委员会、实施一票否决制，目前拥有802间自建实验室及35间联合实验室；过去5年累计研发投入约1050亿元，未来5年计划投入超2000亿元。造车方面，截至8月31日小米累计投入2696辆测试车、路测里程超4000万公里，覆盖高寒高温高原等极端环境，上市后仍持续泛化测试；龙甲电池全链路自研，质量信息存档15年，并推出“安心保障计划”（原厂电池质量问题达报废标准赔同配新车、碰撞起火达报废补偿车损险与保险差额）。雷军强调“质量没有捷径”，尽管AI带来质量新纪元，但数字化模拟无法替代真实测试。</description>
     </item>
     <item>
-      <title>中国青年报：最冷的增程赛道迎来最热的新车，解析小米为何在增程退潮时大举押注澎程</title>
-      <link>https://www.toutiao.com/article/7685899414279422516/</link>
-      <guid isPermaLink="true">https://www.toutiao.com/article/7685899414279422516/</guid>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0800</pubDate>
-      <description>中国青年报 / 今日头条：9月16日中国青年报发文分析小米9月7日秋季发布会后逆势押注增程的市场逻辑。文章指出，乘联分会数据显示2026年上半年国内增程式乘用车批发量50.4万辆、同比下降13.1%，零售43.9万辆、下降19.4%，是纯电/插混/增程三条路线中唯一批零双降的品类，83款在售增程车型月均零售破5000辆的仅问界M7一款。小米打法：一是大电池——N70 Max搭载76度三元锂、CLTC纯电续航505公里（市面最长增程纯电续航），N70系列亏电油耗5.7-6.1升、支持92号汽油，N90 Max综合续航1705公里；二是空间——首创“智能可变大空间”，N90 Max探索版配国内SUV唯一原生电动升降顶舱，车内挑高2.29米，雷军称其为“移动的房子”。文章认为“人车家全生态”战略首次有了可触摸的完整形态。</description>
+      <title>小米 MiMo-V2.6 强化学习训练直播：罗福莉官宣，开放实时训练仪表盘，细节将逐步开源</title>
+      <link>https://news.10jqka.com.cn/20260917/c679993717.shtml</link>
+      <guid isPermaLink="true">https://news.10jqka.com.cn/20260917/c679993717.shtml</guid>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0800</pubDate>
+      <description>同花顺财经 / AGI Hunt：沉寂约半年后，小米大模型负责人罗福莉于9月17日宣布 MiMo-V2.6 正处于强化学习（RL）训练中途，并罕见地全程直播训练过程、开放实时仪表盘（mimo.xiaomi.com/rl/），训练细节将在未来数周逐步开源。团队称近半年专注于研究“RL 能扩展到多远”，本轮在三个方向做了 Scaling：计算（每步约20亿 token、1568个提示×16次 rollout、完全异步）、环境与框架（多任务 Agentic RL，一次运行中混合多个 harness）、评分算力（Agentic 组内信用分配 + 测试用例与量规奖励）。模型规格：MiMo-V2.6 Pro 总参1T、激活42B；MiMo-V2.6 Flash 总参309B、激活15B。直播首日 DeepSWE 基准进度已达约60%。</description>
     </item>
     <item>
-      <title>卢伟冰官宣小米18 Pro系列本月发布：称“史上最大升级”，将搭载全新百变背屏对决iPhone 18 Pro</title>
-      <link>https://www.36kr.com/p/3984289450432384</link>
-      <guid isPermaLink="true">https://www.36kr.com/p/3984289450432384</guid>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0800</pubDate>
-      <description>36氪 / IT之家：9月15日，小米集团合伙人、总裁卢伟冰在微博为小米18 Pro系列开启预热，明确表示“全新的小米18 Pro系列将于本月发布，这是小米数字系列有史以来升级最大的一次”，在性能、影像、续航、AI能力等方面均有显著提升。IT之家同日早报进一步确认Pro版将搭载升级后的“妙享背屏”（百变背屏），多方面体验提升。多方爆料显示该机首发高通第六代骁龙8至尊版（台积电2nm、主频首破5GHz），配LPDDR6与UFS 5.0，正面对标9月9日发布、9月18日开售的苹果iPhone 18 Pro系列；标准版小米18或推迟至12月底，“Pro先行”节奏被广泛解读为对标苹果高端策略。</description>
+      <title>小米 MiMo-V2.5 登全球大模型双盲榜第五，周调用量环比增约230%</title>
+      <link>https://k.sina.com.cn/article_7879923041_1d5ae156106801kk1i.html</link>
+      <guid isPermaLink="true">https://k.sina.com.cn/article_7879923041_1d5ae156106801kk1i.html</guid>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0800</pubDate>
+      <description>新浪新闻：9月17日新浪科技报道，小米 MiMo-V2.5 在上周全球 AI 大模型调用量排名中升至第五，周调用量较此前增长明显、环比增幅约230%。在更受认可的 Text Arena 双盲评测（全球真实用户匿名投票）中，MiMo-V2-Pro 取得 Model Rank 全球第五。报道指出，小米采取“双线并行”策略：一方面坚持双盲评测验证通用能力，另一方面通过 MiMoX 桌面客户端等产品把模型部署到文档、表格、音视频、编程、电脑操控等真实任务中，采集操作日志、成功率与完成时长形成闭环调优——类似特斯拉用真实驾驶数据训练 FSD，仿真提供基线、真实场景决定天花板。</description>
     </item>
   </channel>
 </rss>
