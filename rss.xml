@@ -6,28 +6,21 @@
     <atom:link href="https://pyonline.github.io/xiaomi-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>每日自动聚合的小米（Xiaomi）最新新闻</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 17 Sep 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 00:00:00 +0800</lastBuildDate>
     <generator>xiaomi-news skill</generator>
     <item>
-      <title>雷军亚洲质量大会首揭小米质量体系：累计2696辆测试车、路测超4000万公里、802间实验室，未来5年研发2000亿</title>
-      <link>https://www.163.com/dy/article/L7087FSH05527PMU.html</link>
-      <guid isPermaLink="true">https://www.163.com/dy/article/L7087FSH05527PMU.html</guid>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0800</pubDate>
-      <description>IT时代网 / 每日经济新闻 / 虎嗅：9月16日，雷军受中国质量协会邀请，在第24届亚洲质量网组织大会上作为产业界代表发表演讲，首次系统披露小米质量管理体系。据其介绍，小米自2017年成立质量委员会、实施一票否决制，目前拥有802间自建实验室及35间联合实验室；过去5年累计研发投入约1050亿元，未来5年计划投入超2000亿元。造车方面，截至8月31日小米累计投入2696辆测试车、路测里程超4000万公里，覆盖高寒高温高原等极端环境，上市后仍持续泛化测试；龙甲电池全链路自研，质量信息存档15年，并推出“安心保障计划”（原厂电池质量问题达报废标准赔同配新车、碰撞起火达报废补偿车损险与保险差额）。雷军强调“质量没有捷径”，尽管AI带来质量新纪元，但数字化模拟无法替代真实测试。</description>
+      <title>小米澎湃OS 4全球Beta测试范围扩大，新增小米17T系列、15系列</title>
+      <link>https://www.chinaz.com/2026/0918/1777716.shtml</link>
+      <guid isPermaLink="true">https://www.chinaz.com/2026/0918/1777716.shtml</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0800</pubDate>
+      <description>站长之家 / 快科技：9月18日，小米进一步扩大澎湃OS 4全球Beta测试范围，新一批机型开放招募，覆盖小米17T Pro、小米17T、小米15 Ultra、小米15。本轮测试主要面向搭载Global全球版和EEA欧洲版系统的用户，可通过小米社区App申请参与。澎湃OS 4基于Android 17打造，引入柔光玻璃设计，并对系统安全、应用启动与资源调度进行优化，整体流畅度与日常体验进一步提升。</description>
     </item>
     <item>
-      <title>小米 MiMo-V2.6 强化学习训练直播：罗福莉官宣，开放实时训练仪表盘，细节将逐步开源</title>
-      <link>https://news.10jqka.com.cn/20260917/c679993717.shtml</link>
-      <guid isPermaLink="true">https://news.10jqka.com.cn/20260917/c679993717.shtml</guid>
+      <title>小米澎湃OS 4正式版发版计划公布：10月15日开启首批推送</title>
+      <link>https://dy.163.com/article/L721B53S05527PMU.html</link>
+      <guid isPermaLink="true">https://dy.163.com/article/L721B53S05527PMU.html</guid>
       <pubDate>Thu, 17 Sep 2026 00:00:00 +0800</pubDate>
-      <description>同花顺财经 / AGI Hunt：沉寂约半年后，小米大模型负责人罗福莉于9月17日宣布 MiMo-V2.6 正处于强化学习（RL）训练中途，并罕见地全程直播训练过程、开放实时仪表盘（mimo.xiaomi.com/rl/），训练细节将在未来数周逐步开源。团队称近半年专注于研究“RL 能扩展到多远”，本轮在三个方向做了 Scaling：计算（每步约20亿 token、1568个提示×16次 rollout、完全异步）、环境与框架（多任务 Agentic RL，一次运行中混合多个 harness）、评分算力（Agentic 组内信用分配 + 测试用例与量规奖励）。模型规格：MiMo-V2.6 Pro 总参1T、激活42B；MiMo-V2.6 Flash 总参309B、激活15B。直播首日 DeepSWE 基准进度已达约60%。</description>
-    </item>
-    <item>
-      <title>小米 MiMo-V2.5 登全球大模型双盲榜第五，周调用量环比增约230%</title>
-      <link>https://k.sina.com.cn/article_7879923041_1d5ae156106801kk1i.html</link>
-      <guid isPermaLink="true">https://k.sina.com.cn/article_7879923041_1d5ae156106801kk1i.html</guid>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0800</pubDate>
-      <description>新浪新闻：9月17日新浪科技报道，小米 MiMo-V2.5 在上周全球 AI 大模型调用量排名中升至第五，周调用量较此前增长明显、环比增幅约230%。在更受认可的 Text Arena 双盲评测（全球真实用户匿名投票）中，MiMo-V2-Pro 取得 Model Rank 全球第五。报道指出，小米采取“双线并行”策略：一方面坚持双盲评测验证通用能力，另一方面通过 MiMoX 桌面客户端等产品把模型部署到文档、表格、音视频、编程、电脑操控等真实任务中，采集操作日志、成功率与完成时长形成闭环调优——类似特斯拉用真实驾驶数据训练 FSD，仿真提供基线、真实场景决定天花板。</description>
+      <description>IT时代网：9月17日，小米公布澎湃OS 4正式版推送计划：将于10月15日开启首批存量机型推送，小米17系列、REDMI K100 Pro、REDMI K90系列及小米平板8系列位列首批；小米15系列与REDMI K80系列等不晚于11月15日，小米14系列、REDMI K70系列等安排在12月。系统亮点集中在柔光玻璃、流畅度与超级小爱2.0（基于Xiaomi MiMo自研大模型，支持一句话完成相册精选、出行规划、全屋智能联动与车辆预调节）。</description>
     </item>
   </channel>
 </rss>
