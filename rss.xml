@@ -6,21 +6,28 @@
     <atom:link href="https://pyonline.github.io/xiaomi-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>每日自动聚合的小米（Xiaomi）最新新闻</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 18 Sep 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 00:00:00 +0800</lastBuildDate>
     <generator>xiaomi-news skill</generator>
     <item>
-      <title>小米澎湃OS 4全球Beta测试范围扩大，新增小米17T系列、15系列</title>
-      <link>https://www.chinaz.com/2026/0918/1777716.shtml</link>
-      <guid isPermaLink="true">https://www.chinaz.com/2026/0918/1777716.shtml</guid>
+      <title>雷军发文展示小米昌平手机智能工厂 iBrain 工业智能系统</title>
+      <link>https://news.qq.com/rain/a/20260918A05QV700</link>
+      <guid isPermaLink="true">https://news.qq.com/rain/a/20260918A05QV700</guid>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0800</pubDate>
-      <description>站长之家 / 快科技：9月18日，小米进一步扩大澎湃OS 4全球Beta测试范围，新一批机型开放招募，覆盖小米17T Pro、小米17T、小米15 Ultra、小米15。本轮测试主要面向搭载Global全球版和EEA欧洲版系统的用户，可通过小米社区App申请参与。澎湃OS 4基于Android 17打造，引入柔光玻璃设计，并对系统安全、应用启动与资源调度进行优化，整体流畅度与日常体验进一步提升。</description>
+      <description>腾讯新闻 / CNMO科技：9月18日，雷军通过微博展示央视探访小米昌平手机智能工厂，重点介绍自研工业智能系统 iBrain（感知/执行/决策三脑协同），使整座车间成为能自主运行、自主进化的智能体。以电池盖组装为例，双边间隙需控制在0.05毫米内，过去工程师手动调参需4小时，现 iBrain 自动推荐最佳参数2分钟即可完成；现场异常处理由2小时缩至3分钟。昌平工厂关键工艺自动化率与数字化管控率均达100%，每6秒下线一台旗舰机，单线产能600台/小时。</description>
     </item>
     <item>
-      <title>小米澎湃OS 4正式版发版计划公布：10月15日开启首批推送</title>
-      <link>https://dy.163.com/article/L721B53S05527PMU.html</link>
-      <guid isPermaLink="true">https://dy.163.com/article/L721B53S05527PMU.html</guid>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0800</pubDate>
-      <description>IT时代网：9月17日，小米公布澎湃OS 4正式版推送计划：将于10月15日开启首批存量机型推送，小米17系列、REDMI K100 Pro、REDMI K90系列及小米平板8系列位列首批；小米15系列与REDMI K80系列等不晚于11月15日，小米14系列、REDMI K70系列等安排在12月。系统亮点集中在柔光玻璃、流畅度与超级小爱2.0（基于Xiaomi MiMo自研大模型，支持一句话完成相册精选、出行规划、全屋智能联动与车辆预调节）。</description>
+      <title>徐洁云：小米已拥有3座自有智能工厂，并向产业链伙伴输出整套产线</title>
+      <link>https://news.qq.com/rain/a/20260918A06F3R00</link>
+      <guid isPermaLink="true">https://news.qq.com/rain/a/20260918A06F3R00</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0800</pubDate>
+      <description>腾讯新闻 / CNMO科技：9月18日，小米集团董事长特别助理徐洁云在微博披露小米智能制造最新进展：小米已构建从制造装备、整条产线到智能工厂操作系统在内的完备系统能力，拥有亦庄汽车工厂、昌平旗舰手机工厂、武汉大家电工厂3座自有智能工厂，分别对应汽车、手机、家电三大板块。小米已开始向制造业产业链伙伴输出整套智能制造产线，角色从“自用者”向“赋能者”延伸；雷军同期介绍的 iBrain 依托澎湃智能制造平台，使产线经验持续沉淀、智能体越用越聪明。</description>
+    </item>
+    <item>
+      <title>小米智能表盘2于9月18日开启新一轮开售，售价999元</title>
+      <link>https://h5.ifeng.com/c/vivoArticle/v002fgU4PvGVctmphpMJggFu--hl1Qqnp1OBOOOT4S7EMVBw__?isNews=1&amp;showComments=0</link>
+      <guid isPermaLink="true">https://h5.ifeng.com/c/vivoArticle/v002fgU4PvGVctmphpMJggFu--hl1Qqnp1OBOOOT4S7EMVBw__?isNews=1&amp;showComments=0</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0800</pubDate>
+      <description>凤凰网 / 网通社：9月17日小米宣布车载配件小米智能表盘2于9月18日10点开启新一轮开售，可通过小米汽车App商城购买，售价999元（上一代智能双表盘699元），9月7日首批货源发售当日售罄。二代产品采用整块大屏，新增可左右30度转动的机械结构，内置超过30种动态表情，轻触机身可触发表情反馈；接收“小爱同学”语音指令时表盘会转头朝向声源。覆盖小米SU7、SU7 Ultra、YU7及澎程等全系车型，安装于中控屏幕上方。</description>
     </item>
   </channel>
 </rss>
