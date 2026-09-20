@@ -6,28 +6,42 @@
     <atom:link href="https://pyonline.github.io/xiaomi-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>每日自动聚合的小米（Xiaomi）最新新闻</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 19 Sep 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 00:00:00 +0800</lastBuildDate>
     <generator>xiaomi-news skill</generator>
     <item>
-      <title>雷军发文展示小米昌平手机智能工厂 iBrain 工业智能系统</title>
-      <link>https://news.qq.com/rain/a/20260918A05QV700</link>
-      <guid isPermaLink="true">https://news.qq.com/rain/a/20260918A05QV700</guid>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0800</pubDate>
-      <description>腾讯新闻 / CNMO科技：9月18日，雷军通过微博展示央视探访小米昌平手机智能工厂，重点介绍自研工业智能系统 iBrain（感知/执行/决策三脑协同），使整座车间成为能自主运行、自主进化的智能体。以电池盖组装为例，双边间隙需控制在0.05毫米内，过去工程师手动调参需4小时，现 iBrain 自动推荐最佳参数2分钟即可完成；现场异常处理由2小时缩至3分钟。昌平工厂关键工艺自动化率与数字化管控率均达100%，每6秒下线一台旗舰机，单线产能600台/小时。</description>
+      <title>小米18 Fold维修备件价格公布：内屏3600元 主板3900元起</title>
+      <link>https://tech.ifeng.com/c/8wZ5L9gQQXA</link>
+      <guid isPermaLink="true">https://tech.ifeng.com/c/8wZ5L9gQQXA</guid>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 +0800</pubDate>
+      <description>凤凰网科技/快科技：小米18 Fold维修价出炉：内屏3600元、外屏750元；主板按版本3900-5930元（1TB版LPDDR6最高5930元）；陶瓷特别版电池盖1045元。机身采用龙晶玻璃3.0与双层UTG。</description>
     </item>
     <item>
-      <title>徐洁云：小米已拥有3座自有智能工厂，并向产业链伙伴输出整套产线</title>
-      <link>https://news.qq.com/rain/a/20260918A06F3R00</link>
-      <guid isPermaLink="true">https://news.qq.com/rain/a/20260918A06F3R00</guid>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0800</pubDate>
-      <description>腾讯新闻 / CNMO科技：9月18日，小米集团董事长特别助理徐洁云在微博披露小米智能制造最新进展：小米已构建从制造装备、整条产线到智能工厂操作系统在内的完备系统能力，拥有亦庄汽车工厂、昌平旗舰手机工厂、武汉大家电工厂3座自有智能工厂，分别对应汽车、手机、家电三大板块。小米已开始向制造业产业链伙伴输出整套智能制造产线，角色从“自用者”向“赋能者”延伸；雷军同期介绍的 iBrain 依托澎湃智能制造平台，使产线经验持续沉淀、智能体越用越聪明。</description>
+      <title>小米18 Pro系列官宣9月23日发布：全新百变背屏、首发澎湃OS 4</title>
+      <link>https://www.ithome.com/1/004/604.htm</link>
+      <guid isPermaLink="true">https://www.ithome.com/1/004/604.htm</guid>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 +0800</pubDate>
+      <description>IT之家：小米18 Pro系列定档9月23日发布，主打全新百变背屏并首发澎湃OS 4；工程机M610BB现身GeekBench，搭载第六代骁龙8至尊版，单核2831、多核8843分。</description>
     </item>
     <item>
-      <title>小米智能表盘2于9月18日开启新一轮开售，售价999元</title>
-      <link>https://h5.ifeng.com/c/vivoArticle/v002fgU4PvGVctmphpMJggFu--hl1Qqnp1OBOOOT4S7EMVBw__?isNews=1&amp;showComments=0</link>
-      <guid isPermaLink="true">https://h5.ifeng.com/c/vivoArticle/v002fgU4PvGVctmphpMJggFu--hl1Qqnp1OBOOOT4S7EMVBw__?isNews=1&amp;showComments=0</guid>
+      <title>小米YU7标准版续航实测：400V平台日常通勤一周一充够用</title>
+      <link>https://auto.sina.cn/2026-09-20/detail-iniskyis7195198.d.html</link>
+      <guid isPermaLink="true">https://auto.sina.cn/2026-09-20/detail-iniskyis7195198.d.html</guid>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 +0800</pubDate>
+      <description>新浪汽车：实测YU7标准版基于400V平台，充电效率与SU7标准版相当（9%-90%约33分钟），73.6kWh电池日常通勤一周一充无压力；常跑长途建议上Pro/Max版。</description>
+    </item>
+    <item>
+      <title>小米18 Fold开售7天激活量接近8万台 刷新折叠屏首销纪录</title>
+      <link>https://finance.sina.com.cn/tech/discovery/2026-09-19/doc-iniskptw7356599.shtml</link>
+      <guid isPermaLink="true">https://finance.sina.com.cn/tech/discovery/2026-09-19/doc-iniskptw7356599.shtml</guid>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0800</pubDate>
+      <description>新浪财经/快科技：据博主RD观测披露，小米18 Fold开售7天激活量接近8万台，刷新小米折叠屏销售纪录，较上代大折叠同比增长310%；万元档旗舰首销大爆发，部分版本供不应求。</description>
+    </item>
+    <item>
+      <title>雷军喊话小米澎程：真材实料随便测，不怕拆解不怕比较</title>
+      <link>https://k.sina.cn/article_7880068201_1d5b04c6906802h1rm.html</link>
+      <guid isPermaLink="true">https://k.sina.cn/article_7880068201_1d5b04c6906802h1rm.html</guid>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0800</pubDate>
-      <description>凤凰网 / 网通社：9月17日小米宣布车载配件小米智能表盘2于9月18日10点开启新一轮开售，可通过小米汽车App商城购买，售价999元（上一代智能双表盘699元），9月7日首批货源发售当日售罄。二代产品采用整块大屏，新增可左右30度转动的机械结构，内置超过30种动态表情，轻触机身可触发表情反馈；接收“小爱同学”语音指令时表盘会转头朝向声源。覆盖小米SU7、SU7 Ultra、YU7及澎程等全系车型，安装于中控屏幕上方。</description>
+      <description>新浪看点：雷军9月18日转发小米澎程N90直播拆车内容，公开喊话“真材实料，不怕拆解，不怕比较”，将新车推向透明化检验；拆车直播展示底盘、车身结构、线束与防撞梁等内部构造。</description>
     </item>
   </channel>
 </rss>
