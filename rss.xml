@@ -6,63 +6,42 @@
     <atom:link href="https://pyonline.github.io/xiaomi-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>每日自动聚合的小米（Xiaomi）最新新闻</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 26 Sep 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 00:00:00 +0800</lastBuildDate>
     <generator>xiaomi-news skill</generator>
     <item>
-      <title>新机盘点：小米18 Pro小屏旗舰与荣耀Magic9价格对比</title>
-      <link>https://www.163.com/dy/article/L7NJRJO2055616Z4.html</link>
-      <guid isPermaLink="true">https://www.163.com/dy/article/L7NJRJO2055616Z4.html</guid>
+      <title>卢伟冰：小米18 Pro会在今年内登陆国际市场，国外媒体和用户呼声很高</title>
+      <link>https://tech.ifeng.com/c/8wkjxapz9lv</link>
+      <guid isPermaLink="true">https://tech.ifeng.com/c/8wkjxapz9lv</guid>
+      <pubDate>Sun, 27 Sep 2026 00:00:00 +0800</pubDate>
+      <description>凤凰网科技/IT之家：小米集团合伙人、总裁卢伟冰9月26日晚发文透露，小米18 Pro系列将在今年内登陆国际市场；称国外媒体和用户对该系列呼声很高，期待早日上市。该系列9月23日发布，起售价5999元，透明特别版9999元起，首批备货快速售罄。</description>
+    </item>
+    <item>
+      <title>卢伟冰：小米18 Pro系列会在今年内登陆国际市场</title>
+      <link>https://www.163.com/dy/article/L7QO5KAG0511A6N9.html</link>
+      <guid isPermaLink="true">https://www.163.com/dy/article/L7QO5KAG0511A6N9.html</guid>
+      <pubDate>Sun, 27 Sep 2026 00:00:00 +0800</pubDate>
+      <description>网易号：9月27日消息，卢伟冰表示小米18 Pro系列会在今年内登陆国际市场，国外媒体和用户期待早日上市。该系列包含小米18 Pro与小米18 Pro Max两款，均全球首发第六代骁龙8至尊版，起售价分别为5999元与6999元。</description>
+    </item>
+    <item>
+      <title>卢伟冰：米家下一个十年，主攻主动智能家电</title>
+      <link>https://www.toutiao.com/article/7689498788783718954/</link>
+      <guid isPermaLink="true">https://www.toutiao.com/article/7689498788783718954/</guid>
+      <pubDate>Sun, 27 Sep 2026 00:00:00 +0800</pubDate>
+      <description>今日头条/环球网：卢伟冰提出米家下一个十年方向是“主动智能”，家电从被动响应升级为主动感知、理解、判断并主动服务人。底层支撑包括上半年研发投入180亿元、MiMo大模型累计调用破一万亿词元、玄戒三芯、IoT联网设备破11亿台；并公布电视S Pro、净烟机3 Max、门锁5 Max、扫拖机器人7 Max四款主动智能新品案例。</description>
+    </item>
+    <item>
+      <title>格力反超美的，小米跃居第四？2026空调品牌榜：小米市占率13.7%增速超50%</title>
+      <link>https://k.sina.com.cn/article_7879849103_1d5acf48f06801qct4.html</link>
+      <guid isPermaLink="true">https://k.sina.com.cn/article_7879849103_1d5acf48f06801qct4.html</guid>
+      <pubDate>Sun, 27 Sep 2026 00:00:00 +0800</pubDate>
+      <description>新浪：2026年9月空调品牌榜显示：格力以32.8%零售额份额重夺第一，美的29%紧随，小米以13.7%市占率、超50%同比增速跃居第四，成为最大黑马；海尔、奥克斯仍为稳定选择，华凌与小米同列性价比黑马。</description>
+    </item>
+    <item>
+      <title>小米18 Pro系列首销数据出炉：首销日销量约为上代25%，约7.5万台</title>
+      <link>https://weibo.com/7359963133/5347508886441903</link>
+      <guid isPermaLink="true">https://weibo.com/7359963133/5347508886441903</guid>
       <pubDate>Sat, 26 Sep 2026 00:00:00 +0800</pubDate>
-      <description>网易号：9月26日新机盘点：小米18 Pro延续6.4英寸小屏设计，搭载2nm骁龙8 Elite Gen6（主频5.01GHz）、7000mAh电池、100W有线+50W无线、2.9英寸背屏、2亿像素三摄，5999元起；对比荣耀Magic9（本月28日发布）16GB+512GB定价5999元，主打8000mAh大电池。文章指出新款旗舰普遍涨价至5000-6000元起。</description>
-    </item>
-    <item>
-      <title>小米秋季新品发布会在北京举行</title>
-      <link>https://www.cfbond.com/ejy/qyzx/4896221343.shtml</link>
-      <guid isPermaLink="true">https://www.cfbond.com/ejy/qyzx/4896221343.shtml</guid>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0800</pubDate>
-      <description>中国财富网：9月23日小米秋季新品发布会在北京举行，18 Pro、18 Pro Max发布，平板9系列、手环11、手表S5及多款科技家电同步亮相。18 Pro Max采用Offset PoP高导热封装工艺，峰值性能持续时间提升100%；AI百变背屏支持宠物/IP/二次元形象定制与AI动态合影；影像为徕卡双两亿像素三摄，配“传奇一瞬”功能。</description>
-    </item>
-    <item>
-      <title>小米18 Pro系列首销第二天：全国小米之家线下爆满</title>
-      <link>https://finance.sina.cn/tech/2026-09-25/detail-iniszfec7806907.d.html</link>
-      <guid isPermaLink="true">https://finance.sina.cn/tech/2026-09-25/detail-iniszfec7806907.d.html</guid>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0800</pubDate>
-      <description>快科技/新浪：9月25日，卢伟冰与小米手机官微晒出中秋假期全国小米之家现场照片：18 Pro系列首销第二天线下门店持续爆棚，河南、山东、江苏等多地客流明显攀升，用户重点上手背屏与2亿像素影像。该系列9月23日晚发布并同步开售，含18 Pro、18 Pro Max及透明特别版，全系搭载AI百变背屏与澎湃OS 4。</description>
-    </item>
-    <item>
-      <title>小米召开2026秋季新品发布会 小米18 Pro系列等多款新品同步上市</title>
-      <link>https://cn.chinadaily.com.cn/a/202609/24/WS6ab4d214e4b09a165c78c885.html</link>
-      <guid isPermaLink="true">https://cn.chinadaily.com.cn/a/202609/24/WS6ab4d214e4b09a165c78c885.html</guid>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0800</pubDate>
-      <description>中国日报网：9月23日小米秋季新品发布会在北京举行，18 Pro、18 Pro Max正式发布，小米平板9系列、小米手环11、小米手表S5及多款科技家电同步亮相。AI能力进一步进入小米电视、净烟机、智能门锁等家电，推动从“被动响应”走向“主动服务”。此前9月7日小米已发布18 Fold及澎程系列新车，9月“科技大月”持续上新。</description>
-    </item>
-    <item>
-      <title>AI赋能终端产品迭代 小米发布多款新品拓展人车家全生态</title>
-      <link>https://www.news.cn/tech/20260924/1dcd469b76984a5b946abcb6f92508bf/c.html</link>
-      <guid isPermaLink="true">https://www.news.cn/tech/20260924/1dcd469b76984a5b946abcb6f92508bf/c.html</guid>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0800</pubDate>
-      <description>新华网：9月23日小米发布18 Pro系列手机，并推出平板、智能穿戴与多款智能家电，推进“人车家全生态”布局。小米电视S Pro RGB-Mini LED 2027用毫米波雷达识别观看位置并AI色彩修正；米家净烟机3 Max用AI视觉识别油烟自动调挡；智能门锁5 Max用多模态大模型识别访客。18 Pro起售价5999元、Pro Max 6999元、透明版9999元起。</description>
-    </item>
-    <item>
-      <title>小米18 Pro系列正式发布：性能、屏幕、背屏、影像全面升级</title>
-      <link>https://www.jiemian.com/article/15134531.html</link>
-      <guid isPermaLink="true">https://www.jiemian.com/article/15134531.html</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0800</pubDate>
-      <description>界面新闻：9月23日，小米秋季新品发布会在北京举行，小米18 Pro、小米18 Pro Max正式发布。全系全球首发高通新一代骁龙2nm旗舰平台，Pro搭载第六代骁龙8至尊版、Pro Max搭载第六代骁龙8超级至尊版，CPU主频首破5GHz；屏幕搭载超级像素2.0并首次融入硬件级防窥；AI百变背屏支持AI生成动态合影与专属应用卡；徕卡双两亿像素三摄+“传奇一瞬”端到端影像大模型；超级小爱2.0可调用260+系统工具。18 Pro起售价5999元、18 Pro Max起售6999元、透明特别版9999元起。</description>
-    </item>
-    <item>
-      <title>小米18 Pro系列发布：首发高通2nm双平台、徕卡双两亿影像加持</title>
-      <link>https://finance.sina.com.cn/tech/roll/2026-09-23/doc-inisvumx1006789.shtml</link>
-      <guid isPermaLink="true">https://finance.sina.com.cn/tech/roll/2026-09-23/doc-inisvumx1006789.shtml</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0800</pubDate>
-      <description>新浪财经：小米18 Pro系列9月23日晚正式发布并同步开售。Pro配备7000mAh金沙江电池、Pro Max 8500mAh，全系100W有线+50W无线快充；预装澎湃OS 4，超级小爱2.0通过泰尔实验室全生态系统级智能体认证，可跨设备操控智能家居与小米汽车。售价：18 Pro 12GB+256GB 5999元起、顶配透明版9999元；18 Pro Max 6999元起、透明版10999元，全渠道开售。</description>
-    </item>
-    <item>
-      <title>小米数字系列迎来史上最大升级 持续构建技术护城河</title>
-      <link>https://www.toutiao.com/article/7688725167144452650/</link>
-      <guid isPermaLink="true">https://www.toutiao.com/article/7688725167144452650/</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0800</pubDate>
-      <description>光明网/今日头条：9月23日小米秋季发布会推出18 Pro系列等多款新品，卢伟冰称这是用AI全面改造智能手机的开始、数字系列史上最大升级。报道指出小米过去五年累计研发投入1055亿元、全球授权专利超4.7万项；未来五年计划再投至少2000亿元，未来三年AI领域累计投入不少于600亿元，持续构建技术护城河。</description>
+      <description>微博/RD观测：行业人士RD观测9月26日点评：受涨价影响，23/24日开售的小米18 Pro、vivo X500、OPPO Find X10三大旗舰首销均表现一般；其中小米18 Pro系列首销日（当晚+次日）激活量绝对值最高，同比上代全系约25%、同比上代Pro系列约30%，按上代首销超30万台估算约7.5万台，两个版本销量旗鼓相当。</description>
     </item>
   </channel>
 </rss>
