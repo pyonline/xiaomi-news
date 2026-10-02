@@ -6,35 +6,49 @@
     <atom:link href="https://pyonline.github.io/xiaomi-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>每日自动聚合的小米（Xiaomi）最新新闻</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 01 Oct 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 00:00:00 +0800</lastBuildDate>
     <generator>xiaomi-news skill</generator>
     <item>
-      <title>新浪硬件热点小时报：小米15 Ultra端侧大模型能力稳居行业第一梯队</title>
-      <link>https://k.sina.com.cn/article_7857201856_1d45362c001908pevu.html</link>
-      <guid isPermaLink="true">https://k.sina.com.cn/article_7857201856_1d45362c001908pevu.html</guid>
+      <title>雷军：小米澎程首销期权益还剩最后6天，列出多项限时权益</title>
+      <link>https://www.163.com/dy/article/L87M7ERI051191D6.html</link>
+      <guid isPermaLink="true">https://www.163.com/dy/article/L87M7ERI051191D6.html</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0800</pubDate>
+      <description>网易 / CNMO科技：10月2日，雷军通过微博提醒小米澎程首销期权益还剩最后6天，并列出多项限时权益：N70 Max送车载智能冰箱（3000元）、N90 Max探索版送电动踏板（6000元）、全系送3000元车漆券与8000元轮毂券等。背景是小米汽车9月交付首破4万台，其中澎程首月交付超1万台。</description>
+    </item>
+    <item>
+      <title>国庆买小米现车不用等：锁单提车加赠米家车载吸尘器和 Xiaomi Life 盖毯</title>
+      <link>https://finance.sina.com.cn/tech/discovery/2026-10-02/doc-initusmp1531815.shtml</link>
+      <guid isPermaLink="true">https://finance.sina.com.cn/tech/discovery/2026-10-02/doc-initusmp1531815.shtml</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0800</pubDate>
+      <description>新浪财经 / 快科技：国庆期间小米针对 YU7、SU7、SU7 Ultra 全系现车推出锁单福利：10月1日0点至10月7日24点锁单、10月31日前提车，可获赠米家车载吸尘器（369元）与 Xiaomi Life 盖毯（129元），以兑换券形式发放至小米汽车 APP 账户。</description>
+    </item>
+    <item>
+      <title>小米汽车累计交付突破80万辆，用时29个月刷新新势力最快纪录</title>
+      <link>https://k.sina.com.cn/article_7880068201_1d5b04c6906802itaa.html</link>
+      <guid isPermaLink="true">https://k.sina.com.cn/article_7880068201_1d5b04c6906802itaa.html</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0800</pubDate>
+      <description>新浪网：雷军10月1日官宣小米汽车9月交付突破4万台，其中增程SUV“小米澎程”首月交付超1万台；累计交付已突破80万辆，用时仅29个月，快于问界（42个月）、理想（54个月）等。9月单月新势力中排名第三，累计增速第一。</description>
+    </item>
+    <item>
+      <title>小米汽车9月交付破4万台，澎程系列上市半月交付破万</title>
+      <link>https://weibo.com/5359434992/5349489728818449</link>
+      <guid isPermaLink="true">https://weibo.com/5359434992/5349489728818449</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0800</pubDate>
+      <description>微博 / 小米汽车：小米汽车9月交付突破4万台，正式跳出此前3万台平台瓶颈；澎程系列中旬才开启交付，半个多月即破万，扛起增量。SU7、YU7、澎程三线并行，四季度交付数据被看好。</description>
+    </item>
+    <item>
+      <title>雷军国庆加班到工厂帮大家催生产，开 YU7 在工厂打卡</title>
+      <link>https://www.techweb.com.cn/ucweb/news/id/2966531</link>
+      <guid isPermaLink="true">https://www.techweb.com.cn/ucweb/news/id/2966531</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0800</pubDate>
+      <description>TechWeb / 快科技：10月1日国庆当天，雷军分享前往小米工厂、开小米 YU7 在工厂打卡的组图，配文“帮大家催生产”。背景是小米汽车9月单月交付首破4万台，年度55万辆目标完成进度受关注。</description>
+    </item>
+    <item>
+      <title>国庆必去！小米澎程“第N空间”巡展引爆19城打卡潮</title>
+      <link>https://k.sina.com.cn/article_7880068201_1d5b04c6906802ishs.html</link>
+      <guid isPermaLink="true">https://k.sina.com.cn/article_7880068201_1d5b04c6906802ishs.html</guid>
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0800</pubDate>
-      <description>新浪：10月1日新浪硬件热点盘点指出，小米15 Ultra的端侧大模型能力在2026旗舰阵营中已稳居行业第一梯队，核心底气来自自研MiMo系列模型与澎湃OS 3的深度协同，并通过端云协同与全生态联动构建差异化壁垒。</description>
-    </item>
-    <item>
-      <title>Redmi 17C 5G于10月1日在印度发布：6.9英寸120Hz屏、6000mAh电池</title>
-      <link>https://www.latestly.com/technology/smartphone-launches-in-october-2026-from-redmi-17c-5g-to-vivo-v80-and-vivo-s2-fe-check-details-of-all-upcoming-models-here-7622442.html/amp</link>
-      <guid isPermaLink="true">https://www.latestly.com/technology/smartphone-launches-in-october-2026-from-redmi-17c-5g-to-vivo-v80-and-vivo-s2-fe-check-details-of-all-upcoming-models-here-7622442.html/amp</guid>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0800</pubDate>
-      <description>LatestLY：小米以Redmi 17C 5G拉开2026年10月印度智能手机发布序幕，该机于10月1日12点（IST）通过Amazon发布，配备6.9英寸HD+ 120Hz屏、联发科天玑6300、5000万像素主摄与6000mAh电池，支持33W快充，搭载基于Android 16的HyperOS。</description>
-    </item>
-    <item>
-      <title>小米正式公布澎湃OS 4官方推送计划：10月15日起首批覆盖小米17全系与REDMI K100/K90</title>
-      <link>https://www.toutiao.com/w/1877742898264067/</link>
-      <guid isPermaLink="true">https://www.toutiao.com/w/1877742898264067/</guid>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 +0800</pubDate>
-      <description>今日头条：小米公布澎湃OS 4（基于Android 17重构）完整推送时间表：第一批10月15日起推送小米17系列、REDMI K100/K90系列、小米平板8系列；11月覆盖小米15系列、MIX Flip 2、Civi 5 Pro等；12月覆盖小米14/13系列。新系统主打柔光玻璃UI、Rust底层重构、超级小爱2.0端侧大模型与人车家全生态流转。</description>
-    </item>
-    <item>
-      <title>罗福莉晋升小米内部最高职级22级，MiMo-V2.6同日登顶全球开源模型第一</title>
-      <link>https://finance.sina.com.cn/roll/2026-09-30/doc-initqkpm5717872.shtml</link>
-      <guid isPermaLink="true">https://finance.sina.com.cn/roll/2026-09-30/doc-initqkpm5717872.shtml</guid>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0800</pubDate>
-      <description>新浪财经/晚点LatePost：小米9月22日对内发布晋升名单，31岁的大模型团队负责人罗福莉晋升至22级，为小米职级体系最高级别。同日小米MiMo发布MiMo-V2.6系列开源模型，Pro版本在Artificial Analysis综合智能指数拿到46.32分，超过GLM-5.3与Kimi K3，登顶全球开源权重模型第一。</description>
+      <description>新浪网：小米澎程“第N空间”十一巡展覆盖上海、北京、杭州、太原、深圳等19城，系小米汽车史上规模最大、覆盖城市最多的线下展。展车支持前排180°旋转、一键成床等 Loft 式布局，上市18天交付超1万台，带动9月单月交付首破4万。</description>
     </item>
   </channel>
 </rss>
