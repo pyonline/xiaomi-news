@@ -6,49 +6,35 @@
     <atom:link href="https://pyonline.github.io/xiaomi-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>每日自动聚合的小米（Xiaomi）最新新闻</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 11 Oct 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 00:00:00 +0800</lastBuildDate>
     <generator>xiaomi-news skill</generator>
     <item>
-      <title>雷军小米澎程返场直播：首月销量10月7日揭晓，35岁以上用户占比近半</title>
-      <link>https://k.sina.com.cn/article_7879777156_1d5abdb8406801ncrw.html</link>
-      <guid isPermaLink="true">https://k.sina.com.cn/article_7879777156_1d5abdb8406801ncrw.html</guid>
-      <pubDate>Sat, 10 Oct 2026 00:00:00 +0800</pubDate>
-      <description>新浪网：雷军在小米澎程返场直播中确认，首月销量数据于10月7日正式发布，澎程发布4分钟锁单破万；并披露锁单用户中35岁以上占比接近一半，打破“小米只做年轻人玩具”的刻板印象。直播从市场热度、产品力（可变座舱+505km纯电续航/1705km综合续航）、用户口碑三维度拆解澎程。</description>
+      <title>小米开源业界首个端到端空间音频理解大模型 MiDashengLM-Spatial</title>
+      <link>https://www.toutiao.com/article/7697074221495517737</link>
+      <guid isPermaLink="true">https://www.toutiao.com/article/7697074221495517737</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0800</pubDate>
+      <description>IT之家：小米技术团队发布并开源 Dasheng 系列新成员 MiDashengLM-Spatial，完整公开模型权重与推理代码，以 Apache 2.0 许可证发布。该模型以 MiDashengLM-7B 为基座，赋予声音理解大模型空间感知与推理能力，是业界首个开源的端到端空间音频理解大模型，将应用于智能家居、汽车座舱等场景。</description>
     </item>
     <item>
-      <title>雷军回应小米澎程风阻：N90 Max风阻系数低至Cd 0.25</title>
-      <link>https://k.sina.com.cn/article_7880068201_1d5b04c6906802jrm6.html</link>
-      <guid isPermaLink="true">https://k.sina.com.cn/article_7880068201_1d5b04c6906802jrm6.html</guid>
-      <pubDate>Sat, 10 Oct 2026 00:00:00 +0800</pubDate>
-      <description>新浪网：10月9日雷军发文回应小米澎程风阻：作为全尺寸增程SUV，N90 Max风阻系数低至Cd 0.25，N90 Max探索版更达Cd 0.245，在同类方盒子造型车型中处于领先。实测N90 Max满油满电从上海到北京跑完1230公里、到终点还剩54公里续航，全程平均时速104km/h、亏电油耗仅6.7L/100km。</description>
+      <title>小米双11正式开启：全品类至高立省4000元 覆盖超150款产品</title>
+      <link>https://dy.163.com/article/L9BN3IA6051191D6.html</link>
+      <guid isPermaLink="true">https://dy.163.com/article/L9BN3IA6051191D6.html</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0800</pubDate>
+      <description>网易/CNMO科技：10月16日小米官宣2026年双11活动正式开启，口号“超值新品购，早买早享受”，活动周期10月16日至11月15日，覆盖手机、平板、家电等超150款产品，部分低至65折；小米MIX Flip 2国补到手2719.15元，小米17 Ultra全系直降500元并叠加以旧换新补贴。</description>
     </item>
     <item>
-      <title>小米澎程上市首月锁单超7万台，小米集团股价盘中暴涨超9%</title>
-      <link>https://www.163.com/dy/article/L8Q4THJE05119MAU.html</link>
-      <guid isPermaLink="true">https://www.163.com/dy/article/L8Q4THJE05119MAU.html</guid>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0800</pubDate>
-      <description>网易/TechWeb：10月9日港股早盘，小米集团股价盘中一度暴涨超9%，领涨港股，总市值达6600亿港元以上。消息面上，小米汽车10月8日公布澎程系列上市首销月锁单数据：9月7日至10月7日上市满30天，小米澎程N70、N90系列累计锁单突破7万台。在1-8月增程市场整体萎缩近20%背景下格外亮眼，标志小米汽车“纯电+增程”双路线产品矩阵跑通。</description>
+      <title>卢伟冰官宣 REDMI K90 系列“明天见”：提档10月发布，不排斥与小米直接竞争</title>
+      <link>https://m.toutiao.com/a1846107279376523/</link>
+      <guid isPermaLink="true">https://m.toutiao.com/a1846107279376523/</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0800</pubDate>
+      <description>今日头条/齐鲁壹点：10月16日小米集团合伙人、总裁卢伟冰微博官宣 REDMI K90 系列“明天见”，称这是小米手机业务旗舰新品发布季的第二篇章。集团刷新 K 系列定位：不以价格限制产品定义、不以品牌做技术区隔、甚至不排斥和小米直接竞争；K90 系列提档至10月发布，并首次推出 Pro Max 版本。</description>
     </item>
     <item>
-      <title>小米汽车公布10月购车权益：至高7.9万元 支持5年0息</title>
-      <link>https://www.163.com/dy/article/L8N8LHUI051191D6.html</link>
-      <guid isPermaLink="true">https://www.163.com/dy/article/L8N8LHUI051191D6.html</guid>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0800</pubDate>
-      <description>网易/CNMO科技：10月8日小米汽车官方公布2026年10月购车权益：SU7系列10月8日至31日下定至高享6万元权益，少量现车最快2小时提车；YU7系列至高7.9万元权益；SU7 Ultra限时金融权益首付19.99万元起、支持5年0息、月供低至5500元。官方称9月小米汽车交付超4万辆，稳居新势力前列。</description>
-    </item>
-    <item>
-      <title>小米澎湃OS 4全面兼容苹果生态：重要信息双向同步、妙享桌面支持Apple三件套</title>
-      <link>https://new.qq.com/rain/a/20261008A02LMA00</link>
-      <guid isPermaLink="true">https://new.qq.com/rain/a/20261008A02LMA00</guid>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0800</pubDate>
-      <description>腾讯网：小米澎湃OS官方微博10月7日宣布，澎湃OS 4全面兼容苹果生态：支持重要信息双向同步、双向查看iPhone与小米手机云相册，妙享桌面支持Apple三件套，跨生态互联能力进一步增强。</description>
-    </item>
-    <item>
-      <title>小米澎程第N空间亮相重庆观音桥，国庆黄金周商圈快闪</title>
-      <link>https://dy.163.com/article/L8NTE9CS0514R9OJ.html</link>
-      <guid isPermaLink="true">https://dy.163.com/article/L8NTE9CS0514R9OJ.html</guid>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0800</pubDate>
-      <description>网易/环球网：10月1日至7日，小米澎程第N空间·重庆观音桥大融城快闪活动举行，N70 Pro与N90 Max两台展车+多款秋季新品集中呈现，成为黄金周观音桥商圈人气打卡点。现场重点展示“智能可变大空间”：纯平地板、超长滑轨、旋转座椅与滑动中岛，以及人车家全生态联动体验。</description>
+      <title>苹果推智能家庭中枢，小米股价应声大涨超6% 机构看好人车家全生态</title>
+      <link>https://k.sina.com.cn/article_1496814565_593793e5020026x08.html?subch=onews</link>
+      <guid isPermaLink="true">https://k.sina.com.cn/article_1496814565_593793e5020026x08.html?subch=onews</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0800</pubDate>
+      <description>新浪网：10月14日小米集团股价强势拉升，盘中涨幅超6%领涨港股汽车板块。苹果推出智能家庭中枢争夺家庭AI入口，被视为印证小米“人车家全生态”战略的前瞻性；高盛等机构看好小米澎程系列首月锁单超7万及人车家全生态闭环的硬核科技公司唯一性。小米生态连接设备数已超11.6亿。</description>
     </item>
   </channel>
 </rss>
