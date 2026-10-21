@@ -6,14 +6,28 @@
     <atom:link href="https://pyonline.github.io/xiaomi-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>每日自动聚合的小米（Xiaomi）最新新闻</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 20 Oct 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 00:00:00 +0800</lastBuildDate>
     <generator>xiaomi-news skill</generator>
     <item>
-      <title>小米 SU9 LUX 商标进入初审公告阶段，新车或瞄准行政豪华旗舰市场</title>
-      <link>https://www.toutiao.com/article/7698517633007616547</link>
-      <guid isPermaLink="true">https://www.toutiao.com/article/7698517633007616547</guid>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 +0800</pubDate>
-      <description>每日经济新闻 / IT之家 / 搜狐：第1986期商标公告显示，小米 SU9 LUX 商标已进入初步审定阶段，由小米科技有限责任公司申请，覆盖汽车、运载工具等第12类商品；据多位博主分享，该车即此前曝光的小米 SU7L 长轴轿车，有望瞄准行政豪华旗舰市场。异议期限自2026年6月7日至9月6日，商标确权与新车发布并非一事，官方尚未披露新车规划。</description>
+      <title>小米MiMo-V2.6-Pro上线WorkBuddy：支持1M超长上下文，登顶全球开源第一</title>
+      <link>https://www.163.com/dy/article/L9NNI57S0511CPVM.html</link>
+      <guid isPermaLink="true">https://www.163.com/dy/article/L9NNI57S0511CPVM.html</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0800</pubDate>
+      <description>网易 / 快科技：10月20日小米技术官微宣布，Xiaomi MiMo-V2.6-Pro大模型正式上线WorkBuddy，面向专业、长程及复杂工作流提供AI能力。该模型在Artificial Analysis智能指数评测中获46分，位居全球开源模型第一，支持1M超长上下文窗口，具备图像、视频、音频、文本全模态联合理解能力，并支持多智能体分工协作。同期MiMo-V2.5-Pro、MiMo-V2.5于10月21日10:00正式下线，由V2.6系列接替。</description>
+    </item>
+    <item>
+      <title>传小米上调2026全年手机出货目标16%至1.1亿部，憧憬存储行情反转</title>
+      <link>https://www.aastocks.com/sc/stocks/news/aafn-con/NOW.1534170/recommend-news/AAFN</link>
+      <guid isPermaLink="true">https://www.aastocks.com/sc/stocks/news/aafn-con/NOW.1534170/recommend-news/AAFN</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0800</pubDate>
+      <description>界面新闻 / AAStocks：据《界面新闻》从供应链获悉，小米已将2026年全年智能手机出货目标从约9000万部上调至1.1亿部，增幅约16%，增量主要来自低端机型。报道称此次上调因小米内部认为当前存储行情有望迎来反转。受上游存储芯片持续涨价影响，小米今年曾两度下调出货目标，《日经亚洲》6月底曾报道其进一步下修全年预期至约9500万部。</description>
+    </item>
+    <item>
+      <title>小米YU7与SU7双车进入纯电销量前十，YU7单月交付约1.18万台</title>
+      <link>https://db.m.auto.sohu.com/model_7267/a/1090318967_122066679</link>
+      <guid isPermaLink="true">https://db.m.auto.sohu.com/model_7267/a/1090318967_122066679</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0800</pubDate>
+      <description>搜狐汽车：最新纯电车型销量榜显示，小米两款车型表现亮眼：YU7排名第6，销量14.02万辆，同比增长202.1%，为60款车型中增速最高，单月交付约1.18万台；SU7排名第7，销量13.38万辆，同比下降34.4%，月交付约1.57万台，领先奔驰E级与奥迪A6L。小米汽车9月交付首破4万台，累计交付已超80万辆。</description>
     </item>
   </channel>
 </rss>
