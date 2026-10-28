@@ -6,35 +6,56 @@
     <atom:link href="https://pyonline.github.io/xiaomi-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>每日自动聚合的小米（Xiaomi）最新新闻</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 25 Oct 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 00:00:00 +0800</lastBuildDate>
     <generator>xiaomi-news skill</generator>
     <item>
-      <title>小米18T/18T Pro曝光：测试天玑平台+2亿像素徕卡影像，预计2027年618前亮相</title>
-      <link>https://www.163.com/dy/article/LA1V5BSG055692EN.html</link>
-      <guid isPermaLink="true">https://www.163.com/dy/article/LA1V5BSG055692EN.html</guid>
-      <pubDate>Sun, 25 Oct 2026 00:00:00 +0800</pubDate>
-      <description>网易/手机讲坛：博主@智慧皮卡丘透露，小米T系列下一代产品仍在开案，相关机型预计归入小米18T与小米18T Pro，测试方向包括中大尺寸屏幕、联发科天玑平台与2亿像素徕卡影像，有望在2027年618大促前亮相，项目仍处前期阶段。</description>
+      <title>小米智能家电工厂在武汉正式投产，雷军现身投产仪式</title>
+      <link>https://xinwen.bjd.com.cn/content/s69004d89e4b02424b0c22a1e.html</link>
+      <guid isPermaLink="true">https://xinwen.bjd.com.cn/content/s69004d89e4b02424b0c22a1e.html</guid>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0800</pubDate>
+      <description>北京日报客户端：10月28日，小米智能家电工厂在武汉正式投产，雷军现身投产仪式。这是小米继北京手机智能工厂、北京汽车超级工厂后的第三座大型智能生产基地，每6.5秒下线一台高端空调，关键部件实现100% AI视觉质检，标志“人车家全生态”战略在大型自建智能工厂上完成闭环。</description>
     </item>
     <item>
-      <title>小米全面开源具身大模型MiMo-Embodied，同步支持具身智能与自动驾驶</title>
-      <link>https://www.etnet.com.hk/www/tc/forex/news-article/376635</link>
-      <guid isPermaLink="true">https://www.etnet.com.hk/www/tc/forex/news-article/376635</guid>
-      <pubDate>Sat, 24 Oct 2026 00:00:00 +0800</pubDate>
-      <description>etnet经济通：小米近日公布具身大模型MiMo-Embodied正式发布并全面开源，同步支持具身智能三大核心任务（可供性推理、任务规划、空间理解）与自动驾驶三大关键任务（环境感知、状态预测、驾驶规划）；高盛予目标价53.5港元，花旗指雷军增持属正面消息。</description>
+      <title>小米集团作为原告的5起侵害商标权纠纷案将于10月28日开庭</title>
+      <link>https://4g.stockstar.com/detail/RB2026102500010420</link>
+      <guid isPermaLink="true">https://4g.stockstar.com/detail/RB2026102500010420</guid>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0800</pubDate>
+      <description>证券之星/天眼查：天眼查APP显示，近日公布5则小米科技有限责任公司作为原告/上诉人的开庭公告，案由均为侵害商标权纠纷，开庭日期为2026年10月28日。以上内容为证券之星据公开信息整理，仅供参考。</description>
     </item>
     <item>
-      <title>雷军在世界智能网联汽车大会称：未来五年硬核科技研发投入预计超2000亿元</title>
-      <link>https://www.163.com/dy/article/LA0VUO6605568W0A.html</link>
-      <guid isPermaLink="true">https://www.163.com/dy/article/LA0VUO6605568W0A.html</guid>
-      <pubDate>Sat, 24 Oct 2026 00:00:00 +0800</pubDate>
-      <description>网易/新浪财经：在2026世界智能网联汽车大会上，雷军表示未来五年小米在硬核科技方向的研发投入预计超过2000亿元，较上一五年的1055亿元接近翻番；并强调安全团队规模已超3000人，成立独立汽车安全研究中心。</description>
+      <title>小米披露21自由度仿生灵巧手：基于1827个工厂SOP验证</title>
+      <link>https://www.toutiao.com/article/7701252431945925155/</link>
+      <guid isPermaLink="true">https://www.toutiao.com/article/7701252431945925155/</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0800</pubDate>
+      <description>环球网：10月27日，小米技术官微披露面向工业场景的仿生灵巧手探索成果：基于小米汽车工厂1827个真实作业SOP验证，设计21自由度、26电机混合驱动、1500点高密度全掌触觉，采用腱绳张力控制实现精准抓握力控，推动高自由度仿生手从实验室走向柔性制造落地。</description>
     </item>
     <item>
-      <title>小米孵化开源硬件HachimoDock亮相WTCC 2026，定位入门级Vibe Coding AI桌面硬件</title>
-      <link>https://news.qq.com/rain/a/20261023A07QIH00</link>
-      <guid isPermaLink="true">https://news.qq.com/rain/a/20261023A07QIH00</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0800</pubDate>
-      <description>腾讯新闻/IT时报：在10月22日至25日WTCC 2026西岸国际科技消费嘉年华上，小米孵化的开源硬件HachimoDock亮相。该设备集成桌宠、Agent协作、AI组件创作与智能家居控制，硬件自制成本约150元，支持语音派任务给Codex、WorkBuddy等Agent，已在GitHub公开源码并在嘉立创提供物料清单。</description>
+      <title>REDMI K100正式发布：骁龙8至尊版+10000mAh电池+165Hz高刷屏</title>
+      <link>https://www.163.com/dy/article/LA97JOFS0511CE44.html</link>
+      <guid isPermaLink="true">https://www.163.com/dy/article/LA97JOFS0511CE44.html</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0800</pubDate>
+      <description>网易/iNews新知科技：10月26日REDMI K100正式发布，定位“双芯魔王，万级续航”：骁龙8至尊版首次为K系列标准版配备AI独显D2，搭载10000mAh小米金沙江电池、165Hz护眼直屏，出厂预装澎湃OS 4。预售10月31日10点首销，双11限时特惠12GB+256GB低至2999元。</description>
+    </item>
+    <item>
+      <title>小米发布两款生态新品：智能摄像机5 Pro与REDMI显示器A27U 2027</title>
+      <link>https://www.toutiao.com/article/7701317985050329636</link>
+      <guid isPermaLink="true">https://www.toutiao.com/article/7701317985050329636</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0800</pubDate>
+      <description>CNMO科技：10月27日小米发布两款全场景生态新品：小米智能摄像机5 Pro（全彩夜视）到手价429元，搭载800万像素白天镜头+F/1.0大底夜视镜头、174°垂直+360°水平双云台；REDMI显示器A27U Type-C 120Hz 2027到手价1699元，27英寸4K、120Hz、90W反向充电，适配苹果生态。</description>
+    </item>
+    <item>
+      <title>REDMI首款耳夹式耳机Clip Neo发布，补贴价359.1元起</title>
+      <link>https://news.qq.com/rain/a/20261027A0EDV700</link>
+      <guid isPermaLink="true">https://news.qq.com/rain/a/20261027A0EDV700</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0800</pubDate>
+      <description>腾讯新闻：在10月27日REDMI新品发布会上，REDMI首款耳夹式耳机Clip Neo正式亮相，补贴到手价359.1元起。采用开放式耳夹结构不塞入耳道，单耳重5.3g，搭载12mm双磁动圈单元，续航单次7小时、配合充电盒32小时，支持唤醒超级小爱与苹果Siri。</description>
+    </item>
+    <item>
+      <title>REDMI Book 2027系列发布：搭载第三代英特尔酷睿，6499元起</title>
+      <link>https://news.qq.com/rain/a/20261027A0EDV700</link>
+      <guid isPermaLink="true">https://news.qq.com/rain/a/20261027A0EDV700</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0800</pubDate>
+      <description>腾讯新闻：10月27日小米在REDMI新品发布会上推出REDMI Book 2027系列笔记本，含14英寸与16英寸双尺寸，起售价6499元，11月3日正式发售。全系搭载第三代英特尔酷睿平台（Intel 18A制程），72Wh电池、官方模拟办公续航20.2小时，预装超级小爱2.0与小米笔记PC版。</description>
     </item>
   </channel>
 </rss>
