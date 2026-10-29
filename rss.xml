@@ -6,56 +6,42 @@
     <atom:link href="https://pyonline.github.io/xiaomi-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>每日自动聚合的小米（Xiaomi）最新新闻</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 28 Oct 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 00:00:00 +0800</lastBuildDate>
     <generator>xiaomi-news skill</generator>
     <item>
-      <title>小米智能家电工厂在武汉正式投产，雷军现身投产仪式</title>
-      <link>https://xinwen.bjd.com.cn/content/s69004d89e4b02424b0c22a1e.html</link>
-      <guid isPermaLink="true">https://xinwen.bjd.com.cn/content/s69004d89e4b02424b0c22a1e.html</guid>
+      <title>小米胡馨心：内存成本过去12个月涨了约5.5倍，12+256价格逼近2000元</title>
+      <link>https://www.163.com/dy/article/LAD3DIPE0511CPVM.html</link>
+      <guid isPermaLink="true">https://www.163.com/dy/article/LAD3DIPE0511CPVM.html</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0800</pubDate>
+      <description>快科技/网易：小米REDMI产品经理胡馨心10月29日发文称，全球AI数据中心建设需求爆发推动存储涨价，过去12个月内存成本涨约5.5倍，仅12+256价格就逼近2000元，手机产品取舍难度加大。卢伟冰此前称2026年一季度存储芯片报价约为去年同期四倍，雷军也坦言内存芯片暴涨给手机业务带来成本压力。</description>
+    </item>
+    <item>
+      <title>工信部公示2026年度领航级智能工厂名单，小米汽车超级智能工厂入选</title>
+      <link>http://mp.weixin.qq.com/s?__biz=MzYzMjM2NzkwNw==&amp;mid=2247485913&amp;idx=1&amp;sn=670ba5e80819bde21db3ddc3e045ae1d&amp;chksm=f125be0f9ac76497132f819c03a96b146cfaa700fe9a0ba0c7346fa515cb71f5a1d836c018bd#rd</link>
+      <guid isPermaLink="true">http://mp.weixin.qq.com/s?__biz=MzYzMjM2NzkwNw==&amp;mid=2247485913&amp;idx=1&amp;sn=670ba5e80819bde21db3ddc3e045ae1d&amp;chksm=f125be0f9ac76497132f819c03a96b146cfaa700fe9a0ba0c7346fa515cb71f5a1d836c018bd#rd</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0800</pubDate>
+      <description>商业新知/吉智早闻：工信部发布通知，公示拟入选2026年度领航级智能工厂项目培育名单，小米汽车科技有限公司的“AI驱动的敏捷制造高端新能源汽车超级智能工厂”等34家工厂名列其中。领航级智能工厂探索未来制造模式，打造全球领先发展标杆。</description>
+    </item>
+    <item>
+      <title>雷军回应“手机龙虾”Xiaomi miclaw AI 交互产品开启封测</title>
+      <link>https://m.weibo.cn/status/5273573670263508</link>
+      <guid isPermaLink="true">https://m.weibo.cn/status/5273573670263508</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0800</pubDate>
+      <description>微博：雷军10月29日发微博回应“手机龙虾”Xiaomi miclaw——小米首款手机端AI Agent交互产品（基于MiMo大模型，深度融入OS与人车家全生态）已开启封测。他称当前稳定性、功耗与复杂场景执行成功率仍在优化，仅面向科技发烧友、极客用户的小规模测试，不推荐普通用户在日常主力设备上升级，采用邀请码机制。</description>
+    </item>
+    <item>
+      <title>雷军称小米智能座舱两年优化升级210多个功能</title>
+      <link>https://m.weibo.cn/detail/5286280430882860</link>
+      <guid isPermaLink="true">https://m.weibo.cn/detail/5286280430882860</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0800</pubDate>
+      <description>微博：雷军10月29日晚在微博分享小米智能座舱视频并写道：小米汽车智能座舱在过去2年里优化升级了210多个功能，“让车主朋友们每一次上车，都有美好发生”，片中所有素材均来自真实车主。</description>
+    </item>
+    <item>
+      <title>小米集团-W 10月28日回购4999.88万港元，已连续2日回购</title>
+      <link>https://new.qq.com/rain/a/20261028A0C78C00</link>
+      <guid isPermaLink="true">https://new.qq.com/rain/a/20261028A0C78C00</guid>
       <pubDate>Wed, 28 Oct 2026 00:00:00 +0800</pubDate>
-      <description>北京日报客户端：10月28日，小米智能家电工厂在武汉正式投产，雷军现身投产仪式。这是小米继北京手机智能工厂、北京汽车超级工厂后的第三座大型智能生产基地，每6.5秒下线一台高端空调，关键部件实现100% AI视觉质检，标志“人车家全生态”战略在大型自建智能工厂上完成闭环。</description>
-    </item>
-    <item>
-      <title>小米集团作为原告的5起侵害商标权纠纷案将于10月28日开庭</title>
-      <link>https://4g.stockstar.com/detail/RB2026102500010420</link>
-      <guid isPermaLink="true">https://4g.stockstar.com/detail/RB2026102500010420</guid>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 +0800</pubDate>
-      <description>证券之星/天眼查：天眼查APP显示，近日公布5则小米科技有限责任公司作为原告/上诉人的开庭公告，案由均为侵害商标权纠纷，开庭日期为2026年10月28日。以上内容为证券之星据公开信息整理，仅供参考。</description>
-    </item>
-    <item>
-      <title>小米披露21自由度仿生灵巧手：基于1827个工厂SOP验证</title>
-      <link>https://www.toutiao.com/article/7701252431945925155/</link>
-      <guid isPermaLink="true">https://www.toutiao.com/article/7701252431945925155/</guid>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0800</pubDate>
-      <description>环球网：10月27日，小米技术官微披露面向工业场景的仿生灵巧手探索成果：基于小米汽车工厂1827个真实作业SOP验证，设计21自由度、26电机混合驱动、1500点高密度全掌触觉，采用腱绳张力控制实现精准抓握力控，推动高自由度仿生手从实验室走向柔性制造落地。</description>
-    </item>
-    <item>
-      <title>REDMI K100正式发布：骁龙8至尊版+10000mAh电池+165Hz高刷屏</title>
-      <link>https://www.163.com/dy/article/LA97JOFS0511CE44.html</link>
-      <guid isPermaLink="true">https://www.163.com/dy/article/LA97JOFS0511CE44.html</guid>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0800</pubDate>
-      <description>网易/iNews新知科技：10月26日REDMI K100正式发布，定位“双芯魔王，万级续航”：骁龙8至尊版首次为K系列标准版配备AI独显D2，搭载10000mAh小米金沙江电池、165Hz护眼直屏，出厂预装澎湃OS 4。预售10月31日10点首销，双11限时特惠12GB+256GB低至2999元。</description>
-    </item>
-    <item>
-      <title>小米发布两款生态新品：智能摄像机5 Pro与REDMI显示器A27U 2027</title>
-      <link>https://www.toutiao.com/article/7701317985050329636</link>
-      <guid isPermaLink="true">https://www.toutiao.com/article/7701317985050329636</guid>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0800</pubDate>
-      <description>CNMO科技：10月27日小米发布两款全场景生态新品：小米智能摄像机5 Pro（全彩夜视）到手价429元，搭载800万像素白天镜头+F/1.0大底夜视镜头、174°垂直+360°水平双云台；REDMI显示器A27U Type-C 120Hz 2027到手价1699元，27英寸4K、120Hz、90W反向充电，适配苹果生态。</description>
-    </item>
-    <item>
-      <title>REDMI首款耳夹式耳机Clip Neo发布，补贴价359.1元起</title>
-      <link>https://news.qq.com/rain/a/20261027A0EDV700</link>
-      <guid isPermaLink="true">https://news.qq.com/rain/a/20261027A0EDV700</guid>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0800</pubDate>
-      <description>腾讯新闻：在10月27日REDMI新品发布会上，REDMI首款耳夹式耳机Clip Neo正式亮相，补贴到手价359.1元起。采用开放式耳夹结构不塞入耳道，单耳重5.3g，搭载12mm双磁动圈单元，续航单次7小时、配合充电盒32小时，支持唤醒超级小爱与苹果Siri。</description>
-    </item>
-    <item>
-      <title>REDMI Book 2027系列发布：搭载第三代英特尔酷睿，6499元起</title>
-      <link>https://news.qq.com/rain/a/20261027A0EDV700</link>
-      <guid isPermaLink="true">https://news.qq.com/rain/a/20261027A0EDV700</guid>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0800</pubDate>
-      <description>腾讯新闻：10月27日小米在REDMI新品发布会上推出REDMI Book 2027系列笔记本，含14英寸与16英寸双尺寸，起售价6499元，11月3日正式发售。全系搭载第三代英特尔酷睿平台（Intel 18A制程），72Wh电池、官方模拟办公续航20.2小时，预装超级小爱2.0与小米笔记PC版。</description>
+      <description>智通财经/腾讯网：港交所公告显示，小米集团-W于2026年10月28日以每股25.56-25.66港元回购195.14万股，涉资4999.88万港元；自10月27日以来公司已连续2日回购，合计390.60万股、累计金额9999.37万港元。今年以来累计进行111次回购，金额128.07亿港元。</description>
     </item>
   </channel>
 </rss>
