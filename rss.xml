@@ -6,63 +6,21 @@
     <atom:link href="https://pyonline.github.io/xiaomi-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>每日自动聚合的小米（Xiaomi）最新新闻</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 30 Oct 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 00:00:00 +0800</lastBuildDate>
     <generator>xiaomi-news skill</generator>
     <item>
-      <title>珠海小米通讯诉两公司侵害商标权纠纷案10月30日开庭</title>
-      <link>https://finance.sina.com.cn/stock/aigc/bwdt/shkt/2026-10-30/doc-iniwxvhi8484687.shtml</link>
-      <guid isPermaLink="true">https://finance.sina.com.cn/stock/aigc/bwdt/shkt/2026-10-30/doc-iniwxvhi8484687.shtml</guid>
+      <title>小米宣布开源0.8B轻量级文档理解模型 Xiaomi-OCR-0</title>
+      <link>https://www.163.com/dy/article/LAHDHR3C0511CPVM.html</link>
+      <guid isPermaLink="true">https://www.163.com/dy/article/LAHDHR3C0511CPVM.html</guid>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0800</pubDate>
+      <description>网易/快科技：10月30日小米技术宣布正式发布并开源轻量级全能文档理解模型 Xiaomi-OCR-0，仅0.8B(8亿)参数，集文档解析、关键信息抽取、OCR视觉问答三大能力于一身，基于 Qwen3.5-0.8B-Base 构建，训练使用约1.7亿条样本。在 Real5-OmniDocBench 基准95.24分排名第一，OmniDocBench v1.6总榜第二、1B以下第一；已开源权重、推理代码及 MCP/Agent Skill 工具包，并落地小米手机与超级小爱识屏场景。</description>
+    </item>
+    <item>
+      <title>小米全资子公司17亿元增资欣旺达动力，持股5.34%成第三大股东</title>
+      <link>https://news.qq.com/rain/a/20261030A0E53M00</link>
+      <guid isPermaLink="true">https://news.qq.com/rain/a/20261030A0E53M00</guid>
       <pubDate>Fri, 30 Oct 2026 00:00:00 +0800</pubDate>
-      <description>新浪财经：珠海小米通讯技术有限公司作为原告，以侵害商标权纠纷为由起诉上海寻梦信息技术有限公司、深圳市创利鑫峰科技有限公司，案件于2026年10月30日10时在上海市徐汇区人民法院知识产权审判庭开庭审理（案号(2026)沪0104民初24293号）。</description>
-    </item>
-    <item>
-      <title>小米 MiMo Desktop 会员权益升级：额度上调、可选 DeepSeek 等第三方模型</title>
-      <link>https://www.163.com/dy/article/LAF240FA0511CMF5.html</link>
-      <guid isPermaLink="true">https://www.163.com/dy/article/LAF240FA0511CMF5.html</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0800</pubDate>
-      <description>网易/科技狐：小米MiMo官方宣布MiMo Desktop会员权益升级：总体额度显著上调、加量不加价，对现有及新会员均适用；会员不再只可选MiMo模型，官方优选DeepSeek V4 Pro、GLM 5.3、Kimi K3、Qwen 3.8等第三方模型。</description>
-    </item>
-    <item>
-      <title>王腾创业首秀感谢小米和雷军，回应蹭流量质疑</title>
-      <link>https://www.163.com/dy/article/LAETHGSK0511CPVM.html</link>
-      <guid isPermaLink="true">https://www.163.com/dy/article/LAETHGSK0511CPVM.html</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0800</pubDate>
-      <description>网易/快科技：小米前中国区市场部总经理王腾创办的“今日宜休”举行首场发布会，推出ISHO Ring智能戒指与ISHO iFlow智能温控系统；发布会尾声王腾以小米公司为背景向小米和雷军表达感谢，并称真心感激过往经历。</description>
-    </item>
-    <item>
-      <title>小米(01810.HK)周二回购450万股 涉资9,737万元</title>
-      <link>https://www.aastocks.com/sc/stocks/news/aafn-con/NOW.1531476/latest-news/AAFN</link>
-      <guid isPermaLink="true">https://www.aastocks.com/sc/stocks/news/aafn-con/NOW.1531476/latest-news/AAFN</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0800</pubDate>
-      <description>AAStocks/阿斯达克财经：小米集团-W于10月30日（周二）在联交所购回450万股，每股作价21.56至21.68港元，涉资9,737.49万元；自6月2日购回授权决议通过以来累计购回7,592.5万股，占已发行股份0.29%。</description>
-    </item>
-    <item>
-      <title>REDMI 投影仪 3C 10月30日开售，预约价799元</title>
-      <link>https://baijiahao.baidu.com/s?id=1880273996040444694&amp;wfr=spider&amp;for=pc</link>
-      <guid isPermaLink="true">https://baijiahao.baidu.com/s?id=1880273996040444694&amp;wfr=spider&amp;for=pc</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0800</pubDate>
-      <description>百家号：小米 REDMI 投影仪 3C 于10月30日正式开售，产品原价1099元、当前预约价799元，主打高性价比；延续小米家电简约设计风格，机身纯白、重量约1.1KG。</description>
-    </item>
-    <item>
-      <title>小米股价逆市飙高近3%，连升3日累计升幅约10.6%</title>
-      <link>https://www.etnet.com.hk/www/tc/stocks/ipo-news-article/20261015319/%E3%80%8A%E7%95%B0%E5%8B%95%E8%82%A1%E3%80%8B%E5%B0%8F%E7%B1%B3%E7%86%B1%E7%82%92%E9%80%86%E5%B8%82%E9%A3%86%E9%AB%98%E8%BF%913%25%EF%BC%8C%E6%BE%8E%E7%A8%8B%E8%88%87%E6%96%B0%E5%AE%B6%E9%9B%BB%E9%8A%B7%E6%83%85%E8%89%AF%E5%A5%BD%E7%8D%B2%E9%80%A3%E6%97%A5%E8%BF%BD%E6%8D%A7</link>
-      <guid isPermaLink="true">https://www.etnet.com.hk/www/tc/stocks/ipo-news-article/20261015319/%E3%80%8A%E7%95%B0%E5%8B%95%E8%82%A1%E3%80%8B%E5%B0%8F%E7%B1%B3%E7%86%B1%E7%82%92%E9%80%86%E5%B8%82%E9%A3%86%E9%AB%98%E8%BF%913%25%EF%BC%8C%E6%BE%8E%E7%A8%8B%E8%88%87%E6%96%B0%E5%AE%B6%E9%9B%BB%E9%8A%B7%E6%83%85%E8%89%AF%E5%A5%BD%E7%8D%B2%E9%80%A3%E6%97%A5%E8%BF%BD%E6%8D%A7</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0800</pubDate>
-      <description>etnet经济通：10月30日小米集团(01810)逆市升近3%，暂连升3日、累计升幅10.6%，受新車系列“澎程”销情畅旺及智能家电开卖消息带动；现价较上周低位回升约15%。</description>
-    </item>
-    <item>
-      <title>小米雷军：10月30日全量推送全国都能开的城市领航</title>
-      <link>https://m.cls.cn/detail/1841445</link>
-      <guid isPermaLink="true">https://m.cls.cn/detail/1841445</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0800</pubDate>
-      <description>财联社：雷军10月29日表示，10月30日小米汽车全国都能开的城市领航将开启全量推送；端到端+VLM视觉语言大模型的小米智驾将实现“车位到车位”，11月底定向邀请内测、12月底先锋版推送。</description>
-    </item>
-    <item>
-      <title>小米(01810.HK)上周五回购1,070万股 涉资约3亿元</title>
-      <link>https://www.aastocks.com/sc/stocks/news/aafn-con/NOW.1526825/ipo-news/AAFN</link>
-      <guid isPermaLink="true">https://www.aastocks.com/sc/stocks/news/aafn-con/NOW.1526825/ipo-news/AAFN</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0800</pubDate>
-      <description>AAStocks/阿斯达克财经：小米集团-W于10月29日（上周五）在联交所购回1,070万股，每股作价27.86至28.1港元，涉及总额约3亿元；自购回授权通过至今累计购回约4.2亿股，占股本1.62%。</description>
+      <description>腾讯新闻/每日经济新闻：10月29日晚欣旺达(300207.SZ)公告，小米科技全资子公司瀚星创业投资有限公司出资17亿元向子公司欣旺达动力增资，认购约8.98亿元新增注册资本，对应增资完成后5.34%股份，成为第三大股东（仅次于理想汽车8.32%）。交易后欣旺达对欣旺达动力持股降至22.78%、不再拥有控制权并将出表。欣旺达动力为小米澎程系列龙甲电池核心战略供应商；同时欣旺达宣布终止赴港IPO。</description>
     </item>
   </channel>
 </rss>
