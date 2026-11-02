@@ -6,35 +6,28 @@
     <atom:link href="https://pyonline.github.io/xiaomi-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>每日自动聚合的小米（Xiaomi）最新新闻</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 01 Nov 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 00:00:00 +0800</lastBuildDate>
     <generator>xiaomi-news skill</generator>
     <item>
-      <title>小米汽车2026年10月交付量超过50000台，单月再创新高</title>
-      <link>https://m.ithome.com/html/1020656.htm</link>
-      <guid isPermaLink="true">https://m.ithome.com/html/1020656.htm</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0800</pubDate>
-      <description>IT之家：小米汽车11月1日宣布，2026年10月交付量超过5万台，较9月超4万台继续攀升；自SU7、YU7两款爆品发布以来累计交付70多万台，澎程系列9月上市后成为新增长点。</description>
+      <title>小米19 Fold中折叠手机曝光：下一代中折叠计划明年登场</title>
+      <link>https://www.163.com/dy/article/LAMI5M1V055692EN.html</link>
+      <guid isPermaLink="true">https://www.163.com/dy/article/LAMI5M1V055692EN.html</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0800</pubDate>
+      <description>网易：11月2日有博主爆料，小米中折叠产品线将保持正常迭代，下一代新品计划明年登场，外界暂称“小米19 Fold”（非正式命名）。小米今年9月已推出首款中折叠旗舰小米18 Fold，首发玄戒O3芯片；新一代玄戒芯片仍属推测。</description>
     </item>
     <item>
-      <title>小米双11开门红战报：全渠道累计支付金额突破100亿元</title>
-      <link>https://www.ithome.com/0/729/090.htm</link>
-      <guid isPermaLink="true">https://www.ithome.com/0/729/090.htm</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0800</pubDate>
-      <description>IT之家：小米公布双11开门红战报：截至10月31日21:00全渠道累计支付破90亿元、24:00破100亿元；小米14系列开售5分钟销量达小米13系列首销总量6倍，手环/电视/净水器/门锁等多品类销额破亿。</description>
+      <title>小米米家洗鞋机3KG于11月2日开启众筹：799元起，支持除菌</title>
+      <link>https://baijiahao.baidu.com/s?id=1880140802341450466&amp;wfr=spider&amp;for=pc</link>
+      <guid isPermaLink="true">https://baijiahao.baidu.com/s?id=1880140802341450466&amp;wfr=spider&amp;for=pc</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0800</pubDate>
+      <description>百家号/IT之家：小米米家洗鞋机3KG于11月2日10点在小米有品开启众筹，建议零售价1299元、众筹价799元起；整机占地0.18㎡，支持波轮3D立体水流冲刷鞋面鞋底纹路，可洗运动鞋/帆布鞋，并支持除菌。</description>
     </item>
     <item>
-      <title>新款小米SU7 Ultra无伪装实车曝光，传目标圈速6分50秒、预计2027年上市</title>
-      <link>https://www.163.com/dy/article/LAK08NSB0553VQXM.html</link>
-      <guid isPermaLink="true">https://www.163.com/dy/article/LAK08NSB0553VQXM.html</guid>
+      <title>小米汽车推出限时0息购车权益：SU7/YU7现车3年0息起，首付7.99万元</title>
+      <link>https://news.qq.com/rain/a/20261101A0B4U200</link>
+      <guid isPermaLink="true">https://news.qq.com/rain/a/20261101A0B4U200</guid>
       <pubDate>Sun, 01 Nov 2026 00:00:00 +0800</pubDate>
-      <description>网易/芝麻科技讯：新一代小米SU7 Ultra无伪装实车现身德国纽博格林北环，换装荧光黄绿车漆与DRS鹅颈式大尾翼等激进空力套件，挂“SU7 650 E”车牌，外界解读目标圈速6分50秒；知情人称新车预计2027年上市。</description>
-    </item>
-    <item>
-      <title>小米云服务双十一特惠上线：会员包年3折起，2TB年会员直降577元</title>
-      <link>https://www.ithome.com/1/020/541.htm</link>
-      <guid isPermaLink="true">https://www.ithome.com/1/020/541.htm</guid>
-      <pubDate>Sat, 31 Oct 2026 00:00:00 +0800</pubDate>
-      <description>IT之家：小米云服务10月31日宣布开启双11限时优惠，会员连续包年3折起，活动时间10月31日至11月14日，覆盖50GB/200GB/2TB三档；其中2TB钻石包年原价816元、活动价239元，首年可省577元。</description>
+      <description>腾讯新闻：11月1日小米汽车宣布推出限时“0息”购车权益（11月1日至30日下定），SU7全系可享3年0息或5年分期3年0息方案，YU7指定版本同享，澎程N70全系亦覆盖；官方同时披露10月交付量超过5万台。</description>
     </item>
   </channel>
 </rss>
