@@ -6,35 +6,28 @@
     <atom:link href="https://pyonline.github.io/xiaomi-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>每日自动聚合的小米（Xiaomi）最新新闻</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 06 Nov 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 00:00:00 +0800</lastBuildDate>
     <generator>xiaomi-news skill</generator>
     <item>
-      <title>雷军转发YU7与Model Y动态对比评测，回应“和头部比就行”</title>
-      <link>https://m.pearvideo.com/video_1803497</link>
-      <guid isPermaLink="true">https://m.pearvideo.com/video_1803497</guid>
+      <title>小米汽车成立国际业务部，副总裁于立国兼任国际业务部总经理</title>
+      <link>https://news.qq.com/rain/a/20261107A03RSE00</link>
+      <guid isPermaLink="true">https://news.qq.com/rain/a/20261107A03RSE00</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 +0800</pubDate>
+      <description>腾讯新闻：据11月7日IT早报，小米汽车近日宣布架构调整，成立国际业务部，任命汽车部副总裁于立国兼任国际业务部总经理，向集团CEO、汽车部总裁雷军和集团总裁卢伟冰双线汇报，加速推进汽车出海业务。</description>
+    </item>
+    <item>
+      <title>米家扫振电动牙刷 2 Pro 官宣 11月11日开售，续航长达190天</title>
+      <link>https://www.163.com/dy/article/LB3FAB2R0531G57O.html</link>
+      <guid isPermaLink="true">https://www.163.com/dy/article/LB3FAB2R0531G57O.html</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 +0800</pubDate>
+      <description>网易/科技衍生：11月7日小米官宣新品米家扫振电动牙刷 2 Pro，将于11月11日正式开售（众筹）。升级声波扫振马达2.0（最高26304次/分钟）、智能分面扫振、双向过压提醒、动态交互彩屏与专属刷牙报告，最长续航可达190天，支持Type-C充电与IPX8防水。</description>
+    </item>
+    <item>
+      <title>小米汽车推出11.11限时购车福利：购指定现车赠1299元无忧服务包</title>
+      <link>https://auto.ifeng.com/c/8xpT4awGfvt</link>
+      <guid isPermaLink="true">https://auto.ifeng.com/c/8xpT4awGfvt</guid>
       <pubDate>Fri, 06 Nov 2026 00:00:00 +0800</pubDate>
-      <description>梨视频/新浪：11月6日，雷军转发一条特斯拉Model Y与小米YU7的动态对比测试视频，称“YU7定位高性能豪华SUV，运动中兼容舒适，也欢迎更多行家和媒体朋友们详细评测”。面对网友“跟头部比较就行了”“也就只敢和Model Y比”的评论，雷军回应“是的”并反问“您建议我们和哪款产品比比”，引发热议。</description>
-    </item>
-    <item>
-      <title>卢伟冰：小米双11全渠道支付破100亿元，计划两三年开到3万家线下门店</title>
-      <link>https://m.gelonghui.com/live/588900</link>
-      <guid isPermaLink="true">https://m.gelonghui.com/live/588900</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0800</pubDate>
-      <description>格隆汇：据卢伟冰微博，截至11月5日18点小米双11全渠道支付金额突破100亿元，今年全周期超越去年143亿元悬念不大。在达成一万家线下门店目标后，卢伟冰表示小米对线下市场还有更大野心，希望用两三年时间做到三万家门店规模，以覆盖中国市场并超越友商线下覆盖效果。</description>
-    </item>
-    <item>
-      <title>REDMI Turbo 6系列入网：7英寸2K屏+11000mAh电池，搭载天玑9500s</title>
-      <link>https://www.163.com/dy/article/LB00BACT0511CPVM.html</link>
-      <guid isPermaLink="true">https://www.163.com/dy/article/LB00BACT0511CPVM.html</guid>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0800</pubDate>
-      <description>网易/快科技：11月5日，REDMI Turbo 6系列新机获入网许可（含标准版与Max版）。其中Turbo 6 Max预计采用7英寸2K屏、内置11000mAh超大容量电池、搭载联发科天玑9500s旗舰平台（台积电第二代3nm、八核全大核），有望成为REDMI史上屏幕尺寸最大、电池容量最大的机型，预计2027年一季度登场；同期小米18标准版及多款红米新机（M016EB/M841EE/M077CE/M540BF）完成入网。</description>
-    </item>
-    <item>
-      <title>小米集团11月5日股价放量大涨8.83%，恒生科技指数单日飙5.5%</title>
-      <link>https://www.chnfund.com/article/ARcbdd1ed8-ff88-6811-c186-3a24bd0eeb9e</link>
-      <guid isPermaLink="true">https://www.chnfund.com/article/ARcbdd1ed8-ff88-6811-c186-3a24bd0eeb9e</guid>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0800</pubDate>
-      <description>中国基金报：11月5日港股大反弹，恒生指数涨3.67%、恒生科技指数大涨5.55%、国企指数涨3.87%，全天成交3567亿港元显著放量。科技龙头集体走高，小米集团(01810.HK)放量大涨8.83%收31.30港元，成交额151.38亿港元领涨；市场预期与AI情绪回暖、人车家全生态及双11销售表现有关。</description>
+      <description>凤凰网汽车/网通社：11月6日小米汽车宣布推出11.11限时购车福利，活动11月6日0点至15日24点，购买并锁单指定现车可免费获赠价值1299元无忧服务包（含玻璃无忧、上门补胎、免费喷漆、维保取送车、车载网络升级5项权益）；适用小米澎程N70、YU7、SU7及SU7 Ultra全系现车。</description>
     </item>
   </channel>
 </rss>
