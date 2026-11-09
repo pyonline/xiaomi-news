@@ -6,28 +6,21 @@
     <atom:link href="https://pyonline.github.io/xiaomi-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>每日自动聚合的小米（Xiaomi）最新新闻</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 08 Nov 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 00:00:00 +0800</lastBuildDate>
     <generator>xiaomi-news skill</generator>
     <item>
-      <title>小米18 Pro系列有望11月17日全球发布，背屏旗舰首次出海</title>
-      <link>https://m.mydrivers.com/newsview/1164041.html</link>
-      <guid isPermaLink="true">https://m.mydrivers.com/newsview/1164041.html</guid>
+      <title>蓝牙技术联盟（Bluetooth SIG）成立中国实体，华为小米等牵头参与</title>
+      <link>https://bluetooth.com/blog/bluetooth-opens-an-entity-in-china</link>
+      <guid isPermaLink="true">https://bluetooth.com/blog/bluetooth-opens-an-entity-in-china</guid>
       <pubDate>Sun, 08 Nov 2026 00:00:00 +0800</pubDate>
-      <description>快科技：小米集团副总裁、CMO许斐在X平台发布预告，文案提示“41个市场留下了相同的线索”，预告视频突出显示11:17 AM，外界推测小米18 Pro系列全球发布会定档11月17日。该系列9月已在国内首发，此次出海意味着海外用户将首次体验Pro系列独有的AI百变背屏设计；预计推出小米18 Pro与18 Pro Max两款，分别全球首发第六代骁龙8至尊版与超级至尊版。</description>
+      <description>蓝牙技术联盟官网/射频微波器件采购网：蓝牙技术联盟（Bluetooth SIG）宣布设立中国实体，华为、小米等企业牵头参与。小米软件部总经理张国全表示蓝牙技术在小米智能生态中扮演关键角色，期待进一步合作加速创新；联盟称将推动5G-A与AIoT标准制定提速、加强本地产业协作。</description>
     </item>
     <item>
-      <title>小米18标准版通过工信部3C认证，支持100W快充，预计12月单独发布</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzY5NjUwNzU4MA==&amp;mid=2247483794&amp;idx=1&amp;sn=714cc559b92a3b6aa0f881bc897caeac&amp;chksm=f55f60eaadc0b3d550fdc8f369652b7affca00d7fe2b42d72abef8ea346d8cda7cea93b73458#rd</link>
-      <guid isPermaLink="true">http://mp.weixin.qq.com/s?__biz=MzY5NjUwNzU4MA==&amp;mid=2247483794&amp;idx=1&amp;sn=714cc559b92a3b6aa0f881bc897caeac&amp;chksm=f55f60eaadc0b3d550fdc8f369652b7affca00d7fe2b42d72abef8ea346d8cda7cea93b73458#rd</guid>
-      <pubDate>Sat, 07 Nov 2026 00:00:00 +0800</pubDate>
-      <description>微信/数码闲聊站(爆料)：型号为M261DB的小米新机通过工信部3C认证，发证日期2026-11-06，支持100W有线快充与N79 5G频段，据数码博主透露即为卢伟冰确认将于12月单独发布的小米18标准版。该机独占台积电2nm骁龙8E6芯片（小米半年独占期），采用双2亿像素潜望三摄、6.4英寸1.5K直屏、7200mAh以上电池，砍掉Pro系列的妙享背屏与硬件防窥；受存储涨价与2nm成本影响，起步价预计上探至4999元或更高。</description>
-    </item>
-    <item>
-      <title>小米成立中国区公关部，360原公关副总裁张永生任总经理</title>
-      <link>https://finance.sina.cn/tech/2026-11-06/detail-inixvfew8841896.d.html</link>
-      <guid isPermaLink="true">https://finance.sina.cn/tech/2026-11-06/detail-inixvfew8841896.d.html</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0800</pubDate>
-      <description>新浪财经/澎湃新闻：小米集团发布最新组织及干部任命：集团公关部成立中国区公关部，任命张永生担任中国区公关部总经理，向集团公关部总经理徐洁云和集团高级副总裁、中国区总裁王晓雁双线汇报；同时任命曾洋担任集团公关部公关媒介部负责人，向徐洁云汇报。张永生曾在新京报任深度调查部副主编，2024年8月加入360任公关副总裁；曾洋早年任职央视财经，后历职京东、知乎、星纪魅族。</description>
+      <title>小米马来西亚第100家门店11月8日落户吉隆坡118 Mall开幕</title>
+      <link>https://mdroid.my/cn/2026/11/04/xiaomi-100th-store-118-mall-malaysia</link>
+      <guid isPermaLink="true">https://mdroid.my/cn/2026/11/04/xiaomi-100th-store-118-mall-malaysia</guid>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 +0800</pubDate>
+      <description>Mdroid 中文科技网：小米宣布马来西亚市场迎来里程碑，全国第100家门店正式落户吉隆坡118 Mall并于11月8日开幕；11月1日至9日推出限定优惠，指定产品低至半价，17系列最高优惠500马币，并设幸运转盘赢取手机等大奖。</description>
     </item>
   </channel>
 </rss>
