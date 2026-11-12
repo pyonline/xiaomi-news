@@ -6,21 +6,49 @@
     <atom:link href="https://pyonline.github.io/xiaomi-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>每日自动聚合的小米（Xiaomi）最新新闻</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 09 Nov 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 00:00:00 +0800</lastBuildDate>
     <generator>xiaomi-news skill</generator>
     <item>
-      <title>蓝牙技术联盟（Bluetooth SIG）成立中国实体，华为小米等牵头参与</title>
-      <link>https://bluetooth.com/blog/bluetooth-opens-an-entity-in-china</link>
-      <guid isPermaLink="true">https://bluetooth.com/blog/bluetooth-opens-an-entity-in-china</guid>
-      <pubDate>Sun, 08 Nov 2026 00:00:00 +0800</pubDate>
-      <description>蓝牙技术联盟官网/射频微波器件采购网：蓝牙技术联盟（Bluetooth SIG）宣布设立中国实体，华为、小米等企业牵头参与。小米软件部总经理张国全表示蓝牙技术在小米智能生态中扮演关键角色，期待进一步合作加速创新；联盟称将推动5G-A与AIoT标准制定提速、加强本地产业协作。</description>
+      <title>雷军宣布小米18 Pro国际版11月17日巴黎发布，背屏旗舰首次出海</title>
+      <link>https://www.163.com/dy/article/LBHC0OI8051191D6.html</link>
+      <guid isPermaLink="true">https://www.163.com/dy/article/LBHC0OI8051191D6.html</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0800</pubDate>
+      <description>CNMO科技/网易：11月12日雷军发文预热，小米18 Pro系列国际版将于11月17日14:00（GMT+1）在巴黎发布，标志性的妙享背屏将随此次发布首次登陆海外市场；同场还将推出小米Clip耳夹耳机、小米手环11、小米Watch S5 41mm及多款米家智能家电新品。国行版9月23日已发布，5999元起。</description>
     </item>
     <item>
-      <title>小米马来西亚第100家门店11月8日落户吉隆坡118 Mall开幕</title>
-      <link>https://mdroid.my/cn/2026/11/04/xiaomi-100th-store-118-mall-malaysia</link>
-      <guid isPermaLink="true">https://mdroid.my/cn/2026/11/04/xiaomi-100th-store-118-mall-malaysia</guid>
-      <pubDate>Sun, 08 Nov 2026 00:00:00 +0800</pubDate>
-      <description>Mdroid 中文科技网：小米宣布马来西亚市场迎来里程碑，全国第100家门店正式落户吉隆坡118 Mall并于11月8日开幕；11月1日至9日推出限定优惠，指定产品低至半价，17系列最高优惠500马币，并设幸运转盘赢取手机等大奖。</description>
+      <title>曝小米18标准版开启盲约，预计12月上旬正式上市</title>
+      <link>https://www.163.com/dy/article/LBHA7MNC051191D6.html</link>
+      <guid isPermaLink="true">https://www.163.com/dy/article/LBHA7MNC051191D6.html</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0800</pubDate>
+      <description>CNMO科技/网易：11月12日，据博主透露小米18标准版疑似已开启预售盲约，预计12月上旬推进。该机型号M261DB已通过工信部无线电解准，采用6.4英寸1.5K直屏、第六代骁龙8至尊版、2亿像素潜望长焦与100W快充，电池容量约7200-8000mAh，不配备Pro系列的背屏，预计12月亮相。</description>
+    </item>
+    <item>
+      <title>小米机器人论文入选顶会CoRL 2026 Oral，录用率仅约1%</title>
+      <link>https://news.qq.com/rain/a/20261112A05BP900</link>
+      <guid isPermaLink="true">https://news.qq.com/rain/a/20261112A05BP900</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0800</pubDate>
+      <description>腾讯新闻/CNMO科技：11月12日小米技术官方宣布，小米机器人事业部论文《PACE: Temporal-Role Tactile Conditioning for Chunk-Based Insertion Policies》被机器人学习顶会CoRL 2026录用并获选Oral；大会2094篇投稿仅21篇入选Oral（约1%）。该研究提出PACE触觉条件化策略框架，在钥匙、插头、USB、网口等五类插接任务平均成功率达90.7%。</description>
+    </item>
+    <item>
+      <title>小米双11全渠道累计支付金额突破290亿元，手机连续三年国产销量冠军</title>
+      <link>https://www.cnstock.com/commonDetail/586507</link>
+      <guid isPermaLink="true">https://www.cnstock.com/commonDetail/586507</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0800</pubDate>
+      <description>上海证券报/中国证券网：11月12日凌晨小米官方发布双11战报：截至11月11日23:59:59，全渠道累计支付金额突破290亿元；小米手机连续三年斩获国产手机销量第一，包揽各大电商平台国产手机销量冠军，小米17 Pro Max获6K+国产手机销量销售额双料冠军。雷军当日清晨发微博致谢。</description>
+    </item>
+    <item>
+      <title>小米集团-W 11月11日回购166万股，年内累计回购129.07亿港元</title>
+      <link>https://www.stcn.com/article/detail/4332577.html</link>
+      <guid isPermaLink="true">https://www.stcn.com/article/detail/4332577.html</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0800</pubDate>
+      <description>证券时报/数据宝：港交所公告显示，小米集团-W于11月11日以每股29.960-30.120港元回购166.00万股，涉资4987.89万港元；该股当日收跌1.63%。今年以来累计进行113次回购，合计4.25亿股，累计回购金额129.07亿港元。此前11月9日亦回购165.50万股。</description>
+    </item>
+    <item>
+      <title>花旗：小米18 Pro系列发布强化高端化及性价比定位，维持“买入”及目标价34港元</title>
+      <link>https://freequote.aastocks.com/tc/stocks/analysis/stock-aafn-con/1810/HK6/NOW.1546199/hk-stock-news</link>
+      <guid isPermaLink="true">https://freequote.aastocks.com/tc/stocks/analysis/stock-aafn-con/1810/HK6/NOW.1546199/hk-stock-news</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0800</pubDate>
+      <description>阿斯达克财经/AAStocks：花旗发表研报指，小米推出最新旗舰18 Pro/Pro Max，起售价5999元/6999元人民币，低于同级别竞争对手但规格可媲美或优于同业，认为本次发布强化高端化策略及性价比定位；维持“买入”评级及目标价34港元，下一步催化剂为出货数据及11月24日Q3业绩。</description>
     </item>
   </channel>
 </rss>
