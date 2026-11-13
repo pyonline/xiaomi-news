@@ -6,49 +6,35 @@
     <atom:link href="https://pyonline.github.io/xiaomi-news/rss.xml" rel="self" type="application/rss+xml"/>
     <description>每日自动聚合的小米（Xiaomi）最新新闻</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 12 Nov 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 00:00:00 +0800</lastBuildDate>
     <generator>xiaomi-news skill</generator>
     <item>
-      <title>雷军宣布小米18 Pro国际版11月17日巴黎发布，背屏旗舰首次出海</title>
-      <link>https://www.163.com/dy/article/LBHC0OI8051191D6.html</link>
-      <guid isPermaLink="true">https://www.163.com/dy/article/LBHC0OI8051191D6.html</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0800</pubDate>
-      <description>CNMO科技/网易：11月12日雷军发文预热，小米18 Pro系列国际版将于11月17日14:00（GMT+1）在巴黎发布，标志性的妙享背屏将随此次发布首次登陆海外市场；同场还将推出小米Clip耳夹耳机、小米手环11、小米Watch S5 41mm及多款米家智能家电新品。国行版9月23日已发布，5999元起。</description>
+      <title>小米官宣 REDMI 显示器 X27GQ 240Hz 现已开售：27英寸2K、1ms、FreeSync Premium</title>
+      <link>https://www.163.com/dy/article/LBITL5SF0531G57O.html</link>
+      <guid isPermaLink="true">https://www.163.com/dy/article/LBITL5SF0531G57O.html</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0800</pubDate>
+      <description>网易/科技衍生：小米11月13日官宣全新REDMI显示器X27GQ 240Hz现已开售。新品采用27英寸2560×1440（2K）Fast IPS屏，支持原生240Hz超高刷、1ms GTG响应、400尼特全屏高亮度、双重广色域与FreeSync Premium防撕裂，并配备战术辅助组件（暗场增强Pro、准星、夜视仪等），主打高画质高帧率游戏场景。</description>
     </item>
     <item>
-      <title>曝小米18标准版开启盲约，预计12月上旬正式上市</title>
-      <link>https://www.163.com/dy/article/LBHA7MNC051191D6.html</link>
-      <guid isPermaLink="true">https://www.163.com/dy/article/LBHA7MNC051191D6.html</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0800</pubDate>
-      <description>CNMO科技/网易：11月12日，据博主透露小米18标准版疑似已开启预售盲约，预计12月上旬推进。该机型号M261DB已通过工信部无线电解准，采用6.4英寸1.5K直屏、第六代骁龙8至尊版、2亿像素潜望长焦与100W快充，电池容量约7200-8000mAh，不配备Pro系列的背屏，预计12月亮相。</description>
+      <title>小米 Watch S5 41mm 海外（泰国）提前开售，原定随 11/17 全球发布会同台亮相</title>
+      <link>https://news.qq.com/rain/a/20261113A01AK900</link>
+      <guid isPermaLink="true">https://news.qq.com/rain/a/20261113A01AK900</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0800</pubDate>
+      <description>腾讯新闻/IT时代网：IT时代网11月13日消息，小米手表S5 41mm在海外市场的发售时间提前：原定11月17日与小米18 Pro系列全球发布会同台亮相，如今小米已在泰国率先开售这款手表并表示即刻可发货。提供铝合金表壳（黑/浅蓝）与陶瓷表壳（陶瓷白）版本，均配备峰值亮度3000尼特的AMOLED显示屏；该表一个多月前已在国内上市，其他海外市场开售安排尚未公布。</description>
     </item>
     <item>
-      <title>小米机器人论文入选顶会CoRL 2026 Oral，录用率仅约1%</title>
-      <link>https://news.qq.com/rain/a/20261112A05BP900</link>
-      <guid isPermaLink="true">https://news.qq.com/rain/a/20261112A05BP900</guid>
+      <title>里昂：预计小米Q3经调整净利润同比跌62%，盈利料Q4见底复苏，维持“跑赢大市”及目标价35港元</title>
+      <link>https://www.163.com/dy/article/LBIL4IUS05568W0A.html</link>
+      <guid isPermaLink="true">https://www.163.com/dy/article/LBIL4IUS05568W0A.html</guid>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0800</pubDate>
-      <description>腾讯新闻/CNMO科技：11月12日小米技术官方宣布，小米机器人事业部论文《PACE: Temporal-Role Tactile Conditioning for Chunk-Based Insertion Policies》被机器人学习顶会CoRL 2026录用并获选Oral；大会2094篇投稿仅21篇入选Oral（约1%）。该研究提出PACE触觉条件化策略框架，在钥匙、插头、USB、网口等五类插接任务平均成功率达90.7%。</description>
+      <description>网易/富途牛牛（里昂研报）：里昂(CLSA)11月12日发表报告指，小米第三季盈利或因中国消费疲弱及全球零部件成本上涨而进一步下滑，但预期第三季将见底，并于第四季随新产品推出开始复苏。该行预测第三季总收入及经调整净利润分别按年跌6.9%及62%，至1053亿及44亿元人民币；将2026及2027年经调整净利润预测分别下调13%及17%，维持“跑赢大市”评级，目标价维持35港元不变。</description>
     </item>
     <item>
-      <title>小米双11全渠道累计支付金额突破290亿元，手机连续三年国产销量冠军</title>
-      <link>https://www.cnstock.com/commonDetail/586507</link>
-      <guid isPermaLink="true">https://www.cnstock.com/commonDetail/586507</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0800</pubDate>
-      <description>上海证券报/中国证券网：11月12日凌晨小米官方发布双11战报：截至11月11日23:59:59，全渠道累计支付金额突破290亿元；小米手机连续三年斩获国产手机销量第一，包揽各大电商平台国产手机销量冠军，小米17 Pro Max获6K+国产手机销量销售额双料冠军。雷军当日清晨发微博致谢。</description>
-    </item>
-    <item>
-      <title>小米集团-W 11月11日回购166万股，年内累计回购129.07亿港元</title>
-      <link>https://www.stcn.com/article/detail/4332577.html</link>
-      <guid isPermaLink="true">https://www.stcn.com/article/detail/4332577.html</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0800</pubDate>
-      <description>证券时报/数据宝：港交所公告显示，小米集团-W于11月11日以每股29.960-30.120港元回购166.00万股，涉资4987.89万港元；该股当日收跌1.63%。今年以来累计进行113次回购，合计4.25亿股，累计回购金额129.07亿港元。此前11月9日亦回购165.50万股。</description>
-    </item>
-    <item>
-      <title>花旗：小米18 Pro系列发布强化高端化及性价比定位，维持“买入”及目标价34港元</title>
-      <link>https://freequote.aastocks.com/tc/stocks/analysis/stock-aafn-con/1810/HK6/NOW.1546199/hk-stock-news</link>
-      <guid isPermaLink="true">https://freequote.aastocks.com/tc/stocks/analysis/stock-aafn-con/1810/HK6/NOW.1546199/hk-stock-news</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0800</pubDate>
-      <description>阿斯达克财经/AAStocks：花旗发表研报指，小米推出最新旗舰18 Pro/Pro Max，起售价5999元/6999元人民币，低于同级别竞争对手但规格可媲美或优于同业，认为本次发布强化高端化策略及性价比定位；维持“买入”评级及目标价34港元，下一步催化剂为出货数据及11月24日Q3业绩。</description>
+      <title>摩根大通发行挂钩小米集团股份的牛熊证（代号68134）11/13 上市</title>
+      <link>https://finance.sina.com.cn/stock/aigc/hkgg/2026-11-11/doc-iniykkqa9044177.shtml</link>
+      <guid isPermaLink="true">https://finance.sina.com.cn/stock/aigc/hkgg/2026-11-11/doc-iniykkqa9044177.shtml</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0800</pubDate>
+      <description>新浪财经/港交所披露：小米集团公告称，J.P. Morgan Structured Products B.V.发行挂钩小米集团B类普通股的欧式现金结算R类牛证，证券代号68134，发行规模1.2亿份，每份发行价0.050港元，每手2万份；行使价29.100港元、赎回价29.500港元，观察起始日2026年11月13日，到期日2027年6月11日，由摩根大通银行无条件不可撤回担保，拟于联交所上市交易。</description>
     </item>
   </channel>
 </rss>
